@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-tools
+Binary: ros-one-jsk-tools
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.02.39
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-tools - Includes emacs scripts, ros tool alias generator, and launch doc
+Changes:
+ ros-one-jsk-tools (2.2.13-54-ge738ffd4-2025.11.24.02.39) bookworm; urgency=high
+Checksums-Sha1:
+ 9e0b0b7eb207e300338a064561f50759a4cfcf18 8848 ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.buildinfo
+ 07856cceeeb0148fbb244734936bd76329927e52 91036 ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.deb
+Checksums-Sha256:
+ c90e641fcdf73cccfebf9cc41344cf97e329e2281dae2daf481136a3cbc46f58 8848 ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.buildinfo
+ e2f0909a11c222178a39df943187f2105fc3573cfc7949cab85a3c1d060edce3 91036 ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.deb
+Files:
+ 9904562c224c528f914dfb0ff253585d 8848 misc optional ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.buildinfo
+ a9a3cd6db765d74aba59b7ed0ea96f91 91036 misc optional ros-one-jsk-tools_2.2.13-54-ge738ffd4-2025.11.24.02.39_amd64.deb

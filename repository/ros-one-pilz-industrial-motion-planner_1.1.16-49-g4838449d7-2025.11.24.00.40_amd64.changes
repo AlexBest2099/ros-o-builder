@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-pilz-industrial-motion-planner
+Binary: ros-one-pilz-industrial-motion-planner ros-one-pilz-industrial-motion-planner-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.24.00.40
+Distribution: bookworm
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-one-pilz-industrial-motion-planner (1.1.16-49-g4838449d7-2025.11.24.00.40) bookworm; urgency=high
+Checksums-Sha1:
+ 03110699ba4f58c12b22de4059b65794c6e40961 30824444 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb
+ fe3fc195e2c379bda63ad975101b6dcf02d1356c 25897 ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.buildinfo
+ b5b1a394e5541ced6955a3a067ad0c10f09be2ad 403592 ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb
+Checksums-Sha256:
+ 6cff9b51ea22d4356d6dd36725c2fb5b41b05f1f0caec6e155fe25b088b3065e 30824444 ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb
+ 271721eddfdf99edc47f4675a576b22d44d915f2e9cb7b6b28c9b4e3857e6b82 25897 ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.buildinfo
+ 16142784cf05abdaf3caffeaa6508652f2e8ff15b202d2d3e3bc6b6b38833f52 403592 ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb
+Files:
+ 582fc118d8d51ed7d70445bbbf8c6fd1 30824444 debug optional ros-one-pilz-industrial-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb
+ 381a7fc871965dfbf21651bfe8ae56a6 25897 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.buildinfo
+ f6e37a38c11ebb0e16c3318e5cc773a3 403592 misc optional ros-one-pilz-industrial-motion-planner_1.1.16-49-g4838449d7-2025.11.24.00.40_amd64.deb

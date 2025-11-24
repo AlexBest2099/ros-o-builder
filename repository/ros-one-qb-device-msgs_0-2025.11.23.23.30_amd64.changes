@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-msgs
+Binary: ros-one-qb-device-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.11.23.23.30
+Distribution: bookworm
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-msgs - This package contains the device-independent custom ROS messages
+Changes:
+ ros-one-qb-device-msgs (0-2025.11.23.23.30) bookworm; urgency=high
+Checksums-Sha1:
+ 3766e58310308407745c9a51f72ee1e25761dbca 8848 ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.buildinfo
+ 72224175971d41f828eb50d9a697113dc50d4ff8 38704 ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.deb
+Checksums-Sha256:
+ 76c32a5574dfd9c1017ddddba56bbe8bc1517928293f4badecf3c67b2699e4ce 8848 ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.buildinfo
+ 351a118627614973ef43334b033c1161224a4e0c06b1bb512e3d1d44b879b732 38704 ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.deb
+Files:
+ 1b4320fde0afb0afa1e08ff835e420c8 8848 misc optional ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.buildinfo
+ 722b7f5cdf846636f83a8f5ce76c4302 38704 misc optional ros-one-qb-device-msgs_0-2025.11.23.23.30_amd64.deb

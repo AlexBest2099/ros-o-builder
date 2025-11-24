@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 18 Jan 2021 00:00:00 -0000
+Source: ros-one-ddynamic-reconfigure
+Binary: ros-one-ddynamic-reconfigure ros-one-ddynamic-reconfigure-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.1-2-gd3e4c9f-2025.11.23.18.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Hilario Tome <hilario.tome@pal-robotics.com>
+Changed-By: Hilario Tome <hilario.tome@pal-robotics.com>
+Description:
+ ros-one-ddynamic-reconfigure - The ddynamic_reconfigure package
+Changes:
+ ros-one-ddynamic-reconfigure (0.4.1-2-gd3e4c9f-2025.11.23.18.46) bookworm; urgency=high
+ .
+   * Merge branch 'atomic-fix' into 'erbium-devel'
+     Fix missing atomic header
+     See merge request control/ddynamic_reconfigure!19
+   * Fix missing atomic header
+   * Update README about c++11 requirements
+   * Contributors: Adria Roig, Victor Lopez, victor
+Checksums-Sha1:
+ 5f52ca14dcb6190df5590259d19be7e620569b48 989920 ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb
+ 9b3b78ebf39d995de623b5f5436354549810d53b 14453 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.buildinfo
+ b5f15294da9e32a990b46e3510173fc24ff64f3b 68712 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb
+Checksums-Sha256:
+ 6d2a891467ee0cf9883adf2da62113d6b356a11ad8054d729ecb81b034617bcb 989920 ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb
+ 9662fbe4be274e25bbd0d2517175a94b2c8006fc2379083994121d2a7aee2a7b 14453 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.buildinfo
+ 8b2c60662dff1f30c885063e643f826f5908ddf19dee8f4aa4fd7357e3f1f48c 68712 ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb
+Files:
+ 5187758d670b396ed5a89864ffb330c3 989920 debug optional ros-one-ddynamic-reconfigure-dbgsym_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb
+ e364a5c549c29d5d66c2723318e506bc 14453 misc optional ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.buildinfo
+ 0126e53b55c7d2e1d32c686d05460d47 68712 misc optional ros-one-ddynamic-reconfigure_0.4.1-2-gd3e4c9f-2025.11.23.18.46_amd64.deb

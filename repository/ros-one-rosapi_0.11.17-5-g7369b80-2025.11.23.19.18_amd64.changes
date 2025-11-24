@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 10 Sep 2025 00:00:00 -0000
+Source: ros-one-rosapi
+Binary: ros-one-rosapi
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.11.17-5-g7369b80-2025.11.23.19.18
+Distribution: bookworm
+Urgency: high
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Changed-By: Russell Toris <rctoris@wpi.edu>
+Description:
+ ros-one-rosapi - Provides service calls for getting ros meta-information, like lis
+Changes:
+ ros-one-rosapi (0.11.17-5-g7369b80-2025.11.23.19.18) bookworm; urgency=high
+Checksums-Sha1:
+ 511f4ba881e3e118584fc8422ad71bcc6eab20e9 7751 ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.buildinfo
+ 60c1ae2ede4fb8b5ae9af3ecb23c9456e3177dcc 101972 ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.deb
+Checksums-Sha256:
+ 3500c8f00dc1f260437919701e6fac759436980212b4a4310f98508b60e6e54b 7751 ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.buildinfo
+ 4bd6e117e86035771537d52b631601335670dfdaf6f8b80c23fb2d05e5f6f651 101972 ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.deb
+Files:
+ 7be925a539e558032cfac73be5113e36 7751 misc optional ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.buildinfo
+ a9b56deac3e2603cebe4469613c36fac 101972 misc optional ros-one-rosapi_0.11.17-5-g7369b80-2025.11.23.19.18_amd64.deb

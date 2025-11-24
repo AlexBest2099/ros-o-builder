@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur-gazebo
+Binary: ros-one-ur-gazebo
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.03.12
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-gazebo - Gazebo wrapper for the Universal UR5/10 robot arms.
+Changes:
+ ros-one-ur-gazebo (1.5.0-1-gf2f8613-2025.11.24.03.12) bookworm; urgency=high
+ .
+   * Add support for UR15 (#702 <https://github.com/ros-industrial/universal_robot/issues/702>)
+   * Add License files to packages (#695 <https://github.com/ros-industrial/universal_robot/issues/695>)
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ 879c3f936731f18918ba5fbef2f57570c403acaa 7346 ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.buildinfo
+ 78035e5f31445ca81c8a083faa9fcd4cc15568eb 21760 ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.deb
+Checksums-Sha256:
+ 5b52db2d4fc39c0a9f452b559105a580ada44d6dd2634f684ae5954e1848f6af 7346 ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.buildinfo
+ 5a4c1ce7295813f4cdb6a3f63010879296324c8776233b1c8adcee82f273ed53 21760 ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.deb
+Files:
+ 973670855a5b9d9bbee2f2e158161911 7346 misc optional ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.buildinfo
+ 4801a4454b34f1818275e0323dd60034 21760 misc optional ros-one-ur-gazebo_1.5.0-1-gf2f8613-2025.11.24.03.12_amd64.deb

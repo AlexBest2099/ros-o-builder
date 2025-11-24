@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-interactive-test
+Binary: ros-one-jsk-interactive-test
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-103-g2f3a799-2025.11.24.09.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-interactive-test - jsk_interactive_test
+Changes:
+ ros-one-jsk-interactive-test (2.1.8-103-g2f3a799-2025.11.24.09.52) bookworm; urgency=high
+Checksums-Sha1:
+ 23dfdcdf03fa0650d25982747c487dd2e3cd3b1c 47231 ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.buildinfo
+ b8c45ee380954022d2dac003e63af99927310134 162476 ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.deb
+Checksums-Sha256:
+ 4d180c7d4769cb070283d7d3829cdeb7a1755e41a6c1794b918d641dcdef0a07 47231 ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.buildinfo
+ 414b9eb8b59d3ceafc2cfbbd0dd43d9cbe77cccb802e156a411c0824d5ca12b8 162476 ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.deb
+Files:
+ b3e615d62c35aac1d7027d92f3a95c8d 47231 misc optional ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.buildinfo
+ 2cee19f51400d318a95d632166c65cbb 162476 misc optional ros-one-jsk-interactive-test_2.1.8-103-g2f3a799-2025.11.24.09.52_amd64.deb

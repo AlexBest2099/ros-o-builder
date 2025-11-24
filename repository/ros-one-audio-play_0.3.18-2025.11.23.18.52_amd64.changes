@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-play
+Binary: ros-one-audio-play ros-one-audio-play-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.18-2025.11.23.18.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-play - Outputs audio to a speaker from a source node.
+Changes:
+ ros-one-audio-play (0.3.18-2025.11.23.18.52) bookworm; urgency=high
+ .
+   * Merge pull request #238 <https://github.com/ros-drivers/audio_common/issues/238> from Kanazawanaoaki/add-record-to-file-launch
+   * Add record to file launch
+   * Contributors: Kanazawanaoaki, Shingo Kitagawa
+Checksums-Sha1:
+ b1abc423d9470f1ba98ccc52a05d5f04ea59e02e 568588 ros-one-audio-play-dbgsym_0.3.18-2025.11.23.18.52_amd64.deb
+ 639b399e1273181e2f5f885d8624946949e91f76 13527 ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.buildinfo
+ 9781467ae538f41d0b809ef8dfefcb93c80b74b3 45788 ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.deb
+Checksums-Sha256:
+ c0205370020c897a1f0ed8d3adc62bb9173fae85810aed37a11c81d588777c0b 568588 ros-one-audio-play-dbgsym_0.3.18-2025.11.23.18.52_amd64.deb
+ 5813fd9c61f91f6b76a543f1740f16ff7857351dc29df88a9da28be4aa61add9 13527 ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.buildinfo
+ 52090f752d2cd46ffe5481d64541f30f1497c6ea404b8b85595e51116449f78d 45788 ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.deb
+Files:
+ 5b34f275cbd2e0a98937ca09821d9644 568588 debug optional ros-one-audio-play-dbgsym_0.3.18-2025.11.23.18.52_amd64.deb
+ 9a3da3ff1cc32325e6df5555a1d3d77e 13527 misc optional ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.buildinfo
+ c2fa3be429193b6fb0427a701a50a5b4 45788 misc optional ros-one-audio-play_0.3.18-2025.11.23.18.52_amd64.deb

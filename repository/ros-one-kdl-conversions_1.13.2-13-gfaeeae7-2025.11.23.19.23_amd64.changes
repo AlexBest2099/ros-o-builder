@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-kdl-conversions
+Binary: ros-one-kdl-conversions ros-one-kdl-conversions-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-13-gfaeeae7-2025.11.23.19.23
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-kdl-conversions - Conversion functions between KDL and geometry_msgs types.
+Changes:
+ ros-one-kdl-conversions (1.13.2-13-gfaeeae7-2025.11.23.19.23) bookworm; urgency=high
+Checksums-Sha1:
+ 4e4ba4f9f6f818d3044e54e3e48c53847c687ac7 24396 ros-one-kdl-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb
+ 385b455a20c843930d61324cb09edceb7ab042aa 9259 ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.buildinfo
+ e38ad3ae8c857a7a6b472294a47354652dcfed7e 10416 ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb
+Checksums-Sha256:
+ d5f1a6e6c95f2b6a159b6c10da328ae4b866abef52fa4beb2aa53ab9fd9f150d 24396 ros-one-kdl-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb
+ 0a5b2e31bb06e276cfc6471271a49088f1268bee43d382bf07fc22e25bc7efae 9259 ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.buildinfo
+ 3a5ea32918399de18d62f085b06898abab37eb45d6e8c30d780df82eb350f8f2 10416 ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb
+Files:
+ d8a771091129e19a859eb3d5a2d8b51d 24396 debug optional ros-one-kdl-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb
+ 54cc083522f07924314dd240f07dad02 9259 misc optional ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.buildinfo
+ 899dcbecd028433cb9905a3d747e07d3 10416 misc optional ros-one-kdl-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.23_amd64.deb

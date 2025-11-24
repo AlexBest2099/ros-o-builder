@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-rospatlite
+Binary: ros-one-rospatlite
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.06.56
+Distribution: bookworm
+Urgency: high
+Maintainer: Takuya Nakaoka <nakaokat@gmail.com>
+Changed-By: Takuya Nakaoka <nakaokat@gmail.com>
+Description:
+ ros-one-rospatlite - rospatlite
+Changes:
+ ros-one-rospatlite (2.1.31-19-g5d0b67f7-2025.11.24.06.56) bookworm; urgency=high
+Checksums-Sha1:
+ 2270c9197fa06580eacd728d3dc57e3ce8355a1f 11191 ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.buildinfo
+ 7846797756adcf2818ee059577907f9c566d120c 8084 ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.deb
+Checksums-Sha256:
+ 997d22e666a29465ec39af1dd3cb7438351e441f4885864f24ad22cb450eaa1b 11191 ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.buildinfo
+ 6fd308332a5f43afd110ef012f4d55bf086b2b747128d5bd7d67b800880296a0 8084 ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.deb
+Files:
+ 1af939d7a55687aee2fcf3df224ef19f 11191 misc optional ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.buildinfo
+ 6e68150ff8ab8400a4886a3a04d21e1d 8084 misc optional ros-one-rospatlite_2.1.31-19-g5d0b67f7-2025.11.24.06.56_amd64.deb

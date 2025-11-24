@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros
+Binary: ros-one-moveit-ros
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.22.42
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros - Components of MoveIt that use ROS
+Changes:
+ ros-one-moveit-ros (1.1.16-49-g4838449d7-2025.11.23.22.42) bookworm; urgency=high
+Checksums-Sha1:
+ eeb4d33db39376211ba9db535f7ca632ce117775 7364 ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.buildinfo
+ 542d51bad10c2a3b393257c7d09e2fc418b95413 3736 ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.deb
+Checksums-Sha256:
+ b5e59d637faa17c3d908a97345b52603e8f5b95f591eeb9f5af8c9e61adb426e 7364 ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.buildinfo
+ e7d403e10ab6cf77af60da79e766721d5c9150b7254b468121f837eec5452d01 3736 ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.deb
+Files:
+ 24c6feb959040547e29c0ddef719afd1 7364 misc optional ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.buildinfo
+ 5f980383478c32969db30907c18eac93 3736 misc optional ros-one-moveit-ros_1.1.16-49-g4838449d7-2025.11.23.22.42_amd64.deb

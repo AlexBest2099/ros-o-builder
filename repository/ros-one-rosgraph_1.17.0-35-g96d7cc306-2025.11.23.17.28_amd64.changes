@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rosgraph
+Binary: ros-one-rosgraph
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosgraph - rosgraph contains the rosgraph command-line tool, which prints in
+Changes:
+ ros-one-rosgraph (1.17.0-35-g96d7cc306-2025.11.23.17.28) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * rosgraph: update code from Python 3.11 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Jochen Sprickerhof, Matthias Klose
+Checksums-Sha1:
+ f6af216b77f631352752a07aa252d2be2bbda35e 7357 ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.buildinfo
+ 317b8298b2c8ebf5bc8b634208a197b8dde250fa 64292 ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.deb
+Checksums-Sha256:
+ 75c9af58a5a9d58023346482c79d510983288b1195a9f86212630d314791c917 7357 ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.buildinfo
+ 7b612fffcaa7442ded7145adf1171bd3e5b74aa23e6dd52cce63edd01ce6869a 64292 ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.deb
+Files:
+ 96d328a83d69a9eabbba6853754a182c 7357 misc optional ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.buildinfo
+ ae74a282625dc2a74fbb73ba088c1174 64292 misc optional ros-one-rosgraph_1.17.0-35-g96d7cc306-2025.11.23.17.28_amd64.deb

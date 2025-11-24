@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ff
+Binary: ros-one-ff ros-one-ff-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.04.42
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ff - ff: pddl planner.
+Changes:
+ ros-one-ff (2.1.31-19-g5d0b67f7-2025.11.24.04.42) bookworm; urgency=high
+Checksums-Sha1:
+ ebd57982a0e1cb7b4fda61bf56ad4d42488b1a48 241716 ros-one-ff-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb
+ 12c3e7c14a2b721b9e5550118ab1e2e743419333 10579 ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.buildinfo
+ 6da6c81dd5b31730467f12e75fbcacfc8eb87e89 118756 ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb
+Checksums-Sha256:
+ 324a577ec0ec89fa877da2967c4addf8980b27947e52ea688b0a77822e73ed14 241716 ros-one-ff-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb
+ 59a95520b4dc01298e124d9a8b54a4c361774090a85675fe380cece31e8d5c0c 10579 ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.buildinfo
+ 1788b0981318cc5041486cefcfe49b65fa8facfa9cd9b9f15560e563d4303d0f 118756 ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb
+Files:
+ 6f49720607cfe1bcdac64ba53e05880d 241716 debug optional ros-one-ff-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb
+ 32d9e2ad5286c3d06ec101fb7ef01b97 10579 misc optional ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.buildinfo
+ 22e83b89a72109388fcc30521d5bf3dc 118756 misc optional ros-one-ff_2.1.31-19-g5d0b67f7-2025.11.24.04.42_amd64.deb

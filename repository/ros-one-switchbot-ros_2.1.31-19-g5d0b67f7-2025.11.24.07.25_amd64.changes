@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-switchbot-ros
+Binary: ros-one-switchbot-ros ros-one-switchbot-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.07.25
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-switchbot-ros - use switchbot with ros
+Changes:
+ ros-one-switchbot-ros (2.1.31-19-g5d0b67f7-2025.11.24.07.25) bookworm; urgency=high
+Checksums-Sha1:
+ b3e012dc99c2325d4ce4100205551377be527c1b 579636 ros-one-switchbot-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb
+ 8dce054c7c695d3ed2462cc9654589068b3689ce 12942 ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.buildinfo
+ e1e7c8f029732d7ec794bca5fbc6b27cd79655a9 2580720 ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb
+Checksums-Sha256:
+ 6f2491347e04b7f46fabce6a3fa7ddef98994182f80b44001969fbde127b8a45 579636 ros-one-switchbot-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb
+ 5270471622bf06621d1ac41537e870f41561e39c1729ff8f6a12f877bc2224db 12942 ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.buildinfo
+ 334faec12de6b40f0724aa87445f997ff1a41c1d886db54f5f78eacc65d9f9ea 2580720 ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb
+Files:
+ bdda2dd2a8e360f2df5368ac7682e825 579636 debug optional ros-one-switchbot-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb
+ 489a37cf865549b74156eaf5fc666763 12942 misc optional ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.buildinfo
+ 91621ef13a9e0dba2bcd3df8edac65ee 2580720 misc optional ros-one-switchbot-ros_2.1.31-19-g5d0b67f7-2025.11.24.07.25_amd64.deb

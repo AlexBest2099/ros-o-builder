@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 22 Mar 2021 00:00:00 -0000
+Source: ros-one-driver-base
+Binary: ros-one-driver-base
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.6.9-2025.11.23.20.18
+Distribution: bookworm
+Urgency: high
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Changed-By: Chad Rockey <chadrockey@gmail.com>
+Description:
+ ros-one-driver-base - A framework for writing drivers that helps with runtime reconfigu
+Changes:
+ ros-one-driver-base (1.6.9-2025.11.23.20.18) bookworm; urgency=high
+Checksums-Sha1:
+ c6288ecffac830b6a7ac41b86546457b4568df7a 14117 ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.buildinfo
+ ee2c2ad8c1f83044a9a06bd473ae8c9ef2a8d8fc 25220 ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.deb
+Checksums-Sha256:
+ 738a05a05d7d28d38f3c6d17d9a25e0e3c7028ad4102fd84fe8c8f6ac0b0062f 14117 ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.buildinfo
+ 3bacf472011851b707adc569efb7312c7c14d3f7293e33198a064fb991043f56 25220 ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.deb
+Files:
+ 1789de82a312ceef6dc06d1c148de88e 14117 misc optional ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.buildinfo
+ 572b56daa6f231b32c0f834f90a70ad3 25220 misc optional ros-one-driver-base_1.6.9-2025.11.23.20.18_amd64.deb

@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-base-local-planner
+Binary: ros-one-base-local-planner ros-one-base-local-planner-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.3-4-gf44bb1fc-2025.11.23.20.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Changed-By: Michael Ferguson <mfergs7@gmail.com>
+Description:
+ ros-one-base-local-planner - This package provides implementations of the Trajectory Rollout a
+Changes:
+ ros-one-base-local-planner (1.17.3-4-gf44bb1fc-2025.11.23.20.44) bookworm; urgency=high
+ .
+   * [ROS-O] various patches (#1225 <https://github.com/ros-planning/navigation/issues/1225>)
+     * do not specify obsolete c++11 standard
+     this breaks with current versions of log4cxx.
+     * update pluginlib include paths
+     the non-hpp headers have been deprecated since kinetic
+     * use lambdas in favor of boost::bind
+     Using boost's _1 as a global system is deprecated since C++11.
+     The ROS packages in Debian removed the implicit support for the global symbols,
+     so this code fails to compile there without the patch.
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ 12212732c4393791cccf976512eaa6ec29f1c909 5627956 ros-one-base-local-planner-dbgsym_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb
+ 6093a3bed3a7b076f45872a1cb944233124a74b6 18540 ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.buildinfo
+ 7339fa1397284e41024c1fbd133cf173cf5f9357 235620 ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb
+Checksums-Sha256:
+ ebadae24faaf4c95d3a20a458d30cf7a6745e05fd7c8e49e89b34bdc526998ec 5627956 ros-one-base-local-planner-dbgsym_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb
+ 08fba1b3b0e8ff409fba2cd628c5ab6a97f292a1dc91f6570f779cba8af5f57e 18540 ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.buildinfo
+ d31f644aa69841744df4125f645fa5e5f36200fad675a255c35a16d3a9a7ed13 235620 ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb
+Files:
+ 85e4bd1c8e4fabaef02607575195c407 5627956 debug optional ros-one-base-local-planner-dbgsym_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb
+ 27f0f7e27602f660b407f742a7226bbe 18540 misc optional ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.buildinfo
+ 60a6fc40bcbf84b39740008467a1a058 235620 misc optional ros-one-base-local-planner_1.17.3-4-gf44bb1fc-2025.11.23.20.44_amd64.deb

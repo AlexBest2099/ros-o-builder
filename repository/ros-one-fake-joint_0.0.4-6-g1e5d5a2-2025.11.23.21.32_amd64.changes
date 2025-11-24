@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 18 Dec 2019 00:00:00 -0000
+Source: ros-one-fake-joint
+Binary: ros-one-fake-joint
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.0.4-6-g1e5d5a2-2025.11.23.21.32
+Distribution: bookworm
+Urgency: high
+Maintainer: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Changed-By: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Description:
+ ros-one-fake-joint - This metapackage depends on fake-joint related package for ros_co
+Changes:
+ ros-one-fake-joint (0.0.4-6-g1e5d5a2-2025.11.23.21.32) bookworm; urgency=high
+Checksums-Sha1:
+ e2b79082911cca9d8ab6316022c8f16e959dd8e0 7348 ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.buildinfo
+ 446876b91901ac48cc17604bccf638c3c585b49c 2364 ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.deb
+Checksums-Sha256:
+ 42303bd24ff443efb4d2fae43bd5a9348686158d126bd3dce88c43b7bd9608fd 7348 ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.buildinfo
+ 7a645b28b5fb5f3480359eacb5a5d3430e3b87f8ce32b4369708edbbaf64db6a 2364 ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.deb
+Files:
+ b0c6a79c81a6f738871c90eead1eaf1a 7348 misc optional ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.buildinfo
+ c9988519cf98060d78511750293a3f26 2364 misc optional ros-one-fake-joint_0.0.4-6-g1e5d5a2-2025.11.23.21.32_amd64.deb

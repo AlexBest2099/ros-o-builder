@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur18-moveit-config
+Binary: ros-one-ur18-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.02.18
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur18-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur18-moveit-config (1.5.0-1-gf2f8613-2025.11.24.02.18) bookworm; urgency=high
+Checksums-Sha1:
+ c1048b6cc108e94d470c2ffa150f016c1458ccba 7391 ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.buildinfo
+ 9d2102c8a532a6c930f220f40781e13c65dfc64d 15348 ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.deb
+Checksums-Sha256:
+ 5120fe659aaaa63407ceac530123f5b3a4a49ae1f3bbe60e3ae53fcb92a17946 7391 ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.buildinfo
+ 743133b579cbb2648159c95d35a889ef8297bb412db0b002cad68aa04a5aa43b 15348 ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.deb
+Files:
+ 0d42c10c9a6c94d54a46db64440d138d 7391 misc optional ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.buildinfo
+ 8f06b852fabcfd46168ab25e0b28a324 15348 misc optional ros-one-ur18-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.18_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosclean
+Binary: ros-one-rosclean
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.11.23.17.00
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosclean - rosclean: cleanup filesystem resources (e.g.
+Changes:
+ ros-one-rosclean (1.15.10-1-g99fd9bb7-2025.11.23.17.00) bookworm; urgency=high
+Checksums-Sha1:
+ 09fe73764763f8191b72101c342a68715c1005d5 7353 ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.buildinfo
+ 8959c292a7516d9728d653e7cf98dcbef2fc96fa 14900 ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.deb
+Checksums-Sha256:
+ 8cce21b23d20d4a18a0009a168b9601a9eea6a04be9b2caabd257a827a7f6df2 7353 ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.buildinfo
+ f0f1a6f811672f8577bf9c423329c63f2870624bd154e5def13646e4bb3fd68a 14900 ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.deb
+Files:
+ b43cc40e195bc1ae349fd3983ddde4b8 7353 misc optional ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.buildinfo
+ 48583145d246bf0990f364499e2aaaa1 14900 misc optional ros-one-rosclean_1.15.10-1-g99fd9bb7-2025.11.23.17.00_amd64.deb

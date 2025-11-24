@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-nodelet-core
+Binary: ros-one-nodelet-core
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.11.2-1-g5ed9cab-2025.11.23.19.03
+Distribution: bookworm
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet-core - Nodelet Core Metapackage
+Changes:
+ ros-one-nodelet-core (1.11.2-1-g5ed9cab-2025.11.23.19.03) bookworm; urgency=high
+Checksums-Sha1:
+ 1bd064ca1992c9d0f35ee37a12b125dba75890b5 7362 ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.buildinfo
+ 22297d559da87d3cb12662065af71313c099b832 3096 ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.deb
+Checksums-Sha256:
+ 60e966ba1b7ef7744262ee7e29c67b6977649aa5d217b439c5498c4be17092f7 7362 ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.buildinfo
+ a33d8c7785e713f3f2ae10f80cd5346c780937d413e237bf432b61c8aee10e0b 3096 ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.deb
+Files:
+ 0b7c953657b4a761d2926d1da83e60c5 7362 misc optional ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.buildinfo
+ e151d80695940b0419dae59b0f59a4b2 3096 misc optional ros-one-nodelet-core_1.11.2-1-g5ed9cab-2025.11.23.19.03_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 22 Jun 2022 00:00:00 -0000
+Source: ros-one-pr2-controller-interface
+Binary: ros-one-pr2-controller-interface
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.8.21-7-g3b10e3e-2025.11.23.20.51
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-controller-interface - This package specifies the interface to a realtime controller.
+Changes:
+ ros-one-pr2-controller-interface (1.8.21-7-g3b10e3e-2025.11.23.20.51) bookworm; urgency=high
+Checksums-Sha1:
+ 8c84e5c6beeb7af92b409ba5cbb52ef609cf9686 13363 ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.buildinfo
+ 6987913c3a40da79cb6c55d25da46950082a3354 7688 ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.deb
+Checksums-Sha256:
+ 5e509c0596ac98c6e1f6872dd5cd05249a588c1600b6f10c4c1473e91129d57f 13363 ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.buildinfo
+ 148685b380c2323c884becd040e7d2d1940f405960b12278976c85cbfdcb729c 7688 ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.deb
+Files:
+ bf433deaf1e797170ac707769fdad776 13363 misc optional ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.buildinfo
+ e7752eeea02d6d1b1079a6e665700383 7688 misc optional ros-one-pr2-controller-interface_1.8.21-7-g3b10e3e-2025.11.23.20.51_amd64.deb

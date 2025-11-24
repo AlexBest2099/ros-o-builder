@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-shape-msgs
+Binary: ros-one-shape-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-1-g092bc23-2025.11.23.17.38
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-shape-msgs - This package contains messages for defining shapes, such as simpl
+Changes:
+ ros-one-shape-msgs (1.13.2-1-g092bc23-2025.11.23.17.38) bookworm; urgency=high
+Checksums-Sha1:
+ 7833a528b8e9a627f1862d970f3117f35151c0bf 8955 ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.buildinfo
+ bbbd6de5ceef3ebb2e52e45f678e396f47c537c2 25892 ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.deb
+Checksums-Sha256:
+ 71e83e63aaf52ef4db8cf2a118465207cfac5da9a1fa96c82a706b7a7a5109ac 8955 ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.buildinfo
+ f9580da1899f537e32e4b95e568f18355e38985537f72ec9e6a1d90d2e4b2e2b 25892 ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.deb
+Files:
+ d24331538958faea92ecd48bb43d030d 8955 misc optional ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.buildinfo
+ 7eb369310b4fe8f10c33cb5375829c74 25892 misc optional ros-one-shape-msgs_1.13.2-1-g092bc23-2025.11.23.17.38_amd64.deb

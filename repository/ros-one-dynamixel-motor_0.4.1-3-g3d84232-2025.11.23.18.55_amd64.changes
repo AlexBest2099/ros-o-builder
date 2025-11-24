@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 19 Jan 2017 00:00:00 -0000
+Source: ros-one-dynamixel-motor
+Binary: ros-one-dynamixel-motor
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.1-3-g3d84232-2025.11.23.18.55
+Distribution: bookworm
+Urgency: high
+Maintainer: Antons Rebguns <arebgun@gmail.com>
+Changed-By: Antons Rebguns <arebgun@gmail.com>
+Description:
+ ros-one-dynamixel-motor - This stack contains packages that are used to interface with Robo
+Changes:
+ ros-one-dynamixel-motor (0.4.1-3-g3d84232-2025.11.23.18.55) bookworm; urgency=high
+Checksums-Sha1:
+ 5c0da736093c4adae6418814a6d4e3f6cc27fcba 7373 ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.buildinfo
+ 023427db0e42cca019f6d91ae4fd9874d075fdd1 2304 ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.deb
+Checksums-Sha256:
+ 1bc0acc436b57d293c62af994f5e903ddf9221ecd378920f90c9e11934236421 7373 ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.buildinfo
+ daec230f682af8658232ec93d078b8756f158948cd586c1b99b39b563a5aa0d6 2304 ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.deb
+Files:
+ b9d5321d9462fd00c6988c107b9b9cc9 7373 misc optional ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.buildinfo
+ 3ecbc37b427e1f05b999210fafdce205 2304 misc optional ros-one-dynamixel-motor_0.4.1-3-g3d84232-2025.11.23.18.55_amd64.deb

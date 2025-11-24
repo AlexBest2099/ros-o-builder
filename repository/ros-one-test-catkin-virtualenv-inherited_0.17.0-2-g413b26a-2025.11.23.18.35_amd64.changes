@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 30 Sep 2025 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv-inherited
+Binary: ros-one-test-catkin-virtualenv-inherited ros-one-test-catkin-virtualenv-inherited-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.17.0-2-g413b26a-2025.11.23.18.35
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv-inherited - Test to make sure a package inherits it's dependency's dependenci
+Changes:
+ ros-one-test-catkin-virtualenv-inherited (0.17.0-2-g413b26a-2025.11.23.18.35) bookworm; urgency=high
+Checksums-Sha1:
+ 5921aae6f424b10ed940f06edfae303088a650de 588212 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb
+ 84da61ff14e03ec9f714475a17be830f00c2a71c 9941 ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.buildinfo
+ 5d44be546ad35b1947e802a5314d85226872a286 2741828 ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb
+Checksums-Sha256:
+ 78cd65b089ad8a15a8be703822529b44267c83bdc4371bbd8f67292fac4d34df 588212 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb
+ 34a38b96e94a8eaf96d6fd3fced082db745991595acb6011d9977c34e9aeaee8 9941 ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.buildinfo
+ eef690cf4e1b062dfafd129172ee12c7c12a356882a34a811adc5c3f0021e09a 2741828 ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb
+Files:
+ 29126089a723791ab5bb7b0f5d744e92 588212 debug optional ros-one-test-catkin-virtualenv-inherited-dbgsym_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb
+ 308d1a602309d217fb6547dce75f6514 9941 misc optional ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.buildinfo
+ 19d7cf4a570099b33e7c1b3a287193ff 2741828 misc optional ros-one-test-catkin-virtualenv-inherited_0.17.0-2-g413b26a-2025.11.23.18.35_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-voice-text
+Binary: ros-one-voice-text ros-one-voice-text-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.07.31
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-voice-text - The ROS package for VoiceText, ReadSpeaker (https://readspeaker.j
+Changes:
+ ros-one-voice-text (2.1.31-19-g5d0b67f7-2025.11.24.07.31) bookworm; urgency=high
+ .
+   * add LICENSE files
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 90e8597996b4163f6705c684098d4b4d185da244 1116168 ros-one-voice-text-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb
+ 26f8c9b3236312b5f5b077ba8377ff25cd1c9f83 14387 ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.buildinfo
+ daced7589a04e690bbe7af51dd51f823bb18574e 96040 ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb
+Checksums-Sha256:
+ 4e330377483db61da3cc11d615aad3ed12d58b544aceb77847479998365e4705 1116168 ros-one-voice-text-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb
+ b4a278b5614da8802d573749e91ff204dd03f059894c9f1e72486eb7f88390da 14387 ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.buildinfo
+ 2e16a3450d0809ed8363dced223099189feb5669d1c61199cf8723949a3d9571 96040 ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb
+Files:
+ ccf78bb61660018a0f9ef77703d97888 1116168 debug optional ros-one-voice-text-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb
+ 70f58435abe256de192696731b0065d1 14387 misc optional ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.buildinfo
+ db9fe884f8783942639ea68c995e04eb 96040 misc optional ros-one-voice-text_2.1.31-19-g5d0b67f7-2025.11.24.07.31_amd64.deb

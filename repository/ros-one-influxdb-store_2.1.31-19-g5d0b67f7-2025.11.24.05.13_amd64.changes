@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-influxdb-store
+Binary: ros-one-influxdb-store
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.05.13
+Distribution: bookworm
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-influxdb-store - The influxdb_store package
+Changes:
+ ros-one-influxdb-store (2.1.31-19-g5d0b67f7-2025.11.24.05.13) bookworm; urgency=high
+Checksums-Sha1:
+ 085a5e5e493b2fc492b410de02da1825898feb5e 7383 ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.buildinfo
+ 25a88bd81c4ab646834c9f7a53d796bc0eba1d3b 15052 ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.deb
+Checksums-Sha256:
+ 9bb539d9aa37c2935b0871dfff7723e8d4a7623475a1c3bc93d4e7e033624b66 7383 ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.buildinfo
+ 7214391f1df24c2f8392330b59e3284bb15d203e615c310ddf58cbca44216074 15052 ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.deb
+Files:
+ ceaec6ca881ad5181b2a1152466f673e 7383 misc optional ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.buildinfo
+ 95dff16234794afc01516440127b90d5 15052 misc optional ros-one-influxdb-store_2.1.31-19-g5d0b67f7-2025.11.24.05.13_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-topic-tools
+Binary: ros-one-topic-tools ros-one-topic-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.18.06
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-topic-tools - Tools for directing, throttling, selecting, and otherwise messing
+Changes:
+ ros-one-topic-tools (1.17.0-35-g96d7cc306-2025.11.23.18.06) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ add0a76d19339619b094afbd4b9bd4c99ff957e2 2710796 ros-one-topic-tools-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb
+ c59d3fe7390dc3899a91f831757e8ab5a0ebf6fd 12278 ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.buildinfo
+ 757cde76477d6ef99f5fcb7c156485df651141d6 165480 ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb
+Checksums-Sha256:
+ 5ff4745907174eb8c6d9ba4bd6b20da8908517b7e718b1c5dbd84668939e7bea 2710796 ros-one-topic-tools-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb
+ 7144fc330e88b620d5ec075275be487a0a66e04aba5da65b92911d03528b90ec 12278 ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.buildinfo
+ 879a59ba1d7b71145d8f3ebd50512c62db3dcd9fa8d3203fa9ac9ecef1d4dae3 165480 ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb
+Files:
+ b6e2de84209eba413137d446540e296d 2710796 debug optional ros-one-topic-tools-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb
+ 136ada0d608f0306f2b342961a255ccf 12278 misc optional ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.buildinfo
+ ec026226e9ebe1a846b2fe7e5d886160 165480 misc optional ros-one-topic-tools_1.17.0-35-g96d7cc306-2025.11.23.18.06_amd64.deb

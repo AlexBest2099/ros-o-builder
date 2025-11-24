@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 13 Dec 2021 00:00:00 -0000
+Source: ros-one-jsk-roseus
+Binary: ros-one-jsk-roseus
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.5-102-g71bc6fd-2025.11.24.08.45
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-roseus - Metapackage that contains roseus package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-roseus (1.7.5-102-g71bc6fd-2025.11.24.08.45) bookworm; urgency=high
+Checksums-Sha1:
+ 002aa9a76a5eee31c251ea491ebe0f9e40258c3f 7356 ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.buildinfo
+ aa0fb7c1ac4f923c39ad2ecec9f6f7cd8faba412 2972 ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.deb
+Checksums-Sha256:
+ 86d65022ba9f4e544e26efe9d6e2d502e25ad9e996ff114a74c63c6b58613e51 7356 ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.buildinfo
+ c69079a3d6ab8fd13a8edb6eec06675c6bf89fb6cea8983d7bbdee8ea234538c 2972 ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.deb
+Files:
+ 074cdc50aead9eae7d4a6c1c0f8902e7 7356 misc optional ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.buildinfo
+ ff6636badc595e595459d0f28280f8bf 2972 misc optional ros-one-jsk-roseus_1.7.5-102-g71bc6fd-2025.11.24.08.45_amd64.deb

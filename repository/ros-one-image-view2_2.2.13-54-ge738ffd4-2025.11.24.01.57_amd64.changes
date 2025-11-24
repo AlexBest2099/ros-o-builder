@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-image-view2
+Binary: ros-one-image-view2 ros-one-image-view2-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.01.57
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-image-view2 - A simple viewer for ROS image topics with draw-on features
+Changes:
+ ros-one-image-view2 (2.2.13-54-ge738ffd4-2025.11.24.01.57) bookworm; urgency=high
+Checksums-Sha1:
+ cd608b3e42df4c3b66175703163d4bbb7dc29188 4493856 ros-one-image-view2-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb
+ 05d8784d92965ba694e9526b11d478af931ff32f 38688 ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.buildinfo
+ fb7b057892a82a9ce729db34f384b9c9613cf8d3 289172 ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb
+Checksums-Sha256:
+ 01488384b486b77a8d2010613dec07238b1f85a59a56db91527589741b8fadb1 4493856 ros-one-image-view2-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb
+ 89ee67e3c5fd58653d065cf8e0007838712ec620ab0657a7836484a99a92558e 38688 ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.buildinfo
+ 4f5101b91b12897f93e359e938c28681f13878e77167814620efc4a0fd01cc51 289172 ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb
+Files:
+ 35757be805e207bcca5ae382a8908ba1 4493856 debug optional ros-one-image-view2-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb
+ 64d4d786a9e70676f45e3a6bd338bf75 38688 misc optional ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.buildinfo
+ 32f81ec3a0938677dfdc4abad604c007 289172 misc optional ros-one-image-view2_2.2.13-54-ge738ffd4-2025.11.24.01.57_amd64.deb

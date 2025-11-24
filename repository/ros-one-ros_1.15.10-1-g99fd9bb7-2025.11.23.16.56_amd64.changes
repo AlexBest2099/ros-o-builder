@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-ros
+Binary: ros-one-ros
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.11.23.16.56
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-ros - ROS packaging system
+Changes:
+ ros-one-ros (1.15.10-1-g99fd9bb7-2025.11.23.16.56) bookworm; urgency=high
+Checksums-Sha1:
+ eaf681cbc62d0ade370c7d8ae1158ef532bb60db 7325 ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.buildinfo
+ d423b731d620758309ef1822345fe63f58893821 2200 ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.deb
+Checksums-Sha256:
+ 176d03bd41e208d50d983c4dcc3dcad0ef2cb4e079d919b021d380fc589f9008 7325 ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.buildinfo
+ 95aa9a3a55697d2f8b7e09df7e6ca598bb98b7a02ce2c7d18ea1600cf417de95 2200 ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.deb
+Files:
+ 90a389e6c12f3b73864579831add3b14 7325 misc optional ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.buildinfo
+ 188669e8d50c3c385d115ebf2862f782 2200 misc optional ros-one-ros_1.15.10-1-g99fd9bb7-2025.11.23.16.56_amd64.deb

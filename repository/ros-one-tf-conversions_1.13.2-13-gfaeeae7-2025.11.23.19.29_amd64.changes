@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf-conversions
+Binary: ros-one-tf-conversions ros-one-tf-conversions-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-13-gfaeeae7-2025.11.23.19.29
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf-conversions - This package contains a set of conversion functions to convert co
+Changes:
+ ros-one-tf-conversions (1.13.2-13-gfaeeae7-2025.11.23.19.29) bookworm; urgency=high
+Checksums-Sha1:
+ c8f656310629fc8e043ec842c7905f328dc286b1 122088 ros-one-tf-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb
+ bc85bbffbe26f6893b79425026fe92a12539b99f 17827 ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.buildinfo
+ 6dd00042d0a604cfdf3a456a937c1d4863bb5fd5 18212 ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb
+Checksums-Sha256:
+ 798fd8af3273d3851db83dcb8119bccf3db0feb5f48ed13c9d708af0173e6033 122088 ros-one-tf-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb
+ bbb7d68bc1d09b08dcdad77ef0da9e628db13ab99238211422ea3ba0fbd07ccc 17827 ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.buildinfo
+ 3301cecf3a9852e63d4623fef587dfd9741259073325395e40dd40ebb1008d3a 18212 ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb
+Files:
+ 67d1e979657e5fa704f63fc9c8c53081 122088 debug optional ros-one-tf-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb
+ 9aff191ff480a16e3a918534a5bdc4a2 17827 misc optional ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.buildinfo
+ f573cb8ec830cc4fff1166172579e8e7 18212 misc optional ros-one-tf-conversions_1.13.2-13-gfaeeae7-2025.11.23.19.29_amd64.deb

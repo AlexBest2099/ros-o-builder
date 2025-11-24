@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-roslang
+Binary: ros-one-roslang
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.11.23.17.02
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-roslang - roslang is a common package that all ROS client libraries depend
+Changes:
+ ros-one-roslang (1.15.10-1-g99fd9bb7-2025.11.23.17.02) bookworm; urgency=high
+Checksums-Sha1:
+ 4dc0ca69f7ba6fc768ba5f7f79a39eb11ce2b1bd 7345 ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.buildinfo
+ e4da5267f6a7b8ce161599406a6c2cee84473a98 6480 ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.deb
+Checksums-Sha256:
+ 8a5f5e96ae4b65f10e647830a75718c621489b3098f4da484ebfd221c741e84f 7345 ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.buildinfo
+ 0bea003f9a1fe3877307aeeee5fcf50e076fc87117ecfadcbbcde1bc4176e32e 6480 ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.deb
+Files:
+ 94d0a704873a40155b0b4e1e2b728a3a 7345 misc optional ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.buildinfo
+ 2f3895027da85904fd82b5d9ec03dce9 6480 misc optional ros-one-roslang_1.15.10-1-g99fd9bb7-2025.11.23.17.02_amd64.deb

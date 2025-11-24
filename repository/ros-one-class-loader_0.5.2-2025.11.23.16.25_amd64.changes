@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-class-loader
+Binary: ros-one-class-loader ros-one-class-loader-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-2025.11.23.16.25
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-class-loader - The class_loader package is a ROS-independent package for loading
+Changes:
+ ros-one-class-loader (0.5.2-2025.11.23.16.25) bookworm; urgency=high
+ .
+   * Fix shebang line for python3 (#158 <https://github.com/ros/class_loader/issues/158>)
+   * Suppress sanitizer warning about (expected) leak (#220 <https://github.com/ros/class_loader/issues/220>)
+   * Fix shebang for class_loader_headers_update.py (#180 <https://github.com/ros/class_loader/issues/180>) (#219 <https://github.com/ros/class_loader/issues/219>)
+   * Contributors: Mikael Arguedas, Shane Loretz
+Checksums-Sha1:
+ c004d6493732e43fd19f3edda79ef9f5b01cecb8 768280 ros-one-class-loader-dbgsym_0.5.2-2025.11.23.16.25_amd64.deb
+ 0b948fa77b6346e13a0ad70e6d27d64e70e97c7e 9980 ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.buildinfo
+ 0bc37e5ce32a58eda470a74bf911b0e15a45b8cb 65376 ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.deb
+Checksums-Sha256:
+ 7f8be1ff14447e223cb8087b84ac736d97cc0cbac65e789c01198337234c785a 768280 ros-one-class-loader-dbgsym_0.5.2-2025.11.23.16.25_amd64.deb
+ f311293393ab5c1938e044597346959380bfb7c7e256ddad2a726ffb4def3db0 9980 ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.buildinfo
+ 8958d2ceb2f045b2f834cc20fd077aed63c03c05acf3d49d75f1eba8a719a91c 65376 ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.deb
+Files:
+ c68f602c04e9513dc793b29633935bcd 768280 debug optional ros-one-class-loader-dbgsym_0.5.2-2025.11.23.16.25_amd64.deb
+ d000312b3a6f9fcfed45d58e93a83c19 9980 misc optional ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.buildinfo
+ f0039e7fd358739619beac4d57904d48 65376 misc optional ros-one-class-loader_0.5.2-2025.11.23.16.25_amd64.deb

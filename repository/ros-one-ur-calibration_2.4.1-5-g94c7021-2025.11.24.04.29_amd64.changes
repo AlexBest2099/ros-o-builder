@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 20 May 2025 00:00:00 -0000
+Source: ros-one-ur-calibration
+Binary: ros-one-ur-calibration ros-one-ur-calibration-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.4.1-5-g94c7021-2025.11.24.04.29
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-calibration - Package for extracting the factory calibration from a UR robot an
+Changes:
+ ros-one-ur-calibration (2.4.1-5-g94c7021-2025.11.24.04.29) bookworm; urgency=high
+Checksums-Sha1:
+ 178bdf8fd03555855e8156bdb3fa06b7d71d9c33 1848716 ros-one-ur-calibration-dbgsym_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb
+ 6f9b0a622096cdf6b0747fa3b84ea939f1035e8b 31000 ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.buildinfo
+ d9a822309d7429165e29f86140cdb1c66b9adedf 74324 ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb
+Checksums-Sha256:
+ b86b34d0d8ac6c3c34bed23ffe7d723811439dbf479f160332ebe51b36919dec 1848716 ros-one-ur-calibration-dbgsym_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb
+ d7633b7c64b530b02b26b1ad5cda845c97ed4ede6cfad8b140925a15982691dc 31000 ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.buildinfo
+ 5db331c885f8afce46bd2dde689ab2d0afe0f8596daf24938d100fbf7971dedf 74324 ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb
+Files:
+ 3d981600693bb5307dbf58d858e81801 1848716 debug optional ros-one-ur-calibration-dbgsym_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb
+ 28ccc98e75c87ba68a3d8b1eac5d20cf 31000 misc optional ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.buildinfo
+ 6d3c8c4c6217c1a5c1cebd3ae602d433 74324 misc optional ros-one-ur-calibration_2.4.1-5-g94c7021-2025.11.24.04.29_amd64.deb

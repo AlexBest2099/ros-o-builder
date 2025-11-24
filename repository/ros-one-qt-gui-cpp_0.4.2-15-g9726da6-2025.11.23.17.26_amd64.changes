@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-qt-gui-cpp
+Binary: ros-one-qt-gui-cpp ros-one-qt-gui-cpp-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.2-15-g9726da6-2025.11.23.17.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-cpp - qt_gui_cpp provides the foundation for C++-bindings for qt_gui an
+Changes:
+ ros-one-qt-gui-cpp (0.4.2-15-g9726da6-2025.11.23.17.26) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#303 <https://github.com/ros-visualization/qt_gui_core/issues/303>)
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ e4614435fb18a1cce2fc22986aef965c0c3fd6b5 12400112 ros-one-qt-gui-cpp-dbgsym_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb
+ ea60d24eb698be76736862e1131b7c5d193b48b8 17134 ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.buildinfo
+ 8e03bc90d32579aed2ec3187fcdbb46a183a21dc 261576 ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb
+Checksums-Sha256:
+ bd2e9425d28c4c4ac05f5fc8e60ce4c56a669fcdcf44365725f4bf3324647580 12400112 ros-one-qt-gui-cpp-dbgsym_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb
+ edb32b8f71d15ac830706face9ebc4c39673fa968420d4572d1c97b6d1fcbe07 17134 ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.buildinfo
+ 7b6e3d6a88f3bcade9f8a8418a447f9153237020441bbcf809a6366917206a52 261576 ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb
+Files:
+ 9bc14738d213e48d6a5b575acb69ae43 12400112 debug optional ros-one-qt-gui-cpp-dbgsym_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb
+ 2bed9560076199da4113415234eeec7a 17134 misc optional ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.buildinfo
+ d84e2dee92cab46a84fae61e6381db1f 261576 misc optional ros-one-qt-gui-cpp_0.4.2-15-g9726da6-2025.11.23.17.26_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-audio-to-spectrogram
+Binary: ros-one-audio-to-spectrogram
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.17-48-ge83c5ad6-2025.11.24.08.03
+Distribution: bookworm
+Urgency: high
+Maintainer: Naoya Yamaguchi <yamaguchi@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Naoya Yamaguchi <yamaguchi@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-audio-to-spectrogram - Convert audio (audio_common_msgs/AudioData) to spectrogram (senso
+Changes:
+ ros-one-audio-to-spectrogram (1.2.17-48-ge83c5ad6-2025.11.24.08.03) bookworm; urgency=high
+Checksums-Sha1:
+ 25b73630694016ae35cbe0fb251689183ebbf691 14029 ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.buildinfo
+ d12fc7e80757316c5daf5d7a9b86fb83a69ec2e7 723792 ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.deb
+Checksums-Sha256:
+ b4834ad6cf3d4c7c1c50e4f11a355ce50f15330bf1bc1a7e2fba1e683f259802 14029 ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.buildinfo
+ 0eb2fcf9f2851528eda92aa423366c1e801ae7cc0cd76839690b0ccc89aec323 723792 ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.deb
+Files:
+ 2be05f0a02d96e45116795745e06c4ec 14029 misc optional ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.buildinfo
+ 42973dae3d6268cd6876caa86a9f3244 723792 misc optional ros-one-audio-to-spectrogram_1.2.17-48-ge83c5ad6-2025.11.24.08.03_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 00:00:00 -0000
+Source: ros-one-openni2-camera
+Binary: ros-one-openni2-camera ros-one-openni2-camera-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.11.23.22.40
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-openni2-camera - Drivers for the Asus Xtion and Primesense Devices.
+Changes:
+ ros-one-openni2-camera (0-2025.11.23.22.40) bookworm; urgency=high
+Checksums-Sha1:
+ 1f4ffa90ed20181d8ac339c24495c3bdd671b99b 2657228 ros-one-openni2-camera-dbgsym_0-2025.11.23.22.40_amd64.deb
+ 0722380e540ff4a975de7fc8e7b8b6c75ebfd7b1 19541 ros-one-openni2-camera_0-2025.11.23.22.40_amd64.buildinfo
+ 313571faaf8d7b2fc281bde730dc2964a263af0d 184396 ros-one-openni2-camera_0-2025.11.23.22.40_amd64.deb
+Checksums-Sha256:
+ fa6e61f2a62b3384ceaa41022ebfd9607c2e0f828c6baf497ba0e48337064b71 2657228 ros-one-openni2-camera-dbgsym_0-2025.11.23.22.40_amd64.deb
+ 90695f0fb000b96a37937383a91b8a5377f1cdd332d788e5171319fb0287e0d2 19541 ros-one-openni2-camera_0-2025.11.23.22.40_amd64.buildinfo
+ 9b56a3527db343760a6901aac36ad8a12a41c4fb5dad559f8aae22df5ae4a6d0 184396 ros-one-openni2-camera_0-2025.11.23.22.40_amd64.deb
+Files:
+ c86396549e9686c12e184afe2648fa47 2657228 debug optional ros-one-openni2-camera-dbgsym_0-2025.11.23.22.40_amd64.deb
+ 560956641fe9caaae48d9fc3886acd1c 19541 misc optional ros-one-openni2-camera_0-2025.11.23.22.40_amd64.buildinfo
+ 722d6beecf47a2099273566aedc89bce 184396 misc optional ros-one-openni2-camera_0-2025.11.23.22.40_amd64.deb

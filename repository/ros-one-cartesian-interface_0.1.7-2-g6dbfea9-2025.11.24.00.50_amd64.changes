@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-interface
+Binary: ros-one-cartesian-interface
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.7-2-g6dbfea9-2025.11.24.00.50
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <mauch@fzi.de>
+Changed-By: Felix Exner <mauch@fzi.de>
+Description:
+ ros-one-cartesian-interface - Defines a hardware interface to send Cartesian commands to a robo
+Changes:
+ ros-one-cartesian-interface (0.1.7-2-g6dbfea9-2025.11.24.00.50) bookworm; urgency=high
+Checksums-Sha1:
+ 2e72a9a8e2b9cdb58cf33c32c2f44f8d26d23e3f 10088 ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.buildinfo
+ 172597bf7968eaf98cee3d211cf544c130e2aa58 7328 ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.deb
+Checksums-Sha256:
+ dbdf30a2af89b85cc2bb090d80d05189c11dac319d52d352563009b655347a8e 10088 ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.buildinfo
+ 3a867b1ed226a4524a46691cf989ffb32035023c3c3fb68935bf1eb41b342a26 7328 ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.deb
+Files:
+ d6b57d9bd4730bc14de16a61e7d858a2 10088 misc optional ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.buildinfo
+ a6f0cb76aa4a6c0c9f5c1fc4f8d36fab 7328 misc optional ros-one-cartesian-interface_0.1.7-2-g6dbfea9-2025.11.24.00.50_amd64.deb

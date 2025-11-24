@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf2-bullet
+Binary: ros-one-tf2-bullet
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-32-gcbdb3f9-2025.11.23.18.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-bullet - tf2_bullet
+Changes:
+ ros-one-tf2-bullet (0.7.5-32-gcbdb3f9-2025.11.23.18.52) bookworm; urgency=high
+Checksums-Sha1:
+ d7dea44e4afe6aab528f985574264550db35a2ce 9191 ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.buildinfo
+ 120d10dfabdb90309a162e76744fa28521585802 8824 ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.deb
+Checksums-Sha256:
+ 07b119400eba31c7553ed094c6877046d23cf3cc429ca975c06824eb69322858 9191 ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.buildinfo
+ 8929325410c1cb728418a5a4d09517b2f45bb4b34cc06ee0f4a5f7ec1b86596f 8824 ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.deb
+Files:
+ e87583cf6e2d273976606a9c58174102 9191 misc optional ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.buildinfo
+ 5543bd753f862f7a7c386020ea195315 8824 misc optional ros-one-tf2-bullet_0.7.5-32-gcbdb3f9-2025.11.23.18.52_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur5-moveit-config
+Binary: ros-one-ur5-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.02.44
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur5-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur5-moveit-config (1.5.0-1-gf2f8613-2025.11.24.02.44) bookworm; urgency=high
+ .
+   * Add License files to packages (#695 <https://github.com/ros-industrial/universal_robot/issues/695>)
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ 6edef2edba8ad72c07b2d1dff67d14ad7194bede 7386 ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.buildinfo
+ 6cf7212d6bb9cde89f96b15ec776aed8ae9c69d9 17760 ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.deb
+Checksums-Sha256:
+ 31122373305eec91c44ca5556279ab6ee645b03088234eff9538b017ee6b2619 7386 ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.buildinfo
+ 93dbce248330551b3f4cedf66cf4089af1082ecd41eca8ae99791f117504fa57 17760 ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.deb
+Files:
+ c5fc126fc2ad49a326e1d1b2b3f61157 7386 misc optional ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.buildinfo
+ 53b62ed584f92925b31eb28e463f29e0 17760 misc optional ros-one-ur5-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.44_amd64.deb

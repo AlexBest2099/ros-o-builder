@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-jsk-common-msgs
+Binary: ros-one-jsk-common-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.11.23.18.50
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-common-msgs - Metapackage that contains commonly used messages for jsk-ros-pkg
+Changes:
+ ros-one-jsk-common-msgs (4.3.2-13-g093b57c-2025.11.23.18.50) bookworm; urgency=high
+Checksums-Sha1:
+ 373f295aa58485a33ae4ab1b189f3374479ed3d2 7377 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.buildinfo
+ bddddb0ec7c8b70b2f9a56ff24f74a680f4a55f3 2804 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.deb
+Checksums-Sha256:
+ 1874efa27e4d63972acb13fd07a58983eafe9cada5ed8fc58421d021754c774f 7377 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.buildinfo
+ c25354839ccc89cbb9da8f50d3afaec8413bbb7203c9370f9c9d8bc2231b3202 2804 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.deb
+Files:
+ 60a1f30c7ee653427b6074180577d98e 7377 misc optional ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.buildinfo
+ 2f72f66b8fc4455b1cadd190935130d4 2804 misc optional ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2025.11.23.18.50_amd64.deb

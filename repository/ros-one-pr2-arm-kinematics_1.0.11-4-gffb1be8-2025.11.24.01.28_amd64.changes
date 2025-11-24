@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-arm-kinematics
+Binary: ros-one-pr2-arm-kinematics ros-one-pr2-arm-kinematics-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.0.11-4-gffb1be8-2025.11.24.01.28
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-arm-kinematics - This package provides a kinematics implementation for the PR2 rob
+Changes:
+ ros-one-pr2-arm-kinematics (1.0.11-4-gffb1be8-2025.11.24.01.28) bookworm; urgency=high
+ .
+   * Merge pull request #13 <https://github.com/PR2/pr2_kinematics/issues/13> from k-okada/fix_plugin
+   * fix kinematics_plugin settings
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ b10660de34673b52d31b5ec4b889691f5d842760 3477108 ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb
+ 3612404b0f0f183dbf1b8d98030d5b443dade937 24755 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.buildinfo
+ 29fe3e82d7fa918fd566dc6cb1c74ef91c23e52f 126972 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb
+Checksums-Sha256:
+ 4ef309dbdbff46f32e54bbda30650d63d578772dbc16f99fe243b938d83bfc6b 3477108 ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb
+ 099fc3a224ec8a665416a89161f65c0d7a657d48ea80c17389adbbf6a1e95be2 24755 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.buildinfo
+ bbaa993bda85f3d9d1b05662957ffc3b3a737ca1d9c72a3716f2fbd5cf1e52a7 126972 ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb
+Files:
+ abf45b0e7b19017999494eb1e264c335 3477108 debug optional ros-one-pr2-arm-kinematics-dbgsym_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb
+ 7f23b2c731231973d197bb41c416bec2 24755 misc optional ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.buildinfo
+ cbf271adca2e8a1f2801618bc73577d0 126972 misc optional ros-one-pr2-arm-kinematics_1.0.11-4-gffb1be8-2025.11.24.01.28_amd64.deb

@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 11 Aug 2025 00:00:00 -0000
+Source: ros-one-py-binding-tools
+Binary: ros-one-py-binding-tools ros-one-py-binding-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.0-3-g20287a0-2025.11.23.18.54
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-py-binding-tools - Python binding tools for C++
+Changes:
+ ros-one-py-binding-tools (1.1.0-3-g20287a0-2025.11.23.18.54) bookworm; urgency=high
+ .
+   * Fix pybind11 deprecations
+   * Bump cmake_minimum_required to 3.12
+   * Remove undefined PYTHON_LIBRARIES
+   * Add unit tests
+   * Rename roscpp_initializer.* -> initializer.*
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 25a48551de20706ec457b8ab9c7a801ea7a9e145 1904668 ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb
+ b7fd644f3dd359274aa78df9eea6ce78110a0b94 10971 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.buildinfo
+ 444db31809ba2bc5f6903173983e0f075f88eb1d 121676 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb
+Checksums-Sha256:
+ f7642d10ac61e447a1d6d78b22eed9b7af54909a3770abeb0d82249fc0dac6a0 1904668 ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb
+ 58d83fbb5a51f8410884fc4292bf76a4aa25047b00b6349a4b163d14252bc624 10971 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.buildinfo
+ f65e5b5d8be99671d42fa9394a8490160fe996f41e2e430e8f000b9a670d59c1 121676 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb
+Files:
+ 45de12734483faae1d6db47c6d5fb8de 1904668 debug optional ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb
+ 7f93cc85e0a4e27f966100964601b208 10971 misc optional ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.buildinfo
+ 4cddab86fd118a160c3d58e29d7011fe 121676 misc optional ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.11.23.18.54_amd64.deb

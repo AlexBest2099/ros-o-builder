@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-nav-msgs
+Binary: ros-one-nav-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-1-g092bc23-2025.11.23.17.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-nav-msgs - nav_msgs defines the common messages used to interact with the na
+Changes:
+ ros-one-nav-msgs (1.13.2-1-g092bc23-2025.11.23.17.26) bookworm; urgency=high
+Checksums-Sha1:
+ c2931fb83a6a66ead4987b66a6d6fe1918069cd4 9009 ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.buildinfo
+ 6ed27641213c18f1f7344a82d405d857bcb37c03 79184 ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.deb
+Checksums-Sha256:
+ b6d46f56c5fbc21b78e6671de6e655590f7d968de4e48604288ead6307294af2 9009 ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.buildinfo
+ c97891cf7eca17e3012638a53625c35406236f7e1630a8cacc7fa8a32e912460 79184 ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.deb
+Files:
+ 451fe6994ea5783bb2572ab7b5a64fbe 9009 misc optional ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.buildinfo
+ 15f717b5becead2b92fd15356f29d3f5 79184 misc optional ros-one-nav-msgs_1.13.2-1-g092bc23-2025.11.23.17.26_amd64.deb

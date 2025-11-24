@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-google-cloud-texttospeech
+Binary: ros-one-google-cloud-texttospeech
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.05.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Shingo Kitagawa <shingogo.5511@gmail.com>
+Changed-By: Shingo Kitagawa <shingogo.5511@gmail.com>
+Description:
+ ros-one-google-cloud-texttospeech - The google_cloud_texttospeech package
+Changes:
+ ros-one-google-cloud-texttospeech (2.1.31-19-g5d0b67f7-2025.11.24.05.07) bookworm; urgency=high
+Checksums-Sha1:
+ 514011857b7ffa40233a50cc0ac289a10ceb61a4 7438 ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.buildinfo
+ ddce6223f1fa079f688774bae3e90c60a71776fd 10616 ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.deb
+Checksums-Sha256:
+ 363fec0fdb455001f15b73ba81dc579b71f38455a7842660d783142ca1551c8e 7438 ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.buildinfo
+ a4cabfc8242b7dd2fc72713fe9423f46ab8fe64cb13e5adc552f2fef725bd64e 10616 ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.deb
+Files:
+ 1385861861799ebfff1d779ef8bd0730 7438 misc optional ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.buildinfo
+ 4094392de385c66de771ccf426a8e089 10616 misc optional ros-one-google-cloud-texttospeech_2.1.31-19-g5d0b67f7-2025.11.24.05.07_amd64.deb

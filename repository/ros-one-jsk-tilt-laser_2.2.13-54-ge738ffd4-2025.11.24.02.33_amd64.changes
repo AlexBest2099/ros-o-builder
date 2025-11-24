@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-tilt-laser
+Binary: ros-one-jsk-tilt-laser ros-one-jsk-tilt-laser-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.02.33
+Distribution: bookworm
+Urgency: high
+Maintainer: YoheiKakiuchi <youhei@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: YoheiKakiuchi <youhei@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-tilt-laser - The jsk_tilt_laser package
+Changes:
+ ros-one-jsk-tilt-laser (2.2.13-54-ge738ffd4-2025.11.24.02.33) bookworm; urgency=high
+Checksums-Sha1:
+ b767a167508b69499796ef33b151cbfa571007aa 803124 ros-one-jsk-tilt-laser-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb
+ 809a8714bd2b29b0ba329cb76306d3ad86585ab2 31142 ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.buildinfo
+ 385e0517a1a11743b2d5c6c65b307ecfa8fd1381 71980 ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb
+Checksums-Sha256:
+ 0f2ef1f1487aac383235c7740df7007c7462e7840dd55f08c11af0daee1313a8 803124 ros-one-jsk-tilt-laser-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb
+ 868f6854c1e1920c87c4644e44991d08e4db5d13d0dda5ee6edf7fa0a2818a07 31142 ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.buildinfo
+ 9e8dd875303d85fc749cb1ea783a660f16e07f3c50c6de7f9c6880ab2586f1c1 71980 ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb
+Files:
+ d07196e729d39824fa802914175869d9 803124 debug optional ros-one-jsk-tilt-laser-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb
+ 0df72005ebfc3489dc8a3e84f98126f9 31142 misc optional ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.buildinfo
+ 5c169e15e38dd5c793bbc6e3f97dc832 71980 misc optional ros-one-jsk-tilt-laser_2.2.13-54-ge738ffd4-2025.11.24.02.33_amd64.deb

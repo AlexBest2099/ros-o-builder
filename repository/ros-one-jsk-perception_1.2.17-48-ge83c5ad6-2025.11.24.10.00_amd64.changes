@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-perception
+Binary: ros-one-jsk-perception ros-one-jsk-perception-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.17-48-ge83c5ad6-2025.11.24.10.00
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-perception - ROS nodes and nodelets for 2-D image perception.
+Changes:
+ ros-one-jsk-perception (1.2.17-48-ge83c5ad6-2025.11.24.10.00) bookworm; urgency=high
+Checksums-Sha1:
+ 1676529f7e87756df9a3a62cde36e3e2d672bd4a 74015572 ros-one-jsk-perception-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb
+ 76bcd64b14eff1edb751faf47e12a84244c184d0 48251 ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.buildinfo
+ f37bf3fcbc1597110fc3ab4de623acc4ff2f1e16 63669792 ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb
+Checksums-Sha256:
+ 341475c83f78e4521e1abc664cea20064ffa62a49ff34c5161cd26aa1ebf9ca7 74015572 ros-one-jsk-perception-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb
+ 88cb0eaa90eba25c888b12742e9cd853bcd735c1d732123ed313473af67df7a9 48251 ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.buildinfo
+ e96ff8c4bf039ab642ce7c0f9ad133fe4fb100f639ffdc4bc5d2999385afdc72 63669792 ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb
+Files:
+ e25d28219b91d4acdb23ad072e62069d 74015572 debug optional ros-one-jsk-perception-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb
+ a5828f93bc823437390b3699f594eb83 48251 misc optional ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.buildinfo
+ a221dcc4f315ea1af30801049d9271d2 63669792 misc optional ros-one-jsk-perception_1.2.17-48-ge83c5ad6-2025.11.24.10.00_amd64.deb

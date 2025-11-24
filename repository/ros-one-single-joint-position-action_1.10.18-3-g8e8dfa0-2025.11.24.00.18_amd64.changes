@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action ros-one-single-joint-position-action-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.11.24.00.18
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2025.11.24.00.18) bookworm; urgency=high
+Checksums-Sha1:
+ 02343baa55da82a83d51b8cf18779c3ddeb8cdc5 981836 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb
+ 63b8eee6403707770f1883ace211715e65e71b92 12831 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.buildinfo
+ 6b3eaf04bb0da693097a6fee83cfd589d522118b 82728 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb
+Checksums-Sha256:
+ d35d1b6088507ceac2e3acc0b1648b9d036be3354534b1b56e39ce7f18cdb2a3 981836 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb
+ e991059eafb121897179c53173460be984e3972bfc7543e4a089f8570b388032 12831 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.buildinfo
+ d72b7e0c4bc3a1778aea5e1b7081735fc05f7ef2539b9a37c9aab8c16032c015 82728 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb
+Files:
+ e3246fe37d37885e2b7a89e9354224ad 981836 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb
+ 0e812c40bd358539c4b2083ed9751330 12831 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.buildinfo
+ cc789cf2ed2c776a7e9400b44b25bcf5 82728 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2025.11.24.00.18_amd64.deb

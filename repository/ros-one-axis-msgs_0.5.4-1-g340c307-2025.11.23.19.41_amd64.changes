@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 31 Jan 2024 00:00:00 -0000
+Source: ros-one-axis-msgs
+Binary: ros-one-axis-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.4-1-g340c307-2025.11.23.19.41
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-axis-msgs - ROS messages used by the axis_camera package to control Axis PTZ
+Changes:
+ ros-one-axis-msgs (0.5.4-1-g340c307-2025.11.23.19.41) bookworm; urgency=high
+Checksums-Sha1:
+ f5c35ce6b96c33142bccdd77e307255446f32259 9007 ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.buildinfo
+ 6fd05ee7222abe4f112fb9d3415b9985293ff99f 30604 ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.deb
+Checksums-Sha256:
+ 975166d78f5d9bff223710f4d144368eb5779527873473bf55eb2627e9781582 9007 ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.buildinfo
+ 47e49747bf76ca7574437f48cc6bdf4cc20d2a60e64d1acdfceeeb646a80b79e 30604 ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.deb
+Files:
+ e2f2ff0b3c3d167e0ca6974ac11a337a 9007 misc optional ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.buildinfo
+ 39b62e5a7f4bfef7914186b70159f1f9 30604 misc optional ros-one-axis-msgs_0.5.4-1-g340c307-2025.11.23.19.41_amd64.deb

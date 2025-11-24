@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning-interface
+Binary: ros-one-moveit-ros-planning-interface ros-one-moveit-ros-planning-interface-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.23.47
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning-interface - Components of MoveIt that offer simpler interfaces to planning an
+Changes:
+ ros-one-moveit-ros-planning-interface (1.1.16-49-g4838449d7-2025.11.23.23.47) bookworm; urgency=high
+Checksums-Sha1:
+ 9ef26357832783191bda280cf99942aa4e4c7c5c 17490968 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb
+ 8d84ee5ea067feec1230aca9f6bee93ff88517ec 25666 ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.buildinfo
+ 2345e489f6ef621bd9ac5c8d846b68d32f146735 525488 ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb
+Checksums-Sha256:
+ 7eda6850bb2d3e1830b8b433bc419bbf1a9b88fdddef3c0a754c4b124694211c 17490968 ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb
+ ee1a34f961a2df263f567bfa2060c5d78036cb7ed30c865d41d3d1320e3e2cdd 25666 ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.buildinfo
+ 9fb0801fcd1f74c325f5ecce7e111ab5f7f26b504aec5326eb559f55e10bca05 525488 ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb
+Files:
+ 8bec7edeb3f0d5c37a8962b62f762910 17490968 debug optional ros-one-moveit-ros-planning-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb
+ 1839844b3447b9948c288c232d51d64e 25666 misc optional ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.buildinfo
+ e579ffaeb89f7662722f3fef6b75c596 525488 misc optional ros-one-moveit-ros-planning-interface_1.1.16-49-g4838449d7-2025.11.23.23.47_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-mini-maxwell
+Binary: ros-one-mini-maxwell
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.05.57
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-mini-maxwell - mini_maxwell
+Changes:
+ ros-one-mini-maxwell (2.1.31-19-g5d0b67f7-2025.11.24.05.57) bookworm; urgency=high
+Checksums-Sha1:
+ 72966b7becf82058417312d013b74d42189e1dac 14048 ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.buildinfo
+ 199a234d60a6e8bcf2c93fbd589eb141b03998fd 27608 ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.deb
+Checksums-Sha256:
+ 496a9b23180eacfaf1a370e61a96023588c2638b18958ce39606089e63a95705 14048 ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.buildinfo
+ 417bfb941479c8f6ebbceff5ba9d81b96f4b37b466b574c85a0a9dab5d98748b 27608 ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.deb
+Files:
+ 60beab2583d865d04484abbd605d6ae2 14048 misc optional ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.buildinfo
+ 372a0763c387459ea2c91d9c251f1948 27608 misc optional ros-one-mini-maxwell_2.1.31-19-g5d0b67f7-2025.11.24.05.57_amd64.deb

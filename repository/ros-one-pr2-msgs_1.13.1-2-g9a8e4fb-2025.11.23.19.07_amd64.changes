@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 07 Sep 2022 00:00:00 -0000
+Source: ros-one-pr2-msgs
+Binary: ros-one-pr2-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.1-2-g9a8e4fb-2025.11.23.19.07
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-msgs - Messages for representing PR2 state, such as battery information
+Changes:
+ ros-one-pr2-msgs (1.13.1-2-g9a8e4fb-2025.11.23.19.07) bookworm; urgency=high
+Checksums-Sha1:
+ 1e9d4bac785afccdb41faff3d9624639fefc5183 8945 ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.buildinfo
+ 6d90efce8f21a5bc737c4e518b9650ed678cdf92 88448 ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.deb
+Checksums-Sha256:
+ 53e6a9023ff949782866e1920f02c0d9ce4781d04f1ebe6f2afdc81fcdeba73f 8945 ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.buildinfo
+ a7cb74ed9cce86b4725af67325267405a3488c5fda031fbeb06dbecbf69dd826 88448 ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.deb
+Files:
+ 6b0b88b911697d16cb63c5bcbcd99405 8945 misc optional ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.buildinfo
+ 20837a59301aeb138b5573e8230ee875 88448 misc optional ros-one-pr2-msgs_1.13.1-2-g9a8e4fb-2025.11.23.19.07_amd64.deb

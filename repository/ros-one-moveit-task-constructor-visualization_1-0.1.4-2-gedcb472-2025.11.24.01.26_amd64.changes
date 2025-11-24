@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Wed, 15 Oct 2025 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-visualization
+Binary: ros-one-moveit-task-constructor-visualization ros-one-moveit-task-constructor-visualization-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1-0.1.4-2-gedcb472-2025.11.24.01.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-moveit-task-constructor-visualization - Visualization tools for MoveIt Task Pipeline
+Changes:
+ ros-one-moveit-task-constructor-visualization (1-0.1.4-2-gedcb472-2025.11.24.01.26) bookworm; urgency=high
+ .
+   * Mandatory yaml dependency
+   * Increase minimum required CMake version to 3.16 supported by Ubuntu 20.04
+   * clang-format-14
+   * clang-tidy fixes: use uint8_t enums
+   * Simplify formatting code with https://github.com/fmtlib (#499 <https://github.com/moveit/moveit_task_constructor/issues/499>)
+   * Drop Kinetic support
+   * Fix discontinuity in trajectory (#485 <https://github.com/moveit/moveit_task_constructor/issues/485>)
+   * Cleanup debug output
+   * Add more debugging output
+   * Hide button to show rviz-based task construction (#492 <https://github.com/moveit/moveit_task_constructor/issues/492>)
+   * Fix Qt 5.15 deprecation warnings
+   * Limit time to wait for execute_task_solution action server
+   * Replace namespace robot_[model|state] with moveit::core
+   * Use pluginlib consistently (#463 <https://github.com/moveit/moveit_task_constructor/issues/463>)
+   * Contributors: Michael Görner, Robert Haschke
+Checksums-Sha1:
+ 76bb24d8954cf9aa6997feffd21c30b5958e7a71 18478640 ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb
+ 651035c85f22ea1e147c6e3c30c25d9780f2c8c3 38277 ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.buildinfo
+ 11a73c1c804f877d6259f3a8e6a26dbcf98fa296 380016 ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb
+Checksums-Sha256:
+ 3f40428ec9c0f38eae1d9f2996c6ca18174c71399a07abe6b03acd4c8ad51ebc 18478640 ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb
+ c325c62a99cf4f5f695c960c5aaa3d9b1fb8800168cc227213e5bac74f4be29f 38277 ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.buildinfo
+ 5c00e1828d800a8f8ea3a793fe6e4afb91e96496082350fc5e0ae3ce4cc57893 380016 ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb
+Files:
+ 4fcc9dbc6956b960de0bfe11ec076036 18478640 debug optional ros-one-moveit-task-constructor-visualization-dbgsym_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb
+ 0644d8f43976d5be4c7124104241267c 38277 misc optional ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.buildinfo
+ 9821ff42494d90f104315b9ae8177abc 380016 misc optional ros-one-moveit-task-constructor-visualization_1-0.1.4-2-gedcb472-2025.11.24.01.26_amd64.deb

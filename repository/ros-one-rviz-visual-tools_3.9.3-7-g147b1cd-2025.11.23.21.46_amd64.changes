@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 05 Jan 2023 00:00:00 -0000
+Source: ros-one-rviz-visual-tools
+Binary: ros-one-rviz-visual-tools ros-one-rviz-visual-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 3.9.3-7-g147b1cd-2025.11.23.21.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-rviz-visual-tools - Utility functions for displaying and debugging data in Rviz via p
+Changes:
+ ros-one-rviz-visual-tools (3.9.3-7-g147b1cd-2025.11.23.21.46) bookworm; urgency=high
+ .
+   * Fix formatting CI job (#230 <https://github.com/PickNikRobotics/rviz_visual_tools/issues/230>)
+   * Move pub_rviz_markers_ to it's own callback queue (#193 <https://github.com/PickNikRobotics/rviz_visual_tools/issues/193>)
+   * Contributors: Jochen Sprickerhof, Vatan Aksoy Tezer
+Checksums-Sha1:
+ ae4c6a580d599a7d7b00cc3b25a882855517bdc5 8267700 ros-one-rviz-visual-tools-dbgsym_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb
+ 1faf6f2208ab643f052f756760c31df3b38e1892 28950 ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.buildinfo
+ f4472663e919bc60019f2fcf4a0425ba6f005ffb 1485424 ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb
+Checksums-Sha256:
+ 7129276eda5777dd50fbb754710bc1ba7564569510384ec40df753cf18332f04 8267700 ros-one-rviz-visual-tools-dbgsym_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb
+ 2a657a3c81cca0ffee919d5052fc1ff6fe6f1e321b1f7d96cf50fe563cc1b433 28950 ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.buildinfo
+ 3d85f25110eaf54b2b6881d5980a3d0fe7ba7db60fe718a95382203d58779f6e 1485424 ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb
+Files:
+ cb5b96bdf3a32f8162b7ef38f8bdac01 8267700 debug optional ros-one-rviz-visual-tools-dbgsym_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb
+ 7c67daee0bbd4da4c1de3c78ca6b586a 28950 misc optional ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.buildinfo
+ 32200e94c1f07e57415b2f9e82e96e35 1485424 misc optional ros-one-rviz-visual-tools_3.9.3-7-g147b1cd-2025.11.23.21.46_amd64.deb

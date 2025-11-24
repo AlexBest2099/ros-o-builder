@@ -1,0 +1,123 @@
+Format: 1.8
+Date: Sat, 22 Nov 2025 00:00:00 -0000
+Source: ros-one-plotjuggler
+Binary: ros-one-plotjuggler ros-one-plotjuggler-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 3.14.0-2025.11.23.18.31
+Distribution: bookworm
+Urgency: high
+Maintainer: Davide Faconti <davide.faconti@gmail.com>
+Changed-By: Davide Faconti <davide.faconti@gmail.com>
+Description:
+ ros-one-plotjuggler - PlotJuggler: juggle with data
+Changes:
+ ros-one-plotjuggler (3.14.0-2025.11.23.18.31) bookworm; urgency=high
+ .
+   * bug fix in multiple curves filter
+   * Merge pull request #1192 <https://github.com/facontidavide/PlotJuggler/issues/1192> from MichelJansson/feature/transform-multiselect
+     Support curve multi-selection in Transform Editor
+   * Merge branch 'main' of github.com:facontidavide/PlotJuggler
+   * add new anonymous telemetry
+   * Merge pull request #1199 <https://github.com/facontidavide/PlotJuggler/issues/1199> from af-maad/fix/parquet-timestamp-selection
+     Fix parquet timestamp selection when some columns are invalid types
+   * Merge pull request #1211 <https://github.com/facontidavide/PlotJuggler/issues/1211> from gvz/merging_data_loading
+     data series with the same name can be mergered
+   * Update plotjuggler_app/mainwindow.ui
+   * Merge pull request #1209 <https://github.com/facontidavide/PlotJuggler/issues/1209> from gvz/parquet_loading_timestamping
+     Parquet loading
+   * Update macos.yaml
+   * Fix detection of system-provided liblz4 and zstd (#1200 <https://github.com/facontidavide/PlotJuggler/issues/1200>)
+     Without this, cmake tries to download lz4 and zstd from the internet
+     even if they are available in the system.
+   * Added a script to remove orphaned link upon uninstall on debian (#1205 <https://github.com/facontidavide/PlotJuggler/issues/1205>)
+     The symbolic link that gets created on postinst is left behind
+     upon package removal. This was also causing reinstallation to
+     display an error stating that the link already exists.
+     Change-Id: I6a85baa63ee61e843ad1accdd08e5b632a76d2e9
+   * Update compile instructions for Fedora (#1206 <https://github.com/facontidavide/PlotJuggler/issues/1206>)
+     I just tried installing deps and compiling on Fedora 42,
+     and I had to make these changes to get it to build.
+     Not sure which Fedora version these instructions were
+     written for, so I specified that this is Fedora 42.
+   * 🛠️ Bump actions/download-artifact from 5 to 6 (#1202 <https://github.com/facontidavide/PlotJuggler/issues/1202>)
+     Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 5 to 6.
+     - [Release notes](https://github.com/actions/download-artifact/releases)
+     - [Commits](https://github.com/actions/download-artifact/compare/v5...v6)
+     ---
+     updated-dependencies:
+     - dependency-name: actions/download-artifact
+     dependency-version: '6'
+     dependency-type: direct:production
+     update-type: version-update:semver-major
+     ...
+     Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+   * 🛠️ Bump github/codeql-action from 3 to 4 (#1196 <https://github.com/facontidavide/PlotJuggler/issues/1196>)
+     Bumps [github/codeql-action](https://github.com/github/codeql-action) from 3 to 4.
+     - [Release notes](https://github.com/github/codeql-action/releases)
+     - [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)
+     - [Commits](https://github.com/github/codeql-action/compare/v3...v4)
+     ---
+     updated-dependencies:
+     - dependency-name: github/codeql-action
+     dependency-version: '4'
+     dependency-type: direct:production
+     update-type: version-update:semver-major
+     ...
+     Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+   * 🛠️ Bump actions/upload-artifact from 4 to 5 (#1203 <https://github.com/facontidavide/PlotJuggler/issues/1203>)
+     Bumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 4 to 5.
+     - [Release notes](https://github.com/actions/upload-artifact/releases)
+     - [Commits](https://github.com/actions/upload-artifact/compare/v4...v5)
+     ---
+     updated-dependencies:
+     - dependency-name: actions/upload-artifact
+     dependency-version: '5'
+     dependency-type: direct:production
+     update-type: version-update:semver-major
+     ...
+     Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+   * 🛠️ Bump actions/checkout from 5 to 6 (#1214 <https://github.com/facontidavide/PlotJuggler/issues/1214>)
+     Bumps [actions/checkout](https://github.com/actions/checkout) from 5 to 6.
+     - [Release notes](https://github.com/actions/checkout/releases)
+     - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+     - [Commits](https://github.com/actions/checkout/compare/v5...v6)
+     ---
+     updated-dependencies:
+     - dependency-name: actions/checkout
+     dependency-version: '6'
+     dependency-type: direct:production
+     update-type: version-update:semver-major
+     ...
+     Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+   * data_loading: timeseries with the same name are merged by default
+   * parquet_loading: fix timestamp handling for arrow::TIMESTAMP
+   * parquet_loading: fix Boolean display
+   * Fix parquet timestamp selection when some columns are invalid types
+   * Support curve multi-selection in Transform Editor
+     Enhanced plotwidget transforms (Transform Editor) to support curve
+     multi-selection, enabling batch operations of curve transforms.
+     - Updated curve list to handle multi-selection.
+     - Changed curve selection mode to ExtendedSelection.
+     - When multi-selection is started, the transform selection UI is
+     cleared to make batch manipulation explicit (ie. batch transform
+     not applied until explicitly selected).
+     - Changed transform list for multi-curve updates.
+     - Transform state is applied to all selected curves using existing
+     XML serialization api.
+     - Alias logic updated to better stay in sync with currently
+     selected transform unless manually changed by checking it the
+     current alias is the default alias for the previous transform.
+   * Contributors: Davide Faconti, Georg von Zengen, Laki Dantanarayana, Mattias Adolfsson, Michal Sojka, Michel Jansson, Morten Fyhn Amundsen, dependabot[bot]
+Checksums-Sha1:
+ d18516dddd622381c3dcc50aa16b494657149d13 93724576 ros-one-plotjuggler-dbgsym_3.14.0-2025.11.23.18.31_amd64.deb
+ a630f3a0f415b93dcf46dc0bdcbcb5d64b4cf895 20725 ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.buildinfo
+ af15456dc6a5a553c011af65eebf722e19e05891 13742076 ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.deb
+Checksums-Sha256:
+ b8f272334c69c73bfd1f169471b3dc73a312d1db08c11f2fbaf656ab29a746a3 93724576 ros-one-plotjuggler-dbgsym_3.14.0-2025.11.23.18.31_amd64.deb
+ 9f3a719ec975c3f1122097eb81594593495dcfa940b0c8c9d1e18b1fc8c58386 20725 ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.buildinfo
+ 72314324be1ee4bee7ac8dc9a3c692a9da1286e41198abcf846ebc428b1c77fa 13742076 ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.deb
+Files:
+ c995f8befb992030f525aeda05742656 93724576 debug optional ros-one-plotjuggler-dbgsym_3.14.0-2025.11.23.18.31_amd64.deb
+ 99fb7a1fe323235a38d9826cddf521bf 20725 misc optional ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.buildinfo
+ 30fb96b2d815e914c998a8ea0928f988 13742076 misc optional ros-one-plotjuggler_3.14.0-2025.11.23.18.31_amd64.deb

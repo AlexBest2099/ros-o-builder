@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosmake
+Binary: ros-one-rosmake
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.11.23.17.03
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosmake - rosmake is a ros dependency aware build tool which can be used to
+Changes:
+ ros-one-rosmake (1.15.10-1-g99fd9bb7-2025.11.23.17.03) bookworm; urgency=high
+Checksums-Sha1:
+ a7628899d64f8cc138a2f6b78ea922cbf71ac7a3 7348 ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.buildinfo
+ f67e8c5a6dd412000ea366a4473cf081764c2a8f 45300 ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.deb
+Checksums-Sha256:
+ f3fb0779beeef7cde71ccb03f7abe40f7e500d3f1749ed1c54089b9fe3176f41 7348 ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.buildinfo
+ 3f5dd055adb990dd8b685a78addf98089629096b92d26d4c0197494befcbb312 45300 ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.deb
+Files:
+ 01e8b14d6766032eec0f9448c357d4ca 7348 misc optional ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.buildinfo
+ 88145ff4f5255626a26b62af08fc955b 45300 misc optional ros-one-rosmake_1.15.10-1-g99fd9bb7-2025.11.23.17.03_amd64.deb

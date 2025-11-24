@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rostest
+Binary: ros-one-rostest
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.37
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rostest - Integration test suite based on roslaunch that is compatible with
+Changes:
+ ros-one-rostest (1.17.0-35-g96d7cc306-2025.11.23.17.37) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ 352726f2b140b8bbb134c45d4e30b0248f6d0a3e 9263 ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.buildinfo
+ bff0ff9ffcb6f0009ae1e8c50dd062efee63219f 38692 ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.deb
+Checksums-Sha256:
+ 36e15a4d71203b77db34d84e69c6b2ba8841f3db62513e97a6bbd1f6cfff8c21 9263 ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.buildinfo
+ 0e723a60b6b8fbf5233667fd43a5c57e6b95e90144fec2951335be6992ba930b 38692 ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.deb
+Files:
+ ecabb1ac8c261d3d789ceaf7f1a91f30 9263 misc optional ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.buildinfo
+ 24124e9b8b65b433773a40de70b2eed4 38692 misc optional ros-one-rostest_1.17.0-35-g96d7cc306-2025.11.23.17.37_amd64.deb

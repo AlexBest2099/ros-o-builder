@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-virtual-force-publisher
+Binary: ros-one-virtual-force-publisher ros-one-virtual-force-publisher-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.03.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-virtual-force-publisher - publish end effector's force, which is estmated from joint torque
+Changes:
+ ros-one-virtual-force-publisher (2.2.13-54-ge738ffd4-2025.11.24.03.36) bookworm; urgency=high
+Checksums-Sha1:
+ 68b51c3e4de2bc13ba60ed0dd964b1898fbd1202 2886968 ros-one-virtual-force-publisher-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb
+ 4884e9bb8b2d15002469459172c2ec5dc4e6f013 18516 ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.buildinfo
+ f9eaa0e8cd54f7149882867c8dd9370639fecc67 79816 ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb
+Checksums-Sha256:
+ 4f5f87ea9c9c244c4d5d472cf139ff4df136e445314750547d105e4fb2dc4699 2886968 ros-one-virtual-force-publisher-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb
+ 6fc083b8ca36f064aa1ce86e7866bbf906117ac3b34ee2d3f8f85db02ae5d497 18516 ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.buildinfo
+ d1ed57b1e2af33b8909521f2b24552233a8d57b293421dd1e203cdb30de58e8b 79816 ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb
+Files:
+ b7ada26fd73d6641684698c777609e34 2886968 debug optional ros-one-virtual-force-publisher-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb
+ 5528757df6da12bd305fa11977e12aa9 18516 misc optional ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.buildinfo
+ 8151d6fb61861dae1ebbac147a98298b 79816 misc optional ros-one-virtual-force-publisher_2.2.13-54-ge738ffd4-2025.11.24.03.36_amd64.deb

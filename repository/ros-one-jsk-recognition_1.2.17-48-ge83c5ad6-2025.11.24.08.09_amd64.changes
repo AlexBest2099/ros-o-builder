@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-recognition
+Binary: ros-one-jsk-recognition
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.17-48-ge83c5ad6-2025.11.24.08.09
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-recognition - Metapackage that contains recognition package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-recognition (1.2.17-48-ge83c5ad6-2025.11.24.08.09) bookworm; urgency=high
+Checksums-Sha1:
+ 9c49af7a90cfcc75afa17a9029b39ad563cf0f93 7385 ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.buildinfo
+ d22886b9a4dbef373719f7d71de988e10bb0a337 3112 ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.deb
+Checksums-Sha256:
+ e5cffb868bc794ddd275803246fa9df176e465bbb3f7811e9518c22b1f9850d4 7385 ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.buildinfo
+ 2dae534a12ed9171cd043c7df25655405c72799f3f800e20580b661e3a8b499e 3112 ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.deb
+Files:
+ 061211797d094c9bedf4dc7a07920879 7385 misc optional ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.buildinfo
+ e377980aaca2ab2df39f7eedcea77920 3112 misc optional ros-one-jsk-recognition_1.2.17-48-ge83c5ad6-2025.11.24.08.09_amd64.deb

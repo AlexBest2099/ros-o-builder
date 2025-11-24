@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 10 Nov 2025 00:00:00 -0000
+Source: ros-one-ur-client-library
+Binary: ros-one-ur-client-library ros-one-ur-client-library-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.6.0-4-ga9d1554-2025.11.23.16.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <feex@universal-robots.com>
+Changed-By: Felix Exner <feex@universal-robots.com>
+Description:
+ ros-one-ur-client-library - Standalone C++ library for accessing Universal Robots interfaces.
+Changes:
+ ros-one-ur-client-library (2.6.0-4-ga9d1554-2025.11.23.16.07) bookworm; urgency=high
+ .
+   * RTDEClient sendStart handle missed confirmation (#403 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/403>)
+   * Add enum value for 3PE input active to UrRtdeSafetyStatusBits (#401 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/401>)
+   * Save polyscope folder in local filesystem (#399 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/399>)
+   * Succeed power on command on PolyScope 5 when robot is running (#397 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/397>)
+   * Bump actions/upload-artifact from 4 to 5 (#398 <https://github.com/UniversalRobots/Universal_Robots_Client_Library/issues/398>)
+   * Contributors: Andrew C. Morrow, Felix Exner, dependabot[bot]
+Checksums-Sha1:
+ eafe7b425e0f4dd943d7e96196625030dbdcca71 8282548 ros-one-ur-client-library-dbgsym_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb
+ b6450d1f42d66a6ef4c075994571a3d2ee93f491 6675 ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.buildinfo
+ ff37adff178d28bd4198da906da9ffa52b2b18a9 492660 ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb
+Checksums-Sha256:
+ b472263eefd7218f9edabec8e29b7a8d735db4c0a6d32aa795ad1db4257b76ce 8282548 ros-one-ur-client-library-dbgsym_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb
+ edc5244fd2d6eb7d18399c825d13a7d53fe98e19a6a3d36b79b385a59214e62c 6675 ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.buildinfo
+ 84957ff7127be5cda113618efa454a52ff51ea2bc35a5033ffbb3f70565388d2 492660 ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb
+Files:
+ cd8931b69877cd617a5b4822783a4b3e 8282548 debug optional ros-one-ur-client-library-dbgsym_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb
+ cfcfc387f39395f83fa64d60f2e59afb 6675 misc optional ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.buildinfo
+ bbb88563afb092435fe314ebf227fa02 492660 misc optional ros-one-ur-client-library_2.6.0-4-ga9d1554-2025.11.23.16.07_amd64.deb

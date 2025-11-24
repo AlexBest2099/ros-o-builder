@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-chomp-optimizer-adapter
+Binary: ros-one-moveit-chomp-optimizer-adapter ros-one-moveit-chomp-optimizer-adapter-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.22.20
+Distribution: bookworm
+Urgency: high
+Maintainer: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Changed-By: Raghavender Sahdev <raghavendersahdev@gmail.com>
+Description:
+ ros-one-moveit-chomp-optimizer-adapter - MoveIt planning request adapter utilizing chomp for solution opti
+Changes:
+ ros-one-moveit-chomp-optimizer-adapter (1.1.16-49-g4838449d7-2025.11.23.22.20) bookworm; urgency=high
+Checksums-Sha1:
+ 0f3c57c464ff959b8b3b40dba5c7eb26ec841c10 1767344 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb
+ b077603e0f5623d246b952a125129b647f427f85 21427 ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.buildinfo
+ 8ab4536eeb969d255461743bca41854db7923c35 29904 ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb
+Checksums-Sha256:
+ 44e06b8541c6b306f9656739ed80f723ef2c4400197632e084b0ea0f9378817a 1767344 ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb
+ c1944c8406eab3c058561ac5114155cd6dece03e8e911973fd3335f1941ccf8b 21427 ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.buildinfo
+ 0f82dbfdb5e03c435c48bf482037ecba0045975cf5c4103dc0adc94f17ff01d3 29904 ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb
+Files:
+ f68f8e6c1ef59ca447c8dd91eff3c5db 1767344 debug optional ros-one-moveit-chomp-optimizer-adapter-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb
+ 2fac9d937e149e5dd2743bf054d57cca 21427 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.buildinfo
+ 4dc2b049bb9759db18e33638ad62e44b 29904 misc optional ros-one-moveit-chomp-optimizer-adapter_1.1.16-49-g4838449d7-2025.11.23.22.20_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-speed-scaling-interface
+Binary: ros-one-speed-scaling-interface
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-5-gc040abb-2025.11.23.23.37
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-speed-scaling-interface - Hardware interface reading a scalar value from robot hardware.
+Changes:
+ ros-one-speed-scaling-interface (0.1.1-5-gc040abb-2025.11.23.23.37) bookworm; urgency=high
+Checksums-Sha1:
+ 86c6a2f4e8988a25ce12333e5148a1a65958038f 10045 ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.buildinfo
+ d1dae254a170e79682b3731f88137076700b316d 5860 ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.deb
+Checksums-Sha256:
+ 4b5b7a421b00a2d7d70adce04693f301d8652237d8389e3fa4e4e4b2b20a1eb1 10045 ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.buildinfo
+ b2ab8b11702189d6b6083e1a12ef24157fccc9e52baf283586775a182e58b683 5860 ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.deb
+Files:
+ 16a226945d527641c37ea666882fcf3e 10045 misc optional ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.buildinfo
+ 1fcdebb54d58e7b2fb8111b1a67800c3 5860 misc optional ros-one-speed-scaling-interface_0.1.1-5-gc040abb-2025.11.23.23.37_amd64.deb

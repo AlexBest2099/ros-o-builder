@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 13 Feb 2025 00:00:00 -0000
+Source: ros-one-smach-ros
+Binary: ros-one-smach-ros
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.5.3-2025.11.23.19.05
+Distribution: bookworm
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-smach-ros - The smach_ros package contains extensions for the SMACH library t
+Changes:
+ ros-one-smach-ros (2.5.3-2025.11.23.19.05) bookworm; urgency=high
+Checksums-Sha1:
+ 19341c0b6b4997b99d1d27943bf97aceefc09278 11787 ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.buildinfo
+ 22afd9467d9a75f87307aeddc55b107e51d27035 38796 ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.deb
+Checksums-Sha256:
+ c8505793029456b4fdb1fce1948043a0042d304872980c73e1989604332b68be 11787 ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.buildinfo
+ 21fd5224aff73179b835176c134f7f78b52731ec375de4b70a88ba1560e276b1 38796 ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.deb
+Files:
+ b04000572fc66c8a58a0504ba65d601a 11787 misc optional ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.buildinfo
+ 5e018068bd263a95826d70ef3eecee5e 38796 misc optional ros-one-smach-ros_2.5.3-2025.11.23.19.05_amd64.deb

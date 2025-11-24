@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-qt-dotgraph
+Binary: ros-one-qt-dotgraph
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.2-15-g9726da6-2025.11.23.17.21
+Distribution: bookworm
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-dotgraph - qt_dotgraph provides helpers to work with dot graphs.
+Changes:
+ ros-one-qt-dotgraph (0.4.2-15-g9726da6-2025.11.23.17.21) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#303 <https://github.com/ros-visualization/qt_gui_core/issues/303>)
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ 35526520bbfcaee3504aecb28dffa4888682f22e 7360 ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.buildinfo
+ d28d24371075905f69de96e1797d433b57944a63 31540 ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.deb
+Checksums-Sha256:
+ b07c28b2b888727eec33a5f01e5fa52f6fc0a2dc4c09bd069a5d07d8c28ca091 7360 ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.buildinfo
+ e27224e9858cfbd506c76c97310d3f1c41b2bbf732cd7cc1b7f7701da7378946 31540 ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.deb
+Files:
+ 496e1b36ab23d7174f1a9b529e109bd0 7360 misc optional ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.buildinfo
+ 2496eceb58127ea6b866bd6dc1139cef 31540 misc optional ros-one-qt-dotgraph_0.4.2-15-g9726da6-2025.11.23.17.21_amd64.deb

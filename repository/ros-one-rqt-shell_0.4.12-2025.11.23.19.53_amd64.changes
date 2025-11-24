@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 16 Apr 2024 00:00:00 -0000
+Source: ros-one-rqt-shell
+Binary: ros-one-rqt-shell
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.12-2025.11.23.19.53
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rqt-shell - rqt_shell is a Python GUI plugin providing an interactive shell.
+Changes:
+ ros-one-rqt-shell (0.4.12-2025.11.23.19.53) bookworm; urgency=high
+ .
+   * Import setup from setuptools instead of distutils.core (#18 <https://github.com/ros-visualization/rqt_shell/issues/18>)
+     Co-authored-by: Matthijs van der Burgh <mailto:MatthijsBurgh@outlook.com>
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ 0b2246203a52c474b2eebde30e3841a531d73f8c 7306 ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.buildinfo
+ 3bceb722ed9f0d0fc9c82a86ca1fd6d50a115d2e 18836 ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.deb
+Checksums-Sha256:
+ b0e2af2340a071d86321c36f6ee5cbb9ddc967ae4b3d7d335159e516a03530b7 7306 ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.buildinfo
+ 0b6eda9edcd165a9248e767d02f8dffd4a49a24601d7b41fb0e4f961a2b8db75 18836 ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.deb
+Files:
+ 8ed7a5a91ecd8a81c271ac267d222095 7306 misc optional ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.buildinfo
+ 797f1187c7ce8d29c6b3605b61f1cc5e 18836 misc optional ros-one-rqt-shell_0.4.12-2025.11.23.19.53_amd64.deb

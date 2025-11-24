@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-dynamic-tf-publisher
+Binary: ros-one-dynamic-tf-publisher
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.01.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <garaemon@gmail.com>
+Changed-By: Ryohei Ueda <garaemon@gmail.com>
+Description:
+ ros-one-dynamic-tf-publisher - dynamically set the tf trensformation
+Changes:
+ ros-one-dynamic-tf-publisher (2.2.13-54-ge738ffd4-2025.11.24.01.52) bookworm; urgency=high
+Checksums-Sha1:
+ 36e456b14fc24735071b5dffabef98a6bd8ea867 17345 ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.buildinfo
+ 2e820f84c919754b9509e137459f5b1e79633097 38208 ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.deb
+Checksums-Sha256:
+ 719c06ce6bac99d47e4c0baa23b52884f0b34713a34a3b200574f4453c100419 17345 ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.buildinfo
+ d626ee54e555f249c816dc34ec2287ced48c12debc41c1038492767c21eff635 38208 ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.deb
+Files:
+ 3941629f9ac22c16b88a1555c7e57b22 17345 misc optional ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.buildinfo
+ 93be52efe3c779b9971f5604538e822c 38208 misc optional ros-one-dynamic-tf-publisher_2.2.13-54-ge738ffd4-2025.11.24.01.52_amd64.deb

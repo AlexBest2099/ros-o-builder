@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 23 Apr 2020 00:00:00 -0000
+Source: ros-one-octomap-ros
+Binary: ros-one-octomap-ros ros-one-octomap-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.1-3-g8816e50-2025.11.23.19.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-ros - octomap_ros provides conversion functions between ROS and OctoMap
+Changes:
+ ros-one-octomap-ros (0.4.1-3-g8816e50-2025.11.23.19.46) bookworm; urgency=high
+ .
+   * Added archive destination for static libraries (#10 <https://github.com/OctoMap/octomap_ros/issues/10>)
+   * Fix catkin_lint issues and cmake policy CMP0038 (#9 <https://github.com/OctoMap/octomap_ros/issues/9>)
+   * Update maintainer emails
+   * Contributors: Andrea Ponza, Armin Hornung, Sebastian Kasperski, Wolfgang Merkt
+Checksums-Sha1:
+ 95f96c1923e0b668dff828e2e1226cea81b68ed8 91968 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb
+ 6dd1f568027a071c0a2d01a981e20626cac08870 17837 ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.buildinfo
+ df29eee895c5eda90c79bd3b1f284d2ee1bdee22 13160 ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb
+Checksums-Sha256:
+ dd54111aaa902014b227deb962cf84ea9cf774ffc85ad5467d496d6826095010 91968 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb
+ a97fc0275292d64600441fe9c78bf5184bd7a5b676905a2fd4769902be0a9a0c 17837 ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.buildinfo
+ 2455aa4ee63402772c025871602cd6b37b414101383e4f7314c28af3e709e0b4 13160 ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb
+Files:
+ 243610340a472c25d52c6e14da9c5dca 91968 debug optional ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb
+ 49d880a45a375c509e92712314292e9a 17837 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.buildinfo
+ 64fa8fee74e6faf00002c1fee6b6e0b3 13160 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2025.11.23.19.46_amd64.deb

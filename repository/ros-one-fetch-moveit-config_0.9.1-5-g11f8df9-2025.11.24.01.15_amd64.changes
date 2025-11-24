@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-moveit-config
+Binary: ros-one-fetch-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.1-5-g11f8df9-2025.11.24.01.15
+Distribution: bookworm
+Urgency: high
+Maintainer: Sarah Elliott <selliott@fetchrobotics.com>
+Changed-By: Sarah Elliott <selliott@fetchrobotics.com>
+Description:
+ ros-one-fetch-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-fetch-moveit-config (0.9.1-5-g11f8df9-2025.11.24.01.15) bookworm; urgency=high
+Checksums-Sha1:
+ 0d30340f1b7a6d348cfc8780e0fa36167e31bd3a 13594 ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.buildinfo
+ 2e399a0f9efbb2df22c693bea2ddcf8a2109baa3 16128 ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.deb
+Checksums-Sha256:
+ 93953e01523e7244d3d410adc47a54709b744d9a3f39504ff6b10e94232ba070 13594 ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.buildinfo
+ 456cedc6569a4c7e21ccbd6623167d6e21990557213ad411833e66e7cc511f4e 16128 ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.deb
+Files:
+ 7ab6fe9818fa3c7abb46cd8f1d1ae6b7 13594 misc optional ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.buildinfo
+ ec240888d0e35db77adf7b49480322b9 16128 misc optional ros-one-fetch-moveit-config_0.9.1-5-g11f8df9-2025.11.24.01.15_amd64.deb

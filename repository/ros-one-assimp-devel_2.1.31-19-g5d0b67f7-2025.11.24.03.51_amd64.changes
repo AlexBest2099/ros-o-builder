@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-assimp-devel
+Binary: ros-one-assimp-devel ros-one-assimp-devel-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.03.51
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-assimp-devel - assimp library
+Changes:
+ ros-one-assimp-devel (2.1.31-19-g5d0b67f7-2025.11.24.03.51) bookworm; urgency=high
+Checksums-Sha1:
+ 5dfc3d537cbccf88e2a2ed9b62d261d9ee95d24c 25472324 ros-one-assimp-devel-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb
+ 47158529758450b560f160f1ec0df9c7b866cc58 15595 ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.buildinfo
+ 70e82812f42da9e88e90e052a1028db042a6859a 1614436 ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb
+Checksums-Sha256:
+ 87ad00b0c56694fe93cc4a026b55292ffb52fd8574cea1a38ef0eea644b5b2fd 25472324 ros-one-assimp-devel-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb
+ 69f4ff7c85d73f4b3c467684437faa61173c1a08134f94b9e26b6414fbb05410 15595 ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.buildinfo
+ 36b239d8349365e8a62aa1e15f0865d8c3c5153447a3addbab447fd7d6c5ebf3 1614436 ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb
+Files:
+ c71677dd6f4c72d56475f9368a6b135d 25472324 debug optional ros-one-assimp-devel-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb
+ 402b6c037009c8ea7452cb17130e096f 15595 misc optional ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.buildinfo
+ 9bf49ea161e30ab72b4e1c3026521018 1614436 misc optional ros-one-assimp-devel_2.1.31-19-g5d0b67f7-2025.11.24.03.51_amd64.deb

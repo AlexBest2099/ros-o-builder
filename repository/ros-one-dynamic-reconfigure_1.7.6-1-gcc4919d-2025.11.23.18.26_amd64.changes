@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 20 May 2025 00:00:00 -0000
+Source: ros-one-dynamic-reconfigure
+Binary: ros-one-dynamic-reconfigure ros-one-dynamic-reconfigure-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.6-1-gcc4919d-2025.11.23.18.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-dynamic-reconfigure - The dynamic_reconfigure package provides a means to update parame
+Changes:
+ ros-one-dynamic-reconfigure (1.7.6-1-gcc4919d-2025.11.23.18.26) bookworm; urgency=high
+ .
+   * Revert "Fix unsafe yaml load on dynparam (#202 <https://github.com/ros/dynamic_reconfigure/issues/202>)" (#206 <https://github.com/ros/dynamic_reconfigure/issues/206>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 9d8d42ea5efe3498d1e23c57ce169cd6c1e0d906 90084 ros-one-dynamic-reconfigure-dbgsym_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb
+ 214513e6c88f1d2ba53d7133245b1ac555aecccf 12344 ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.buildinfo
+ 7efc30bdf2729676664180bdc127405139a39d27 110900 ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb
+Checksums-Sha256:
+ 134f7fa3c5f95c7ff07057537ae8ae4f6cd472ddeef0d4c18902d82607538ea1 90084 ros-one-dynamic-reconfigure-dbgsym_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb
+ 901390adbd167e993317335196890e213babde1fa7f511dde9ba2fa3932a138f 12344 ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.buildinfo
+ 8269c14bb4ce926134a788894a1834d11298e0a337afbedc7a40ae396f78b0df 110900 ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb
+Files:
+ 13198297fe5fb3d1086767221e3e0172 90084 debug optional ros-one-dynamic-reconfigure-dbgsym_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb
+ 8fe0fe5c2aa498e26e568df15bec425e 12344 misc optional ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.buildinfo
+ eeb3bb302b495b7b9e94b464f56e9d8e 110900 misc optional ros-one-dynamic-reconfigure_1.7.6-1-gcc4919d-2025.11.23.18.26_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-ackermann-steering-controller
+Binary: ros-one-ackermann-steering-controller ros-one-ackermann-steering-controller-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.22.0-2025.11.23.20.22
+Distribution: bookworm
+Urgency: high
+Maintainer: Masaru Morita <p595201m@mail.kyutech.jp>
+Changed-By: Masaru Morita <p595201m@mail.kyutech.jp>
+Description:
+ ros-one-ackermann-steering-controller - Controller for a steer drive mobile base.
+Changes:
+ ros-one-ackermann-steering-controller (0.22.0-2025.11.23.20.22) bookworm; urgency=high
+Checksums-Sha1:
+ 430a81c5a84fad5273c315002606a56db08ff825 1126604 ros-one-ackermann-steering-controller-dbgsym_0.22.0-2025.11.23.20.22_amd64.deb
+ ade03eee16abd70a3fc57690f9eb16eb5797773b 22927 ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.buildinfo
+ 644a20be3db8a48e50a0bb8461e3723f4cee8f73 78612 ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.deb
+Checksums-Sha256:
+ 31d26724a11b159e2c253e10cf049a65f10242deba5a83782d8ed4123a57f0e1 1126604 ros-one-ackermann-steering-controller-dbgsym_0.22.0-2025.11.23.20.22_amd64.deb
+ 53b7a6499eef8156ba6011dbb75c3b84540874ff7fdb4d75ca4f1448e6053d42 22927 ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.buildinfo
+ 3da04dba10ffd5b1d1be1b29ccb522aef4c37547a8555abf8cb9951b29cb6fea 78612 ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.deb
+Files:
+ 30debe7eecbcdbeda1e7b2ebee098c8c 1126604 debug optional ros-one-ackermann-steering-controller-dbgsym_0.22.0-2025.11.23.20.22_amd64.deb
+ f39f4a0250237f1d8f1ab7fe16f751b7 22927 misc optional ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.buildinfo
+ 3de561d2d7c72d01cb8556fb6d185f1e 78612 misc optional ros-one-ackermann-steering-controller_0.22.0-2025.11.23.20.22_amd64.deb

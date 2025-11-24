@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense-description
+Binary: ros-one-multisense-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 4.0.5-46-g945e646-2025.11.23.20.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Carnegie Robotics <support@carnegierobotics.com>
+Changed-By: Carnegie Robotics <support@carnegierobotics.com>
+Description:
+ ros-one-multisense-description - multisense_description
+Changes:
+ ros-one-multisense-description (4.0.5-46-g945e646-2025.11.23.20.36) bookworm; urgency=high
+Checksums-Sha1:
+ 55e1293e6708b2f6a1e898a7c1d737060af8dece 7421 ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.buildinfo
+ 8ee19f7a93d6d78bda611dafd5428764b4ce0c93 5206672 ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.deb
+Checksums-Sha256:
+ 2c1d20f38bb2dc92e532946eeb5e7d657892e2dd736473c612cc69da8cb0bddc 7421 ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.buildinfo
+ 2482187bbf336d1e9eb0bae40135265cd481a8917d6d0c327a1327d80d662a2c 5206672 ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.deb
+Files:
+ aaf97d4b31386dba0745417f1b8e31d5 7421 misc optional ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.buildinfo
+ bb4fc6d63077a95a1991f00853450c84 5206672 misc optional ros-one-multisense-description_4.0.5-46-g945e646-2025.11.23.20.36_amd64.deb

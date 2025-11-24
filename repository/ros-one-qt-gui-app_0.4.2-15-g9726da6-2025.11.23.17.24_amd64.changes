@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-qt-gui-app
+Binary: ros-one-qt-gui-app
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.2-15-g9726da6-2025.11.23.17.24
+Distribution: bookworm
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-app - qt_gui_app provides the main to start an instance of the integrat
+Changes:
+ ros-one-qt-gui-app (0.4.2-15-g9726da6-2025.11.23.17.24) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#303 <https://github.com/ros-visualization/qt_gui_core/issues/303>)
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ c2d003588129c76ec1f825dc980c1370dd809697 7352 ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.buildinfo
+ d61027010b063ce82d9ea49d1ef79a17ef209b51 6928 ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.deb
+Checksums-Sha256:
+ 8b0002d9c86309952ae99674aa8f13db3a2d28ea5e8e1982862b045096018924 7352 ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.buildinfo
+ e01a099ae3e9c2455b5b6f94d7d70ed93a0ade226dc8a0236caf036b5592153a 6928 ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.deb
+Files:
+ 96201b35ed9a2e5ba9187286e399caae 7352 misc optional ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.buildinfo
+ 6db3cac53786ad58ab9fa6b4b4b25ea3 6928 misc optional ros-one-qt-gui-app_0.4.2-15-g9726da6-2025.11.23.17.24_amd64.deb

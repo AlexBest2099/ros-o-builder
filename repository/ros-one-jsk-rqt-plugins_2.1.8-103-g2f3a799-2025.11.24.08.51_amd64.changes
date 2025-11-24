@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-rqt-plugins
+Binary: ros-one-jsk-rqt-plugins
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-103-g2f3a799-2025.11.24.08.51
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-rqt-plugins - The jsk_rqt_plugins package
+Changes:
+ ros-one-jsk-rqt-plugins (2.1.8-103-g2f3a799-2025.11.24.08.51) bookworm; urgency=high
+Checksums-Sha1:
+ fed9aae8eaa7cd77a17622d7d2ea14f7eae97887 38406 ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.buildinfo
+ 4c3e6d85b492eb570500ec0aba22185e6bdb37b0 624956 ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.deb
+Checksums-Sha256:
+ e13a9b3cbbf57cc37bb443e0a0c6e04b2289269fae93502e2fbfd49eeab1c236 38406 ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.buildinfo
+ 755ae1707759e088462d6ee3fd2121bd0fc07be5f0a71d70881e31bafeb6e0d8 624956 ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.deb
+Files:
+ 624d1ad77328410b23d132c848ba4ce0 38406 misc optional ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.buildinfo
+ 23d365941c5c3c0263f75424edd8daef 624956 misc optional ros-one-jsk-rqt-plugins_2.1.8-103-g2f3a799-2025.11.24.08.51_amd64.deb

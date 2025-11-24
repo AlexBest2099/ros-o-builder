@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-common-msgs
+Binary: ros-one-audio-common-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.18-2025.11.23.18.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-common-msgs - Messages for transmitting audio via ROS
+Changes:
+ ros-one-audio-common-msgs (0.3.18-2025.11.23.18.48) bookworm; urgency=high
+Checksums-Sha1:
+ eafa41d618247e2e641f7e37f0fbf1111a8ea7b7 8883 ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.buildinfo
+ beac6254b1aff45bbab04b94a09d59f450594a92 22388 ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.deb
+Checksums-Sha256:
+ 56e036b599dbc9afc8038dbf439f7a1a98ce1f92ad5487eae76eab5c9be5e19c 8883 ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.buildinfo
+ e1f65e5e231d4b05ebbee14fd656a48164e7c68101a2bf5cfcb0ff177d48a9e1 22388 ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.deb
+Files:
+ aa3c66569a006acfc5d16d4b31b6160b 8883 misc optional ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.buildinfo
+ 7ffa7b9ddf33b8f4ef3456e0fc014e5a 22388 misc optional ros-one-audio-common-msgs_0.3.18-2025.11.23.18.48_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-data
+Binary: ros-one-jsk-data
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.02.21
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-data - The jsk_data package
+Changes:
+ ros-one-jsk-data (2.2.13-54-ge738ffd4-2025.11.24.02.21) bookworm; urgency=high
+Checksums-Sha1:
+ 8f7e7ca6336b2cb245acc98a3e5bff70379e13b2 13972 ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.buildinfo
+ 8ef7e477ee32adc2b9af08db3ee8b676afedf40d 1318536 ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.deb
+Checksums-Sha256:
+ ffdb508766a75efe1dad1bb4c452aa55d87e45057fb1ac5bc97ceb5e69a6f47e 13972 ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.buildinfo
+ a19fbef8f15722b808f2d46cc50a8fd041919b05b18e2c4371d81fdc002e5189 1318536 ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.deb
+Files:
+ 55c2456fbfda8a8e271da9a4b5b1c536 13972 misc optional ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.buildinfo
+ 7e78296a65236263ccf4d39cdd627786 1318536 misc optional ros-one-jsk-data_2.2.13-54-ge738ffd4-2025.11.24.02.21_amd64.deb

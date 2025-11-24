@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-test-nodelet
+Binary: ros-one-test-nodelet
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.11.2-1-g5ed9cab-2025.11.23.19.08
+Distribution: bookworm
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-test-nodelet - A package for nodelet unit tests
+Changes:
+ ros-one-test-nodelet (1.11.2-1-g5ed9cab-2025.11.23.19.08) bookworm; urgency=high
+Checksums-Sha1:
+ 2ca034da4e2286fa7cdfb97fef3a92b792429aff 13498 ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.buildinfo
+ 1e5cedfe087b1b4c50be17c756f789a510b599f4 7652 ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.deb
+Checksums-Sha256:
+ d5b784a3e07eb325c44d78244d85a2dc2e3764c7948c67340dcf06b80a3a3e30 13498 ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.buildinfo
+ bdf3beab83af9691ae664edbe885421818afac1bf4f0aa76e6bdafa4f81c21c5 7652 ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.deb
+Files:
+ 04288e98f22a35a011d5f7624acd7f33 13498 misc optional ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.buildinfo
+ b1eee0ec8d93dfc132b2b3b9127f2549 7652 misc optional ros-one-test-nodelet_1.11.2-1-g5ed9cab-2025.11.23.19.08_amd64.deb

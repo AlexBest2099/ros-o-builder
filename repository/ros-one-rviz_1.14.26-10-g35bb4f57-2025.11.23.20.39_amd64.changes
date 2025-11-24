@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 02 May 2025 00:00:00 -0000
+Source: ros-one-rviz
+Binary: ros-one-rviz ros-one-rviz-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.14.26-10-g35bb4f57-2025.11.23.20.39
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rviz - 3D visualization tool for ROS.
+Changes:
+ ros-one-rviz (1.14.26-10-g35bb4f57-2025.11.23.20.39) bookworm; urgency=high
+ .
+   * Warning Dialog for ROS 1 EOL (#1843 <https://github.com/ros-visualization/rviz/issues/1843>)
+   * Bump cmake_minimum_required to 3.5 (#1847 <https://github.com/ros-visualization/rviz/issues/1847>)
+   * Replace boost::filesystem::extension() (#1844 <https://github.com/ros-visualization/rviz/issues/1844>)
+   * Fix #1834 <https://github.com/ros-visualization/rviz/issues/1834>: segfault on addMaximizeButton
+   * Contributors: A K Azad, Arne Hitzmann, Katherine Scott, Robert Haschke
+Checksums-Sha1:
+ 9c6837232d94dac825afaa32ccee81bd56d5bc0c 82131500 ros-one-rviz-dbgsym_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb
+ 7eddfc17d987ae0ccf011d341020070edfb0d432 28359 ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.buildinfo
+ e25ec393c5cf489546f94133f172bce91eef70bb 2448336 ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb
+Checksums-Sha256:
+ bb9c0443613900cc1f5f05ba9b064f4600de0609b130e34887dfee10ad42dd03 82131500 ros-one-rviz-dbgsym_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb
+ 2dbd8e85bc22ed3f6a45ba8811a076d334a34b3b98c7cc173113039e050c0af4 28359 ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.buildinfo
+ 5a5b16aab2cb281452788ffbf0286020b5e97e75cf27fa3e47247127db96b4cc 2448336 ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb
+Files:
+ b0e440e2afc3a98d8b89c33ff4e77713 82131500 debug optional ros-one-rviz-dbgsym_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb
+ 657889e52ae5a113fdde1a6b429e393d 28359 misc optional ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.buildinfo
+ 2c0a0a740376f6ffa5a2658d83758116 2448336 misc optional ros-one-rviz_1.14.26-10-g35bb4f57-2025.11.23.20.39_amd64.deb

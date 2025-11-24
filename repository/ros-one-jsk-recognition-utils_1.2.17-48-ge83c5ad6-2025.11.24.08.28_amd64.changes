@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-recognition-utils
+Binary: ros-one-jsk-recognition-utils ros-one-jsk-recognition-utils-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.17-48-ge83c5ad6-2025.11.24.08.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-recognition-utils - C++ library about sensor model, geometrical modeling and percepti
+Changes:
+ ros-one-jsk-recognition-utils (1.2.17-48-ge83c5ad6-2025.11.24.08.28) bookworm; urgency=high
+ .
+   * https://github.com/jsk-ros-pkg/jsk_recognition/pull/2648 requires jsk_data package (#2805 <https://github.com/jsk-ros-pkg/jsk_recognition/issues/2805>)
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 03d399329de9e8262030df18364bd0cf9df52c6a 22168240 ros-one-jsk-recognition-utils-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb
+ 98b29d65e11c7a0a16de6d67ef90934ce34cef18 45994 ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.buildinfo
+ b2518892a61a36bc08b69680e38040020b42f5c0 439356 ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb
+Checksums-Sha256:
+ ea498d802b7b3b761d9f3d1f3f14910e0ad77b432354734c33f25090fb7fa962 22168240 ros-one-jsk-recognition-utils-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb
+ 14aa56fafe660f9f6eb2b67a062f1122dca17947fe55fa6f1816a616256af971 45994 ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.buildinfo
+ 9b50c3301309b3f6932771f9fcec80a6b89deabbd3efb1f2c5bd4d8195f6dcb0 439356 ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb
+Files:
+ bb88217d1351b1b858355030b63d5d4d 22168240 debug optional ros-one-jsk-recognition-utils-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb
+ c1af93b2b9ccba5c4f918f77eda58326 45994 misc optional ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.buildinfo
+ ab2d91168c887e0398ca5bded43bdc69 439356 misc optional ros-one-jsk-recognition-utils_1.2.17-48-ge83c5ad6-2025.11.24.08.28_amd64.deb

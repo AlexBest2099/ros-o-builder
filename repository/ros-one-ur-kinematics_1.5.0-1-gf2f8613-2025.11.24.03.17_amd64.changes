@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur-kinematics
+Binary: ros-one-ur-kinematics ros-one-ur-kinematics-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.03.17
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-kinematics - Provides forward and inverse kinematics for Universal Robots desi
+Changes:
+ ros-one-ur-kinematics (1.5.0-1-gf2f8613-2025.11.24.03.17) bookworm; urgency=high
+ .
+   * Update setup.py (#701 <https://github.com/ros-industrial/universal_robot/issues/701>)
+   * Add support for UR15 (#702 <https://github.com/ros-industrial/universal_robot/issues/702>)
+   * Add License files to packages (#695 <https://github.com/ros-industrial/universal_robot/issues/695>)
+   * Contributors: Felix Exner, Forest_Loong
+Checksums-Sha1:
+ a2955da09fe9e25ea1b8060970e34d10eb01b095 1689264 ros-one-ur-kinematics-dbgsym_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb
+ 6b30d56eb4ce0c89f62a093d7ca6d025a526fec0 24807 ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.buildinfo
+ fca30df6601daf1b27186103c11af31fdfc8c3ca 75544 ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb
+Checksums-Sha256:
+ 26d470f3a27492403952a59c11b55ddc4fc0ddd3822d671d1b82ef182ba15f8d 1689264 ros-one-ur-kinematics-dbgsym_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb
+ d8c69527bb7749522d841244d93126f60b3fbdc3e73c2ab597c3c7a326b24a9c 24807 ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.buildinfo
+ 53bcbd6a52c54f122853bbe9c6c4751ded056880542a643be28e511ce2778c00 75544 ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb
+Files:
+ 1f6ca8649e44358268fd9ea99cd4897d 1689264 debug optional ros-one-ur-kinematics-dbgsym_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb
+ 6f4d25cbc7c57025b6e981ad5d886e10 24807 misc optional ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.buildinfo
+ fb28a6b7cb3399892f99e45c922ab46b 75544 misc optional ros-one-ur-kinematics_1.5.0-1-gf2f8613-2025.11.24.03.17_amd64.deb

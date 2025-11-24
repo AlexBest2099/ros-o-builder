@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-visualization
+Binary: ros-one-jsk-visualization
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-103-g2f3a799-2025.11.24.09.13
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-visualization - Metapackage that contains visualization package for jsk-ros-pkg
+Changes:
+ ros-one-jsk-visualization (2.1.8-103-g2f3a799-2025.11.24.09.13) bookworm; urgency=high
+Checksums-Sha1:
+ 1ef92d70b7f89ff463610a4b138692615d244c44 7391 ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.buildinfo
+ 947457681006f32dab8599ad91d4c4e1c93db107 2628 ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.deb
+Checksums-Sha256:
+ 71cc57cb30c3c76f221aeb2464efc8c277093af52842eb458c5be197f7c1157f 7391 ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.buildinfo
+ 2f7ef870db5d97a59f62baa1fcbbac88a7bfdd3a2652ae29f8b433f00434430a 2628 ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.deb
+Files:
+ 74ac0fcd7fc49024c2fa554b79fd9c1e 7391 misc optional ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.buildinfo
+ 3a2af5614c2566c41799723f49a6884b 2628 misc optional ros-one-jsk-visualization_2.1.8-103-g2f3a799-2025.11.24.09.13_amd64.deb

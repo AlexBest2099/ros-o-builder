@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur30-moveit-config
+Binary: ros-one-ur30-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.02.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincenzo Di Pentima <dipentima@fzi.de>
+Changed-By: Vincenzo Di Pentima <dipentima@fzi.de>
+Description:
+ ros-one-ur30-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur30-moveit-config (1.5.0-1-gf2f8613-2025.11.24.02.28) bookworm; urgency=high
+ .
+   * Add License files to packages (#695 <https://github.com/ros-industrial/universal_robot/issues/695>)
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ 32c0e1aad523f7496490bd80842f84b2781c91f3 7391 ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.buildinfo
+ d384beb96a897edba6c01bf67c98d9bfe21c3844 15532 ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.deb
+Checksums-Sha256:
+ 6b2a6cbcfe53dc3b48e93c04bd1578e55607fa54a5b7ef033fd74f7eee83f83a 7391 ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.buildinfo
+ 7bbba40df73f9a734e7a1101ebaf1a7def08a0debb14e3894f387a4aac48ab76 15532 ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.deb
+Files:
+ 3feb6740eb83733d80a574495aa71397 7391 misc optional ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.buildinfo
+ 215729b7a522cc78d89fd77cc3cdddbd 15532 misc optional ros-one-ur30-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.28_amd64.deb

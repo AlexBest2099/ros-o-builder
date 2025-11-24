@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-stereo-image-proc
+Binary: ros-one-stereo-image-proc ros-one-stereo-image-proc-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.11.23.20.11
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-stereo-image-proc - Stereo and single image rectification and disparity processing.
+Changes:
+ ros-one-stereo-image-proc (1.17.0-11-g69488e6-2025.11.23.20.11) bookworm; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Drop old C++ standard compiler flag
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ a1fc3fd45242cf1c7f3938c2679b1c97e4d1d7b5 3682240 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb
+ 1f27f1248e1dfabab9b16b8801813e40c81c28ed 29125 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.buildinfo
+ 13e1167fe23c051ac7e06856bd137803cf7a77c0 199532 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb
+Checksums-Sha256:
+ ae13e8e39acf38ae4b40e812782b72c97a658b8c05d21cbc1e76e27c3f1d740a 3682240 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb
+ 22b9d420e68592e020fa5b62e8c19c26cb6f4469eee7e9a1c7a12f66f2f50685 29125 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.buildinfo
+ f26722b4a85ba7a5ee9a58ed01d837b84ea01443d05cae5aa4c907d48f05c0ea 199532 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb
+Files:
+ 78c803989940731f0fb6b3bb2057648e 3682240 debug optional ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb
+ de0b92bdbcb64c47eca5490b2681dd01 29125 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.buildinfo
+ d46235a03cbdd162134a5298d01238ae 199532 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.11.23.20.11_amd64.deb

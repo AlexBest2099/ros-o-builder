@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rosservice
+Binary: ros-one-rosservice
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosservice - rosservice contains the rosservice command-line tool for listing
+Changes:
+ ros-one-rosservice (1.17.0-35-g96d7cc306-2025.11.23.17.36) bookworm; urgency=high
+Checksums-Sha1:
+ c227f7927ae02a49356e12464dba17cbc3a28108 7367 ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.buildinfo
+ 2c0568266d4da9cdf84600dbbb57a0e299d7f801 24792 ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.deb
+Checksums-Sha256:
+ a465ecdbbf597dfc6eba000cb6bb484e2015dbdc12b3f1db78eb53731f5aff70 7367 ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.buildinfo
+ 954c2212322ccb3ba13d3e65ed4f2192bd21c1941ae41b6ccc0be59d980ad24c 24792 ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.deb
+Files:
+ fb96d2124362964c9cb8c5a473c84843 7367 misc optional ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.buildinfo
+ 622e47d9afdc1befefdd4895b83d68c2 24792 misc optional ros-one-rosservice_1.17.0-35-g96d7cc306-2025.11.23.17.36_amd64.deb

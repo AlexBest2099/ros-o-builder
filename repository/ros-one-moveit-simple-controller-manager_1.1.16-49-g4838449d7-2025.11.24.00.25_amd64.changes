@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-simple-controller-manager
+Binary: ros-one-moveit-simple-controller-manager ros-one-moveit-simple-controller-manager-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.24.00.25
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-simple-controller-manager (1.1.16-49-g4838449d7-2025.11.24.00.25) bookworm; urgency=high
+Checksums-Sha1:
+ 04db3e75237e3b1539ccc59bd403d03375ac3b26 2324908 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb
+ d9a5d650e9fe515e20a0d7640614e77fb7fa0d18 21436 ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.buildinfo
+ f98f3657b7696478c9c7a817e1a270cf0c9e8e9d 165660 ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb
+Checksums-Sha256:
+ 1e6312f54d8f5bf522f82b39643358420e9c59ce9180117a829b5ce606b35155 2324908 ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb
+ 50b02e7a42d47096d4ce4cdf5acee1ad504c9776b0449420474183aa1221b312 21436 ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.buildinfo
+ 01276297b7519bd5181a6ffd56faa4891aebdae294f10c8062a324548ecaf9da 165660 ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb
+Files:
+ 04fa3dd41cd40c2569b7a36091cc70eb 2324908 debug optional ros-one-moveit-simple-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb
+ 95150172c79b606bcaa2db2bc8a3f270 21436 misc optional ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.buildinfo
+ 2c9e0c2024c4b19d28535f3889b8496a 165660 misc optional ros-one-moveit-simple-controller-manager_1.1.16-49-g4838449d7-2025.11.24.00.25_amd64.deb

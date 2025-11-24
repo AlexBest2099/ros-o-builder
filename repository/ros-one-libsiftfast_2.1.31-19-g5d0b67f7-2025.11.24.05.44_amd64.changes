@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-libsiftfast
+Binary: ros-one-libsiftfast ros-one-libsiftfast-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.05.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-libsiftfast - Library to compute SIFT features
+Changes:
+ ros-one-libsiftfast (2.1.31-19-g5d0b67f7-2025.11.24.05.44) bookworm; urgency=high
+Checksums-Sha1:
+ f82b6b6c2762989fb2f6f40441d3a9f4aa478b01 1001124 ros-one-libsiftfast-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb
+ 5b11f0809e18667e687f37feb41602e6f439b3cc 15750 ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.buildinfo
+ 1dafd25f68f2a16eae254ab2b39aed3e153a7788 566280 ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb
+Checksums-Sha256:
+ 214fe91da05c959dae28ec09449feea1d93f815f6e11b779db515997caee2d66 1001124 ros-one-libsiftfast-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb
+ 5b2128d133f9b9342a6b7db90e5c5a3455be446118f1c791103b35933dcaea9c 15750 ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.buildinfo
+ bc81c253eaa5ca2c1ac53ee6bcf7a7a081c608284e9fc6eb9d3ac4db0b2393ad 566280 ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb
+Files:
+ 7f33be11ea68886a81127c6da2ef5d9e 1001124 debug optional ros-one-libsiftfast-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb
+ 26680529db593312c452387e042bb20d 15750 misc optional ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.buildinfo
+ d389d2415b1781a6536e0b3431dcd037 566280 misc optional ros-one-libsiftfast_2.1.31-19-g5d0b67f7-2025.11.24.05.44_amd64.deb

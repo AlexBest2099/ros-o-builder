@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rosbag-storage
+Binary: ros-one-rosbag-storage ros-one-rosbag-storage-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.51
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosbag-storage - This is a set of tools for recording from and playing back ROS me
+Changes:
+ ros-one-rosbag-storage (1.17.0-35-g96d7cc306-2025.11.23.17.51) bookworm; urgency=high
+Checksums-Sha1:
+ 66726d84d28f161314a0964b9c7990cb77753f48 3885292 ros-one-rosbag-storage-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb
+ aaa0ac3c0549cd56628dcd71770aa13ac01643ad 14578 ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.buildinfo
+ c332dde870d6354c5f3580165fc1181cb644ce6a 181772 ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb
+Checksums-Sha256:
+ 2d8254d4869850156f0edf339f11d6c7530ebeaf15b46685448e2292ffb074fb 3885292 ros-one-rosbag-storage-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb
+ a531d25594cc95c450d1f66879744377577eafe05d00c89e57ea1f52fc164a7c 14578 ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.buildinfo
+ 3f66ac8cfd08b0006db92ab3ec239426bfa00de7d35bd171a320fcee6aac1e9a 181772 ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb
+Files:
+ 6083140b081f8288f4861d160d962c5f 3885292 debug optional ros-one-rosbag-storage-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb
+ 573432bb3e1b225daad3d51d9a1c94af 14578 misc optional ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.buildinfo
+ 99c38baa02b87ab580274c3717d97f6a 181772 misc optional ros-one-rosbag-storage_1.17.0-35-g96d7cc306-2025.11.23.17.51_amd64.deb

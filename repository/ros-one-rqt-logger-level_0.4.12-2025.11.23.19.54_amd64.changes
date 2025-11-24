@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-logger-level
+Binary: ros-one-rqt-logger-level
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.12-2025.11.23.19.54
+Distribution: bookworm
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-rqt-logger-level - rqt_logger_level provides a GUI plugin for configuring the logger
+Changes:
+ ros-one-rqt-logger-level (0.4.12-2025.11.23.19.54) bookworm; urgency=high
+ .
+   * added LICENSE
+   * Import setup from setuptools instead of distutils.core
+   * Add xml-model
+Checksums-Sha1:
+ 79053d8e57692d35ba42ca44ad11109457adc20e 7341 ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.buildinfo
+ ced339da3ea8d3996f0f27596846b38591da6403 15920 ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.deb
+Checksums-Sha256:
+ 5c3f4f8f3af5e0fdbaae6fbcb9ef60d876ec867032e24e83b41dfb65d6da8c52 7341 ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.buildinfo
+ b4678fc76a8b3b14d663daa2b9234fc4f4a46fbe821754ecc3ce7ee07f82a850 15920 ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.deb
+Files:
+ 07200db88ea800328ffb57b53d18ee3f 7341 misc optional ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.buildinfo
+ 291abca853e7c4a775d1199b164b541b 15920 misc optional ros-one-rqt-logger-level_0.4.12-2025.11.23.19.54_amd64.deb

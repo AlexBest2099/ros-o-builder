@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-controller
+Binary: ros-one-cartesian-trajectory-controller ros-one-cartesian-trajectory-controller-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.7-2-g6dbfea9-2025.11.24.01.00
+Distribution: bookworm
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-controller - A Cartesian trajectory controller with multiple hardware interfac
+Changes:
+ ros-one-cartesian-trajectory-controller (0.1.7-2-g6dbfea9-2025.11.24.01.00) bookworm; urgency=high
+ .
+   * Move ik_solver header files to cartesian_trajectory_controller (#19 <https://github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian/issues/19>)
+   * Contributors: Felix Exner (fexner)
+Checksums-Sha1:
+ 9ad2fde96d200ef35b416dab290f55c42c5bb1b1 3042748 ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb
+ ba64bce53ba8d0845b2cfbd552fe1949d0af503e 21585 ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.buildinfo
+ fdf3b512f136319dfef51fc94b6452048755501f 184824 ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb
+Checksums-Sha256:
+ 680855204a4c571eac19d4df2ca1d2e4fc481cd9321f065faf067399b0570b0e 3042748 ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb
+ cccf637bad3c9d72ca154f5c00674b80d441ee73de74f1b031ad2bbaba0f61de 21585 ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.buildinfo
+ d5ec5672ff956e62eae2d5cc6cf00d4ee4588c6d52cbc27667384edc478b4bce 184824 ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb
+Files:
+ 1130e2094a661ea0a93714c99e9018b6 3042748 debug optional ros-one-cartesian-trajectory-controller-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb
+ 706c8abae94c0ab079f90898a96ca022 21585 misc optional ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.buildinfo
+ 5fa1226f45c57b08147a546092f0f511 184824 misc optional ros-one-cartesian-trajectory-controller_0.1.7-2-g6dbfea9-2025.11.24.01.00_amd64.deb

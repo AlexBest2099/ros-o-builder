@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 14 Nov 2023 00:00:00 -0000
+Source: ros-one-jsk-pcl-ros
+Binary: ros-one-jsk-pcl-ros ros-one-jsk-pcl-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.17-48-ge83c5ad6-2025.11.24.10.34
+Distribution: bookworm
+Urgency: high
+Maintainer: Youhei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Youhei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-pcl-ros - ROS nodelets for pointcloud perception.
+Changes:
+ ros-one-jsk-pcl-ros (1.2.17-48-ge83c5ad6-2025.11.24.10.34) bookworm; urgency=high
+Checksums-Sha1:
+ ce863c166ace0170ec54ce8ae00dd6a3a3456b1a 238869188 ros-one-jsk-pcl-ros-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb
+ d75f91fc10801690642ec767e93803da9863bc5c 50298 ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.buildinfo
+ 48b28fb9742873d34eed9d92b5365655e066249b 4813336 ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb
+Checksums-Sha256:
+ db32a65c4c6f1db2960876063ceacfd1b0935f9d1e704ae02eafb2bb5e58e7d4 238869188 ros-one-jsk-pcl-ros-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb
+ eb745d618db877a22072526b29834ac750c7780b01c035101b1df527be8317cf 50298 ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.buildinfo
+ e58f65d73312da93806e2a7b5fee2ad437cf94da40c77197d8e5491667573c62 4813336 ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb
+Files:
+ 70b2ddeea08dc5d36aecfa6dfec2b8f4 238869188 debug optional ros-one-jsk-pcl-ros-dbgsym_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb
+ 26459d1d52bdc1912ea8b5e4b82b6664 50298 misc optional ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.buildinfo
+ 420959254b59984beb75d90323cce876 4813336 misc optional ros-one-jsk-pcl-ros_1.2.17-48-ge83c5ad6-2025.11.24.10.34_amd64.deb

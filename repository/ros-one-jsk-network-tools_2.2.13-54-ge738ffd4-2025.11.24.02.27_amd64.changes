@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-network-tools
+Binary: ros-one-jsk-network-tools ros-one-jsk-network-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.02.27
+Distribution: bookworm
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-network-tools - jsk_network_tools
+Changes:
+ ros-one-jsk-network-tools (2.2.13-54-ge738ffd4-2025.11.24.02.27) bookworm; urgency=high
+Checksums-Sha1:
+ 0c2216f686e6becff6fbb8b03c1762c524b1d1a0 786320 ros-one-jsk-network-tools-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb
+ 004c59a71c97e6c960864da83af53961481e9355 15361 ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.buildinfo
+ 492315d5b9bc1b2fe224d2c8f64a730bedba9b82 146360 ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb
+Checksums-Sha256:
+ 5104109a77ffb07e1f15247923b5f3dabe8c00f292d62921db200c8e94b5ddde 786320 ros-one-jsk-network-tools-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb
+ a3d5ef1aec10dc418aa24f0a821545fce1866a05da88d5f74a2488410736650a 15361 ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.buildinfo
+ a83ed1fba5efbd247acb676bc86b7d5fc0f036b25926b601e190468313b2cb20 146360 ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb
+Files:
+ dc908c9d9f5b4293565e7002860abda0 786320 debug optional ros-one-jsk-network-tools-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb
+ 084dd292c6367afe6290edabe41695a7 15361 misc optional ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.buildinfo
+ 55332a51906e3c09abd500e717f0daae 146360 misc optional ros-one-jsk-network-tools_2.2.13-54-ge738ffd4-2025.11.24.02.27_amd64.deb

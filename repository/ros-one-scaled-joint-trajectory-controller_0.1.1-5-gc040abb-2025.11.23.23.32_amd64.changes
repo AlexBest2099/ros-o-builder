@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-joint-trajectory-controller
+Binary: ros-one-scaled-joint-trajectory-controller ros-one-scaled-joint-trajectory-controller-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-5-gc040abb-2025.11.23.23.32
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-joint-trajectory-controller - Provides controllers that use the speed scaling interface.
+Changes:
+ ros-one-scaled-joint-trajectory-controller (0.1.1-5-gc040abb-2025.11.23.23.32) bookworm; urgency=high
+ .
+   * Require same CMake version in all packages
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ 638328e9c9d90b2ab074dc77b35a3e7919867fd6 2296452 ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb
+ 6a663ac42a8f2a212afe1e6a2aa3f434e293c654 20850 ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.buildinfo
+ f2e5884e1f432421f2cdd7eab37b794fe89cdfa5 172348 ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb
+Checksums-Sha256:
+ 148a48203790d7788307842b987416ee22d6e2e1b6871ee36d061fc2775be949 2296452 ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb
+ ea988655d8421a4e8f308c77978eecd2914cce476a053e2efadc151b0bb8f75b 20850 ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.buildinfo
+ bb8b53d68a03e8934be06f58dcd0b8aa4c7c6657982f4b1b2694501a71abe600 172348 ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb
+Files:
+ 158b66219ee2c9ee01ddceec1d0f3fcf 2296452 debug optional ros-one-scaled-joint-trajectory-controller-dbgsym_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb
+ 1f8b30e86ae9a8e1370e10dde41708f2 20850 misc optional ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.buildinfo
+ 21ecedf68a9a52ce8704b50e6920bac8 172348 misc optional ros-one-scaled-joint-trajectory-controller_0.1.1-5-gc040abb-2025.11.23.23.32_amd64.deb

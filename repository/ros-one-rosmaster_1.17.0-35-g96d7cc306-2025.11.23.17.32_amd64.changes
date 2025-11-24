@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rosmaster
+Binary: ros-one-rosmaster
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.32
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosmaster - ROS Master implementation.
+Changes:
+ ros-one-rosmaster (1.17.0-35-g96d7cc306-2025.11.23.17.32) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ 6d1fb139a3f4ea70d62808ffdd97c4914c314e02 7362 ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.buildinfo
+ 303475e96c983fd4e33b105c84ce5cb980ce4a50 54620 ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.deb
+Checksums-Sha256:
+ 4d185d76ebce5e13d79be0262fe705582b03b5422a8e833293e0e249d3b80099 7362 ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.buildinfo
+ fed30525a8dafb0f39ce1009c809fcaa3ee36c9609f1d5967c7b13b85c12d6a9 54620 ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.deb
+Files:
+ 953e8cb251d2a9e37cb0e29cd3066f08 7362 misc optional ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.buildinfo
+ e21f187ecbfdf6da2ed995324664d7b5 54620 misc optional ros-one-rosmaster_1.17.0-35-g96d7cc306-2025.11.23.17.32_amd64.deb

@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-trajectory-filters
+Binary: ros-one-industrial-trajectory-filters ros-one-industrial-trajectory-filters-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.11.24.01.09
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-trajectory-filters - ROS Industrial libraries/plugins for filtering trajectories.
+Changes:
+ ros-one-industrial-trajectory-filters (0.7.3-7-ge4d2633-2025.11.24.01.09) bookworm; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ 11f39a1ac397b522777ddcb4545742c7ad1d38f9 3432308 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb
+ dceaa062c4a1757accb5f8cb50c9b529d6eb04bd 22687 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.buildinfo
+ a5f8e44b895ab79600e176d394c9121b9df3a92b 52792 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb
+Checksums-Sha256:
+ cbd4177d60e934cb06a1f855cf0194ff26ca6507bfafb58f62fb9ef5704a452e 3432308 ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb
+ e73aab8f8b08bc1ea166ee66d7cf4ea52cdaf7c90fc6cc218987687140f83938 22687 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.buildinfo
+ a98284af9a85809d3e41d65eb626f8edbe3aa0ed4ef84c9a5ffb9a102ce538eb 52792 ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb
+Files:
+ a23fce34eba5cb3b96b6208448c7e6ac 3432308 debug optional ros-one-industrial-trajectory-filters-dbgsym_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb
+ 39599e088c041eda96ec969a2b619327 22687 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.buildinfo
+ 900ebeb5e8096e35330eda09256cd7ae 52792 misc optional ros-one-industrial-trajectory-filters_0.7.3-7-ge4d2633-2025.11.24.01.09_amd64.deb

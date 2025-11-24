@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-publisher
+Binary: ros-one-image-publisher ros-one-image-publisher-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.11.23.19.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-publisher - Contains a node publish an image stream from single image file or
+Changes:
+ ros-one-image-publisher (1.17.0-11-g69488e6-2025.11.23.19.58) bookworm; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 9635a6954ceb9db913b3f0e7bdec6c6a78fb7b6d 1170188 ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb
+ 9b40f41718b6dd822530f7ee5e9266d74af4bf7c 29047 ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.buildinfo
+ 901cd9d9dd2b4aad4959ff1903ad98bdc175f332 83044 ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb
+Checksums-Sha256:
+ 558c0274494cb2fe6293edb50cf39b9bad1c3994c5495720957527a713005d59 1170188 ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb
+ c6a8c77d235d6fb53cfbb10e544a252a48def9250f62ba26350ea69bb209d7a3 29047 ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.buildinfo
+ 059202ff16631bd88ce51a27adeb0aebef24bca303990326e72f4b5c9125d62e 83044 ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb
+Files:
+ 2cb06cc41e4709cda0ac2fb20c65d7a3 1170188 debug optional ros-one-image-publisher-dbgsym_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb
+ b53fd93832b8e4669951a4209a7c3b7c 29047 misc optional ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.buildinfo
+ 66c244868f52b304712cb0068ccec816 83044 misc optional ros-one-image-publisher_1.17.0-11-g69488e6-2025.11.23.19.58_amd64.deb

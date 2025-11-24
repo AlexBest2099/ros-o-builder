@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-industrial-deprecated
+Binary: ros-one-industrial-deprecated
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.3-7-ge4d2633-2025.11.24.00.54
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-industrial-deprecated - The Industrial deprecated package contains nodes, launch files, e
+Changes:
+ ros-one-industrial-deprecated (0.7.3-7-ge4d2633-2025.11.24.00.54) bookworm; urgency=high
+ .
+   * No changes
+Checksums-Sha1:
+ e7a45b12def74904c586c033478b1cfd0b3f0f32 7403 ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.buildinfo
+ ff035ed3df5b097bc1621e297a77559dacc5b2d5 6248 ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.deb
+Checksums-Sha256:
+ 1651787d5bd1d86a528b831dc718581779c7f5904795338ba6a9a9941120fb1f 7403 ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.buildinfo
+ a16efa84786ccb1e9ba3f0c2de01d3cd0d4d7489825dbe437f0bc88f18d8a855 6248 ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.deb
+Files:
+ cad57960ecfcb7330fd6f5d5e45dfbbc 7403 misc optional ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.buildinfo
+ 0646c2ef85f40b12fadaeac62f41b664 6248 misc optional ros-one-industrial-deprecated_0.7.3-7-ge4d2633-2025.11.24.00.54_amd64.deb

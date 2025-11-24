@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 09 Apr 2025 00:00:00 -0000
+Source: ros-one-camera-calibration-parsers
+Binary: ros-one-camera-calibration-parsers ros-one-camera-calibration-parsers-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.12.1-2025.11.23.18.24
+Distribution: bookworm
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-camera-calibration-parsers - camera_calibration_parsers contains routines for reading and writ
+Changes:
+ ros-one-camera-calibration-parsers (1.12.1-2025.11.23.18.24) bookworm; urgency=high
+ .
+   * Add support for missing CameraInfo.msg fields (#175 <https://github.com/ros-perception/image_common/issues/175>)
+   * Drop pkg-config logic to find yaml-cpp. (#280 <https://github.com/ros-perception/image_common/issues/280>)
+   * Contributors: Mike Purvis, UniBwTAS
+Checksums-Sha1:
+ b7f0f7a1e48bbf5ef288896ff709e0753c24ef1f 1277884 ros-one-camera-calibration-parsers-dbgsym_1.12.1-2025.11.23.18.24_amd64.deb
+ d575af71fed2bdcc9fca03ba2aaf6ec16507822b 15734 ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.buildinfo
+ 62184372b822fa42dd61fdfcb06f3445541f197c 74060 ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.deb
+Checksums-Sha256:
+ 66900a4c2a0899d28e74e6e9186f1cb16ea56aa10c5f454f2cb408689b715e5f 1277884 ros-one-camera-calibration-parsers-dbgsym_1.12.1-2025.11.23.18.24_amd64.deb
+ 2e3cae1e7ababb27102075949bf02e4bdf69e5136ebd170bb7bb40eb328cf7f4 15734 ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.buildinfo
+ aca69d15d717ab16281ccff3bfe6a42dcddb90db645fd18557056f3f08d8ae97 74060 ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.deb
+Files:
+ 0a1812b228c09a0aa11b637ea1546f6b 1277884 debug optional ros-one-camera-calibration-parsers-dbgsym_1.12.1-2025.11.23.18.24_amd64.deb
+ b4cee48a0800b4cd4fc546ffcb7db514 15734 misc optional ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.buildinfo
+ 617a0ba8b252c8d88c7236f336b208ce 74060 misc optional ros-one-camera-calibration-parsers_1.12.1-2025.11.23.18.24_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf2-kdl
+Binary: ros-one-tf2-kdl
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-32-gcbdb3f9-2025.11.23.19.03
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-kdl - KDL binding for tf2
+Changes:
+ ros-one-tf2-kdl (0.7.5-32-gcbdb3f9-2025.11.23.19.03) bookworm; urgency=high
+Checksums-Sha1:
+ e39dfb537bc15c92e4adbb81304cffd29cbf8056 12490 ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.buildinfo
+ 784f664b535ac1033ee2a8a77e82115a50113c2d 13592 ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.deb
+Checksums-Sha256:
+ 80b83bd18fc2f0b0ef20f39ba0f89371efed0941d37fe5c1cdfc900b852b70ae 12490 ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.buildinfo
+ 5a8608c65ca532787e6ea33d611741e8d5cec3cd4ecc400799d20d6bbb9d9a62 13592 ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.deb
+Files:
+ 4249749168a0fa9a0136d3ec28944cec 12490 misc optional ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.buildinfo
+ b04b31e12d0ffcc11944b6413da2b305 13592 misc optional ros-one-tf2-kdl_0.7.5-32-gcbdb3f9-2025.11.23.19.03_amd64.deb

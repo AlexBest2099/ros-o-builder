@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-pr2-description
+Binary: ros-one-moveit-resources-pr2-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2025.11.23.22.02
+Distribution: bookworm
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-pr2-description - PR2 Resources used for MoveIt! testing
+Changes:
+ ros-one-moveit-resources-pr2-description (0.8.3-2-gb771644-2025.11.23.22.02) bookworm; urgency=high
+Checksums-Sha1:
+ a8ac3c66425023a4336b9da898017580d6708286 7470 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.buildinfo
+ d240253e675c913864a97bb996ed46038578bc55 23575660 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.deb
+Checksums-Sha256:
+ a0c7ea0d52a8fbce97c49b2145f012dae1aa2c522d81820f370cc69e5876fc01 7470 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.buildinfo
+ b1e91b0f69c59359aa68ea390d36ad8e425fd2c35c03b2a78328fab019f80ec1 23575660 ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.deb
+Files:
+ 38cf4210c515cc88e05ea2da1a12729b 7470 misc optional ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.buildinfo
+ 38af69b4e0371b94e0af77f3a19de67d 23575660 misc optional ros-one-moveit-resources-pr2-description_0.8.3-2-gb771644-2025.11.23.22.02_amd64.deb

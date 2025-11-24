@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf2-msgs
+Binary: ros-one-tf2-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-32-gcbdb3f9-2025.11.23.18.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-msgs - tf2_msgs
+Changes:
+ ros-one-tf2-msgs (0.7.5-32-gcbdb3f9-2025.11.23.18.48) bookworm; urgency=high
+Checksums-Sha1:
+ 3cb5f0bd1458899c37312227294e925c84829738 9009 ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.buildinfo
+ 2d5231e77e419e1c01b08ecabf5917d552ee5038 52460 ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.deb
+Checksums-Sha256:
+ a8ec17244f71e43ba0f3af22a1b73635adb7703eba37be8d099afcdea4a2757c 9009 ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.buildinfo
+ 272f8fd57ce830e32bd63e36d2a15abbd19a8a9773fb2921837a5bfddaac830f 52460 ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.deb
+Files:
+ a905953c4c1d1e819586416f7c43f508 9009 misc optional ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.buildinfo
+ dc8cd4de699f998b7a92b78065047595 52460 misc optional ros-one-tf2-msgs_0.7.5-32-gcbdb3f9-2025.11.23.18.48_amd64.deb

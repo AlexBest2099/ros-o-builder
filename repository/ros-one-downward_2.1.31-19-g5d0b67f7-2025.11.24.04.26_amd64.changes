@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-downward
+Binary: ros-one-downward ros-one-downward-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.04.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-downward - fast downward: PDDL Planner (http://www.fast-downward.org)
+Changes:
+ ros-one-downward (2.1.31-19-g5d0b67f7-2025.11.24.04.26) bookworm; urgency=high
+Checksums-Sha1:
+ 9f5852a0e3574d693aa4bae030d5ec8c06958c63 19303232 ros-one-downward-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb
+ 7bf1bd0c6001af0a4098d26dfbe796b263af18b5 12415 ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.buildinfo
+ 9195324073cb1b326e17f02abdee456d2b542544 1679984 ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb
+Checksums-Sha256:
+ 1d8f44236c3ccef8691f2cd58115fd70d816fedadb134bbdff6ff7b3a7b842c8 19303232 ros-one-downward-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb
+ 94081b4c2c0dd6f6893c3289fce5f3549480cb68a4073e16c7d584154c4fbc41 12415 ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.buildinfo
+ ae91c039c4d4c4cb45f370f081f826dd85a69a7ede522a8acee0543c863593df 1679984 ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb
+Files:
+ 060d447cb12b46f61676532e4aa029d8 19303232 debug optional ros-one-downward-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb
+ 97f5b76dabdb23d45392349f7aca0ece 12415 misc optional ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.buildinfo
+ 2d54d4716ee740919a94e108ec0eca5b 1679984 misc optional ros-one-downward_2.1.31-19-g5d0b67f7-2025.11.24.04.26_amd64.deb

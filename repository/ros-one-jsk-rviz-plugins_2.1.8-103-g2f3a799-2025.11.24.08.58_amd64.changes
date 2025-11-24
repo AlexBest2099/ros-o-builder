@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-rviz-plugins
+Binary: ros-one-jsk-rviz-plugins ros-one-jsk-rviz-plugins-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-103-g2f3a799-2025.11.24.08.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-rviz-plugins - The jsk_rviz_plugins package
+Changes:
+ ros-one-jsk-rviz-plugins (2.1.8-103-g2f3a799-2025.11.24.08.58) bookworm; urgency=high
+Checksums-Sha1:
+ 33b9bd61590239e01fb8c508a813a06c03007d9b 55079680 ros-one-jsk-rviz-plugins-dbgsym_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb
+ 00245843517942e1da013888ca4ae47dd2da1757 46406 ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.buildinfo
+ 9464ac522b825b32bf8dfc097091c919d9fe824e 2179720 ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb
+Checksums-Sha256:
+ 93133f756fc233c56d55b4edd64bc702e137a8f0ecc60db2c7f86ee3868f7262 55079680 ros-one-jsk-rviz-plugins-dbgsym_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb
+ d9a9de9c34534ddfb228826a4afce21361ab7ea3105adf61618ea915636d6138 46406 ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.buildinfo
+ 442e736836a479e613dd08a753d435b232616f6964fab04f6535da4dff2fa0c5 2179720 ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb
+Files:
+ 4749c595a484f8c1d0bdbf727a7db820 55079680 debug optional ros-one-jsk-rviz-plugins-dbgsym_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb
+ f80e875220877124f850106c7d1ccef9 46406 misc optional ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.buildinfo
+ db73b9358923edc39bfc41472b03528a 2179720 misc optional ros-one-jsk-rviz-plugins_2.1.8-103-g2f3a799-2025.11.24.08.58_amd64.deb

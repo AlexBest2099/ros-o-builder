@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-ros-tutorials
+Binary: ros-one-ros-tutorials
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.10.3-2025.11.23.18.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-ros-tutorials - ros_tutorials contains packages that demonstrate various features
+Changes:
+ ros-one-ros-tutorials (0.10.3-2025.11.23.18.28) bookworm; urgency=high
+ .
+   * Update maintainers (#102 <https://github.com/ros/ros_tutorials/issues/102>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 137a523c30b4328127ee044146bdd7c444144316 7323 ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.buildinfo
+ 7e82a56f70c4e8946fbb9c8a97a735ae10edb7b7 2948 ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.deb
+Checksums-Sha256:
+ a363d4805ac094bc0f8055319866f429b01f1beeab381b180256fa11da174312 7323 ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.buildinfo
+ d439e9bb90271c254c6492b3fd851b83aa1e443c0f6df9fd596b1ee3fd03cdd8 2948 ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.deb
+Files:
+ 4e2b000010a86b1de8fda2f23a28345a 7323 misc optional ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.buildinfo
+ 82d12242506e81745bc2ae456d169988 2948 misc optional ros-one-ros-tutorials_0.10.3-2025.11.23.18.28_amd64.deb

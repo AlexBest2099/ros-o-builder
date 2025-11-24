@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-ros-controllers-cartesian
+Binary: ros-one-ros-controllers-cartesian
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.7-2-g6dbfea9-2025.11.24.01.16
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-ros-controllers-cartesian - Metapackage for Cartesian ROS controllers
+Changes:
+ ros-one-ros-controllers-cartesian (0.1.7-2-g6dbfea9-2025.11.24.01.16) bookworm; urgency=high
+Checksums-Sha1:
+ feca3e7c56344e78dcbc28120aaa96000a474e31 7423 ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.buildinfo
+ f5d4b627fe116a9ceb8f62faf2eb6495f26f6c52 2516 ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.deb
+Checksums-Sha256:
+ e53b1caf8f699fca408f3af019f6a5284fc3785d17a0e50d80544203ede9784e 7423 ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.buildinfo
+ bc36f17fb2d5f350eec8b3098af1158a93b32028484df360fff6ba4dcb4f7b54 2516 ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.deb
+Files:
+ b6b998bf5fc311569a52279e9d73754e 7423 misc optional ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.buildinfo
+ 9e39e9fef2d8f4adbb2fdb07cd9d07d6 2516 misc optional ros-one-ros-controllers-cartesian_0.1.7-2-g6dbfea9-2025.11.24.01.16_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-universal-robots
+Binary: ros-one-universal-robots
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.01.46
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn (TU Delft Robotics Institute) <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-universal-robots - ROS-Industrial support for Universal Robots manipulators (metapac
+Changes:
+ ros-one-universal-robots (1.5.0-1-gf2f8613-2025.11.24.01.46) bookworm; urgency=high
+ .
+   * Add support for UR15 (#702 <https://github.com/ros-industrial/universal_robot/issues/702>)
+   * Add License files to packages (#695 <https://github.com/ros-industrial/universal_robot/issues/695>)
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ a34457b1d13c8ebe873bfb78fd21a89c2989167c 7378 ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.buildinfo
+ d7bcfe53d9cf29251c9dce5d56609a651683ba58 4164 ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.deb
+Checksums-Sha256:
+ 80919933a2e67ee7ac30f2d581007f25f571bae0fb1c7c078827cdd0d1559cd4 7378 ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.buildinfo
+ e4a4a6ae950cbf774d77b334cfc693256a9bb7553792c00699c1690f43977a73 4164 ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.deb
+Files:
+ 75a2d0ff17b1ccd50021cc2eda97a357 7378 misc optional ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.buildinfo
+ ec6dd4338c37a49c695e5273f0edbe68 4164 misc optional ros-one-universal-robots_1.5.0-1-gf2f8613-2025.11.24.01.46_amd64.deb

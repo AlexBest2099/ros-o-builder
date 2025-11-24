@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-control
+Binary: ros-one-qb-device-control ros-one-qb-device-control-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.11.23.23.47
+Distribution: bookworm
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-control - This package contains a device-independent control library for qb
+Changes:
+ ros-one-qb-device-control (0-2025.11.23.23.47) bookworm; urgency=high
+Checksums-Sha1:
+ 6efea8712f1108f694a7633af369922ac7991456 6054608 ros-one-qb-device-control-dbgsym_0-2025.11.23.23.47_amd64.deb
+ 14992817ad5560a1b88c422064726a6f7ca67d99 16398 ros-one-qb-device-control_0-2025.11.23.23.47_amd64.buildinfo
+ 4ac5df50a6c73488c2ba6e6f86ea7819a7435768 324820 ros-one-qb-device-control_0-2025.11.23.23.47_amd64.deb
+Checksums-Sha256:
+ 4093d8092771ff2acc822321a151e17f40578bf5c765b524c54a3b3dd2a6b4f4 6054608 ros-one-qb-device-control-dbgsym_0-2025.11.23.23.47_amd64.deb
+ eb95b3011b4200ed08c2e6a5e0ebaed7f42206ae014a8563909911c0e0185523 16398 ros-one-qb-device-control_0-2025.11.23.23.47_amd64.buildinfo
+ a1a5517794fb2d059d8cf40483f66a96cee5df353db4fb19d5048ca76ee453fa 324820 ros-one-qb-device-control_0-2025.11.23.23.47_amd64.deb
+Files:
+ 93dd3cac18abd7e288a3325655b38d47 6054608 debug optional ros-one-qb-device-control-dbgsym_0-2025.11.23.23.47_amd64.deb
+ 7fff4deedfe92753d0fc763b24897f2f 16398 misc optional ros-one-qb-device-control_0-2025.11.23.23.47_amd64.buildinfo
+ fc2b8304338ef74b1978caff966295ca 324820 misc optional ros-one-qb-device-control_0-2025.11.23.23.47_amd64.deb

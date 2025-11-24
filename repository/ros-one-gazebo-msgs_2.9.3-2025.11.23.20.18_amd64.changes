@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 26 Feb 2025 00:00:00 -0000
+Source: ros-one-gazebo-msgs
+Binary: ros-one-gazebo-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.9.3-2025.11.23.20.18
+Distribution: bookworm
+Urgency: high
+Maintainer: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Changed-By: Alejandro Hernández Cordero <ahcorde@osrfoundation.org>
+Description:
+ ros-one-gazebo-msgs - Message and service data structures for interacting with Gazebo f
+Changes:
+ ros-one-gazebo-msgs (2.9.3-2025.11.23.20.18) bookworm; urgency=high
+ .
+   * Noetic: Add <deprecated> tag to package.xml files (#1566 <https://github.com/ros-simulation/gazebo_ros_pkgs/issues/1566>)
+     These packages are now deprecated with Gazebo classic 11 reaching
+     end-of-life. This adds the <deprecated> tag (https://www.ros.org/reps/rep-0149.html#deprecated)
+     enabling tools to notify users about the deprecation.
+   * Add ahcorde as maintainer (noetic-devel) (#1437 <https://github.com/ros-simulation/gazebo_ros_pkgs/issues/1437>)
+   * Contributors: Addisu Z. Taddese, Jose Luis Rivero
+Checksums-Sha1:
+ 7e9d00ca6a5b34853944514e29938430e9f6a8bf 9170 ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.buildinfo
+ 9cb1d5e4aea6fc982fe5f853769a9fb460eac744 153284 ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.deb
+Checksums-Sha256:
+ 2d1277d198400f4301e9c490d8c6ef1dbcee0a6ef4b08e964034f7da8a04eee1 9170 ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.buildinfo
+ 57d8a2dbb0729a0e6a1c7922ab55f5c46a5e6b37da727cfc8b8233b2f386a946 153284 ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.deb
+Files:
+ bd2f5d8275d5230126798aa5a09329e4 9170 misc optional ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.buildinfo
+ 020aa01aa0089aa9a98d5fc25d9172e8 153284 misc optional ros-one-gazebo-msgs_2.9.3-2025.11.23.20.18_amd64.deb

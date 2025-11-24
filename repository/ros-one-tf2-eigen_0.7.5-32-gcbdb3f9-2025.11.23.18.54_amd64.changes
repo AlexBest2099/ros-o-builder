@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf2-eigen
+Binary: ros-one-tf2-eigen
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-32-gcbdb3f9-2025.11.23.18.54
+Distribution: bookworm
+Urgency: high
+Maintainer: Koji Terada <terakoji@gmail.com>
+Changed-By: Koji Terada <terakoji@gmail.com>
+Description:
+ ros-one-tf2-eigen - tf2_eigen
+Changes:
+ ros-one-tf2-eigen (0.7.5-32-gcbdb3f9-2025.11.23.18.54) bookworm; urgency=high
+Checksums-Sha1:
+ c07cd00664da2b524edb809db92eb046884faeb7 9215 ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.buildinfo
+ 77bf9cbd35c98e21f4f819f4944d340312879544 10360 ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.deb
+Checksums-Sha256:
+ 0bfe338535f1c6773d26b3e0b2388aa125acaa755e9906598ee644bcd990ae15 9215 ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.buildinfo
+ 2d2d27e18789a9bf0a1a55e47b822491508647a6c29ffeddc16197c539d01e3d 10360 ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.deb
+Files:
+ 5852b42355092571762b67e32abf9c37 9215 misc optional ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.buildinfo
+ e14097926544535d28d9c816ccd002f1 10360 misc optional ros-one-tf2-eigen_0.7.5-32-gcbdb3f9-2025.11.23.18.54_amd64.deb

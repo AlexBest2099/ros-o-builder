@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-aques-talk
+Binary: ros-one-aques-talk
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.03.45
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Changed-By: Kei Okada <kei.okada@gmail.com>
+Description:
+ ros-one-aques-talk - ROS interface aques_talk demo program
+Changes:
+ ros-one-aques-talk (2.1.31-19-g5d0b67f7-2025.11.24.03.45) bookworm; urgency=high
+Checksums-Sha1:
+ 5df882cd6be8b26b01e7cb0527dcd112e778680d 7360 ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.buildinfo
+ c37aef0cbec7dc0d7048b5f14d60d04da887a0ea 9064 ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.deb
+Checksums-Sha256:
+ 7f10f78dbe8869d0b469d0b7cf3e932f77cd3efad5fe99e8ea9ae98891c75ae6 7360 ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.buildinfo
+ e6bfd4467782650edc5ca9a343af1a3f35775450e6d848747a2c4e545457fba2 9064 ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.deb
+Files:
+ 643f5c076f900191d11431fba461460d 7360 misc optional ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.buildinfo
+ 4127a8cc517c9385dc53bcb9c3b2d135 9064 misc optional ros-one-aques-talk_2.1.31-19-g5d0b67f7-2025.11.24.03.45_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-prbt-pg70-support
+Binary: ros-one-moveit-resources-prbt-pg70-support
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2025.11.23.22.33
+Distribution: bookworm
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-moveit-resources-prbt-pg70-support - PRBT support for Schunk pg70 gripper.
+Changes:
+ ros-one-moveit-resources-prbt-pg70-support (0.8.3-2-gb771644-2025.11.23.22.33) bookworm; urgency=high
+Checksums-Sha1:
+ 2ec8f536614169a60cd77958142ce26169b22f6c 7468 ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.buildinfo
+ c3bc1e9db3772c4438a4934394ebeb1e58390455 9796 ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.deb
+Checksums-Sha256:
+ 9e105b1cacf603fa23bbe2e66c002b7ae9e5487493d3e13f654ac41c3374db94 7468 ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.buildinfo
+ 986c3a2d52112dc6e12332fe9f673a73506c2591177ea69256f0e3e16130a270 9796 ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.deb
+Files:
+ 154b33ead9616978014f175a61f3721a 7468 misc optional ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.buildinfo
+ fbfc64a252b267390975c828ce611fe1 9796 misc optional ros-one-moveit-resources-prbt-pg70-support_0.8.3-2-gb771644-2025.11.23.22.33_amd64.deb

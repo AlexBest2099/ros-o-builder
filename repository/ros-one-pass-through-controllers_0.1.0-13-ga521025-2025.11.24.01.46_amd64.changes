@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-pass-through-controllers
+Binary: ros-one-pass-through-controllers ros-one-pass-through-controllers-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.0-13-ga521025-2025.11.24.01.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-pass-through-controllers - Trajectory controllers (joint-based and Cartesian) that forward t
+Changes:
+ ros-one-pass-through-controllers (0.1.0-13-ga521025-2025.11.24.01.46) bookworm; urgency=high
+ .
+   * Initial release
+   * Contributors: Felix Exner, Rune Søe-Knudsen, Stefan Scherzinger
+Checksums-Sha1:
+ 6985011da97cfd7eae383c68820382f4debed494 1899448 ros-one-pass-through-controllers-dbgsym_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb
+ b1275f513e1d3674bbb3e2abe955551b3366bb9d 21609 ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.buildinfo
+ 0f4b99deb421f7bd1288af30eb10f012be25801c 151084 ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb
+Checksums-Sha256:
+ a5cddd29b047c013b413a52f2dffce87c6f8d97f084cb357e5b2db4d4425df40 1899448 ros-one-pass-through-controllers-dbgsym_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb
+ 820ebcccdc102132596c43ea1cd4e61cf35a4a9cb1cd7ee89ea340f725cad4fe 21609 ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.buildinfo
+ ac8b11b6712367c2bb7f1069024df24293a6032851a190fac18e3fba18c2573a 151084 ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb
+Files:
+ f7a57a963561251552788d572a8e7217 1899448 debug optional ros-one-pass-through-controllers-dbgsym_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb
+ 5e0305713f46a0dfe3db8362d486a2b9 21609 misc optional ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.buildinfo
+ 9748132db0829ac5b1ab84abca83b800 151084 misc optional ros-one-pass-through-controllers_0.1.0-13-ga521025-2025.11.24.01.46_amd64.deb

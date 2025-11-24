@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense-cal-check
+Binary: ros-one-multisense-cal-check
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 4.0.5-46-g945e646-2025.11.23.20.53
+Distribution: bookworm
+Urgency: high
+Maintainer: Carnegie Robotics <support@carnegierobotics.com>
+Changed-By: Carnegie Robotics <support@carnegierobotics.com>
+Description:
+ ros-one-multisense-cal-check - multisense_cal_check
+Changes:
+ ros-one-multisense-cal-check (4.0.5-46-g945e646-2025.11.23.20.53) bookworm; urgency=high
+Checksums-Sha1:
+ 8bf2d51231ad1b7b62dd2be4d86a32db8ce703d5 29932 ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.buildinfo
+ bc777ee491b1aa7c58fefc7efa8477147b16c2ba 12788 ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.deb
+Checksums-Sha256:
+ ad1b4a0aa81c5183380dd372f46adf7e05581260d5335e1f7cbefcefaff00de7 29932 ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.buildinfo
+ 0bc23e2fe6ad0b87a1480030db5fb71a6d4cefa5eaa674ba7acb4bc26eefae4e 12788 ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.deb
+Files:
+ a97d6433d28cdb6e48703856e9a70f7b 29932 misc optional ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.buildinfo
+ 7a26459c5df3479d67d2eb41772ee669 12788 misc optional ros-one-multisense-cal-check_4.0.5-46-g945e646-2025.11.23.20.53_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf2-tools
+Binary: ros-one-tf2-tools
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-32-gcbdb3f9-2025.11.23.19.10
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-tools - tf2_tools
+Changes:
+ ros-one-tf2-tools (0.7.5-32-gcbdb3f9-2025.11.23.19.10) bookworm; urgency=high
+Checksums-Sha1:
+ eb7bf1893ac7aff1e4e84bb6444b75656adc81d8 12341 ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.buildinfo
+ 634ed8f81b9889e8690e7407c42d2194b44dc037 11340 ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.deb
+Checksums-Sha256:
+ 269cdf412bef6dba6eea0f96cae5ad352c2bc0555737944e5fc5c74697659d8e 12341 ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.buildinfo
+ ab79d4afc0d1aba508f94e0e9774abbc724789fd4fd26166178519e8aa2c6a59 11340 ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.deb
+Files:
+ da1f82daeba95cf745c150568668826e 12341 misc optional ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.buildinfo
+ 441e5c9a68ef2db60b21513be24462d1 11340 misc optional ros-one-tf2-tools_0.7.5-32-gcbdb3f9-2025.11.23.19.10_amd64.deb

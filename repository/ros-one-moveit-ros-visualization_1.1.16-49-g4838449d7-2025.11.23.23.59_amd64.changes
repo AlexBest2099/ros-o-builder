@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-visualization
+Binary: ros-one-moveit-ros-visualization ros-one-moveit-ros-visualization-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.23.59
+Distribution: bookworm
+Urgency: high
+Maintainer: Jon Binney <jon.binney@gmail.com>
+Changed-By: Jon Binney <jon.binney@gmail.com>
+Description:
+ ros-one-moveit-ros-visualization - Components of MoveIt that offer visualization
+Changes:
+ ros-one-moveit-ros-visualization (1.1.16-49-g4838449d7-2025.11.23.23.59) bookworm; urgency=high
+Checksums-Sha1:
+ 8e7c80fb712d7102f6e4e387207b0a9ad35870c3 41092568 ros-one-moveit-ros-visualization-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb
+ c6101191a964df5d2769f2861dad91a08daa167d 37772 ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.buildinfo
+ 69f4c6315b015f9c395328c03ed29b7c5a79469f 584684 ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb
+Checksums-Sha256:
+ 767ac913e36bec509c29656d0ff92005521ababe9f6ab659bfcb8708f60f7f78 41092568 ros-one-moveit-ros-visualization-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb
+ a55390e541c1d821160bcf67b0ed153c9068f5fc84d89e7b7d99bc25f4d2b27c 37772 ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.buildinfo
+ e5f0896458ed7da0b3b4cb9102f6f85dd71da3afa7910addaaf8374ec8e23902 584684 ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb
+Files:
+ c26879caf86cd9da7baa4446af573326 41092568 debug optional ros-one-moveit-ros-visualization-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb
+ 904cc12bce9888685409a50f1ff65497 37772 misc optional ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.buildinfo
+ 6f8ff867b7ba2bcdc79a6e2498f15046 584684 misc optional ros-one-moveit-ros-visualization_1.1.16-49-g4838449d7-2025.11.23.23.59_amd64.deb

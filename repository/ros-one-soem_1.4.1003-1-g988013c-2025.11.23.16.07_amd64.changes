@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-soem
+Binary: ros-one-soem ros-one-soem-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.4.1003-1-g988013c-2025.11.23.16.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Matthias Gruhler <matthias.gruhler@gmail.com>
+Changed-By: Matthias Gruhler <matthias.gruhler@gmail.com>
+Description:
+ ros-one-soem - ROS wrapper for the Simple Open EtherCAT Master SOEM.
+Changes:
+ ros-one-soem (1.4.1003-1-g988013c-2025.11.23.16.07) bookworm; urgency=high
+ .
+   * fixes #40 <https://github.com/mgruhler/soem/issues/40>: export include directories properly
+   * Contributors: Matthias Gruhler
+Checksums-Sha1:
+ ec37c3db883e2b55e7bdb31a2017a3ddf20bad4d 304272 ros-one-soem-dbgsym_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb
+ 3a85af209bf38c6184146cb60fa357b7314984d2 7717 ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.buildinfo
+ 98c6b0df64882818d385e29e30e6166b4b5a7083 89720 ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb
+Checksums-Sha256:
+ 7d1bdbf921c540f29288588904e5d4f0a0c5ff482658958bb2e07df2a8a4df5c 304272 ros-one-soem-dbgsym_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb
+ 0ef931e9155e046bad1e410ae55bb8bc3d26d11764d4d2e3b8752b0c87505fa1 7717 ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.buildinfo
+ b2a94cb67037ced498704b55981378784891c1a8237b8a6923fc03fd7aec37e0 89720 ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb
+Files:
+ f4839f8ef41cdc219e195bd6dd06b9cd 304272 debug optional ros-one-soem-dbgsym_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb
+ 05b1a0091fd87615ef6249354ed4100e 7717 misc optional ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.buildinfo
+ 7f96f0395cdc2190b203ef8b4685a92d 89720 misc optional ros-one-soem_1.4.1003-1-g988013c-2025.11.23.16.07_amd64.deb

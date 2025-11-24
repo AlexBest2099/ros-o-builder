@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-multi-map-server
+Binary: ros-one-multi-map-server ros-one-multi-map-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.03.23
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-multi-map-server - multi_map_server provides the
+Changes:
+ ros-one-multi-map-server (2.2.13-54-ge738ffd4-2025.11.24.03.23) bookworm; urgency=high
+Checksums-Sha1:
+ 2501b7ce4cdcbe24e97f505cffaf24e60cce5ac3 638528 ros-one-multi-map-server-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb
+ a8c69f02b372ce2ebf4126520584517024ce86ff 39917 ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.buildinfo
+ ec6eb9df0bdde7c4d94c81035d401c82be8a8817 55580 ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb
+Checksums-Sha256:
+ ca9e5dc09b64a91318365c80072ffe49f540ea95f3b8c74b58db688021321838 638528 ros-one-multi-map-server-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb
+ 5cccee1b3ee7dbcae6b8978a29fa60f67710b1eca5b50a19ac20454ac00face2 39917 ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.buildinfo
+ 3d6bbdb9a84e0d2733ed8984f48abdd1b325faa0efb02bdfd194cdb58ea3c566 55580 ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb
+Files:
+ 10169f5b092b6d48a9ac4c5ff0673d35 638528 debug optional ros-one-multi-map-server-dbgsym_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb
+ b90243700ec675039965f5c00e1b4bc5 39917 misc optional ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.buildinfo
+ f6d6789656f76142f71a08217eca5e64 55580 misc optional ros-one-multi-map-server_2.2.13-54-ge738ffd4-2025.11.24.03.23_amd64.deb

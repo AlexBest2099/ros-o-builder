@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Jul 2024 00:00:00 -0000
+Source: ros-one-qb-hand
+Binary: ros-one-qb-hand
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.11.24.01.01
+Distribution: bookworm
+Urgency: high
+Maintainer: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Changed-By: Alessandro Tondo <alessandro.tondo@qbrobotics.com>
+Description:
+ ros-one-qb-hand - This package contains the ROS interface for qbrobotics® qbhand de
+Changes:
+ ros-one-qb-hand (0-2025.11.24.01.01) bookworm; urgency=high
+Checksums-Sha1:
+ 51c32fea73dc2de5a5143ae094da67613642cb63 7273 ros-one-qb-hand_0-2025.11.24.01.01_amd64.buildinfo
+ 65bfc117020cb342a4c2c15aa7a64ae96d776c91 2480 ros-one-qb-hand_0-2025.11.24.01.01_amd64.deb
+Checksums-Sha256:
+ a1b2205d65e831222e56a7b304e37fc49ce553002c5eef9860a760a51d1f1490 7273 ros-one-qb-hand_0-2025.11.24.01.01_amd64.buildinfo
+ fb0b4dc975b821385d8c02351b693b8beab68b89c8a0e4674bea721531235f41 2480 ros-one-qb-hand_0-2025.11.24.01.01_amd64.deb
+Files:
+ 94d5bfc31e02eccf62f67d8896597f0d 7273 misc optional ros-one-qb-hand_0-2025.11.24.01.01_amd64.buildinfo
+ 8054f836a22b8074a0ed295397c83dd9 2480 misc optional ros-one-qb-hand_0-2025.11.24.01.01_amd64.deb

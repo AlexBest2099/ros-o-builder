@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-roscreate
+Binary: ros-one-roscreate
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.11.23.17.01
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-roscreate - roscreate contains a tool that assists in the creation of ROS fil
+Changes:
+ ros-one-roscreate (1.15.10-1-g99fd9bb7-2025.11.23.17.01) bookworm; urgency=high
+Checksums-Sha1:
+ e0b306158f0c58ecbb2381597a145525f24a11db 7358 ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.buildinfo
+ 7d9fbbbb635ef08b351d45905da459627dcd1b92 14372 ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.deb
+Checksums-Sha256:
+ de6a5bff29a3d5564040bc82b3e245c3f5600f3c5199c07193c76d3dc847cca4 7358 ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.buildinfo
+ e4e1d053d9529941088704e73f549282594f214afb2b58c999e63c0189013aba 14372 ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.deb
+Files:
+ 0a70d4ca35e6c02d7cd2d452f9a38dec 7358 misc optional ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.buildinfo
+ 73da53916c089ee8f146c1e96481f4ac 14372 misc optional ros-one-roscreate_1.15.10-1-g99fd9bb7-2025.11.23.17.01_amd64.deb

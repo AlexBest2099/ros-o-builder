@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Jul 2025 00:00:00 -0000
+Source: ros-one-ros-industrial-cmake-boilerplate
+Binary: ros-one-ros-industrial-cmake-boilerplate
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.4-2025.11.23.16.06
+Distribution: bookworm
+Urgency: high
+Maintainer: Levi Armstrong <levi.armstrong@gmail.com>
+Changed-By: Levi Armstrong <levi.armstrong@gmail.com>
+Description:
+ ros-one-ros-industrial-cmake-boilerplate - Contains boilerplate cmake script, macros and utils
+Changes:
+ ros-one-ros-industrial-cmake-boilerplate (0.7.4-2025.11.23.16.06) bookworm; urgency=high
+ .
+   * fix cmake deprecation, cmake version < then 3.10 is deprecated
+   * Update package_debian.yml
+   * Contributors: Levi Armstrong, mosfet80
+Checksums-Sha1:
+ a5388421ba4efc72821f32c3466c98238fa659a8 6273 ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.buildinfo
+ 2a352c975b11ba66b8806630b24889a07fef5719 26936 ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.deb
+Checksums-Sha256:
+ fa133ab8579e03c4b5a5b1fe11b8047994f8eb34d957f0c3c373b09cb6f1d8a3 6273 ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.buildinfo
+ cb85596d054317c182fcd26d74f8bb19a17645754c88751e3313826b299b02f1 26936 ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.deb
+Files:
+ b53eb7f4a69873ce93467153581ec731 6273 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.buildinfo
+ 4e53f6add7325043d683c88ad4e0eb65 26936 misc optional ros-one-ros-industrial-cmake-boilerplate_0.7.4-2025.11.23.16.06_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-nfc-ros
+Binary: ros-one-nfc-ros ros-one-nfc-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.06.03
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-nfc-ros - The nfc_ros package
+Changes:
+ ros-one-nfc-ros (2.1.31-19-g5d0b67f7-2025.11.24.06.03) bookworm; urgency=high
+Checksums-Sha1:
+ b771aeac5377a044a42d2bbe04898d734fc978b5 579628 ros-one-nfc-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb
+ 951601ec85a924c94c64b6ed18692d1610a08cec 10013 ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.buildinfo
+ 7db21f024df6fd2395e780905e27fd8abcd2e992 2793660 ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb
+Checksums-Sha256:
+ 8ebb921c36b5a62efa72d11bdd63fedf5b0dda4d2a0a70d8addd057414f9378a 579628 ros-one-nfc-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb
+ 7dac4a631f373ff1d4dd3dcd31e7d300ead44a2f3a945010bfdfe3580bd0dbff 10013 ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.buildinfo
+ c89904cd0457d3cd429098240d5f3032097131f161dd23a2380ebdcf72bacaf8 2793660 ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb
+Files:
+ 565ac57a5c217d4213c2470893624c2c 579628 debug optional ros-one-nfc-ros-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb
+ fb21618524569f9c4a2561f19950e801 10013 misc optional ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.buildinfo
+ 27b60ed8bb93972f600e69c88d5419eb 2793660 misc optional ros-one-nfc-ros_2.1.31-19-g5d0b67f7-2025.11.24.06.03_amd64.deb

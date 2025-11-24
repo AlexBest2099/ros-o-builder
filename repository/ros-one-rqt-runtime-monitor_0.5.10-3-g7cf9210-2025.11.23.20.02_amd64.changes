@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-runtime-monitor
+Binary: ros-one-rqt-runtime-monitor
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.10-3-g7cf9210-2025.11.23.20.02
+Distribution: bookworm
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-runtime-monitor - rqt_runtime_monitor provides a GUI plugin viewing DiagnosticsArra
+Changes:
+ ros-one-rqt-runtime-monitor (0.5.10-3-g7cf9210-2025.11.23.20.02) bookworm; urgency=high
+ .
+   * Import setup from setuptools instead of distutils.core
+   * added LICENSE file
+Checksums-Sha1:
+ 9eb91ef9055cb5c460494d5af13d9d45e079b7cb 7400 ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.buildinfo
+ 4bc1a651942ca120e3f805fc2f86964cc4c2f355 18652 ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.deb
+Checksums-Sha256:
+ ff8e264d2a37e9db7c4bcc9ce1f7214f1869706c35c36af841daa905ddcd5f24 7400 ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.buildinfo
+ fbc44d1723e236cc7c4bb9adf40aedb70885194c796e19dc89fd181c29a72356 18652 ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.deb
+Files:
+ 5650f3c11eed4492ead4c4329803f007 7400 misc optional ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.buildinfo
+ 068501a0064850d4094d0990507a6e0c 18652 misc optional ros-one-rqt-runtime-monitor_0.5.10-3-g7cf9210-2025.11.23.20.02_amd64.deb

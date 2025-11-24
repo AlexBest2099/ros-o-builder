@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 10 Sep 2025 00:00:00 -0000
+Source: ros-one-rosbridge-msgs
+Binary: ros-one-rosbridge-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.11.17-5-g7369b80-2025.11.23.19.23
+Distribution: bookworm
+Urgency: high
+Maintainer: Hans-Joachim Krauch <achim@intermodalics.eu>
+Changed-By: Hans-Joachim Krauch <achim@intermodalics.eu>
+Description:
+ ros-one-rosbridge-msgs - Package containing message files
+Changes:
+ ros-one-rosbridge-msgs (0.11.17-5-g7369b80-2025.11.23.19.23) bookworm; urgency=high
+Checksums-Sha1:
+ 908f19857058b01d7554c2c5ee9911f70b7520a9 8916 ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.buildinfo
+ f15a4a532fad0f0a0adb27c0caede9a72fb21126 18280 ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.deb
+Checksums-Sha256:
+ f14b2cd1055ad56915ce50aaccf92368afbaa7968b1bcd10d62e00d2bd999bf3 8916 ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.buildinfo
+ 00d8b4ebb5fd3e77e78392f17475568d486927ee4b5045d001b8ccbe5c8aa177 18280 ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.deb
+Files:
+ 85802cb7d35bb44fecf97cd4eb7a15d3 8916 misc optional ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.buildinfo
+ 4f978b4d1f3a2b5b969b401397e25c89 18280 misc optional ros-one-rosbridge-msgs_0.11.17-5-g7369b80-2025.11.23.19.23_amd64.deb

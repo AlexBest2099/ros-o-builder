@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ffha
+Binary: ros-one-ffha ros-one-ffha-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.04.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Changed-By: Yohei Kakiuchi <youhei@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-ffha - ffha: PDDL Planner (http://ipc.informatik.uni-freiburg.de)
+Changes:
+ ros-one-ffha (2.1.31-19-g5d0b67f7-2025.11.24.04.48) bookworm; urgency=high
+Checksums-Sha1:
+ 27770dd3234451a3366e058d180373a114c8e41b 372292 ros-one-ffha-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb
+ bf53bc5938b5e1e8acbe09aebaeb07804b0f137e 10565 ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.buildinfo
+ 1c905d595b6dfd68963fca60b350c156ba41ae9d 175380 ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb
+Checksums-Sha256:
+ 62f580845fca0c20803e797ae2b290bde4a6fcb649bd742a6170cd49e4ed2268 372292 ros-one-ffha-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb
+ 52d8c50ee5f8f53698e787a66b3e03aa0814a852d618b140b1c8eff29fc0d3fa 10565 ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.buildinfo
+ 5d20202a7b74b00bcac3a885253e9a217f065e38436adb0233dda7976b5710f4 175380 ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb
+Files:
+ cef5b47ae60c92ef95978afb013e98fc 372292 debug optional ros-one-ffha-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb
+ 9c06e608351b7d7741151ad45fbb5bbb 10565 misc optional ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.buildinfo
+ 8e8dada0c9163de0f6cf2d34ba7b09c1 175380 misc optional ros-one-ffha_2.1.31-19-g5d0b67f7-2025.11.24.04.48_amd64.deb

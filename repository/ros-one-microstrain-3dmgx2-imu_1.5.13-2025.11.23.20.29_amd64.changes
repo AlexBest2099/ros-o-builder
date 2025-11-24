@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jul 2019 00:00:00 -0000
+Source: ros-one-microstrain-3dmgx2-imu
+Binary: ros-one-microstrain-3dmgx2-imu ros-one-microstrain-3dmgx2-imu-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.13-2025.11.23.20.29
+Distribution: bookworm
+Urgency: high
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Changed-By: Chad Rockey <chadrockey@gmail.com>
+Description:
+ ros-one-microstrain-3dmgx2-imu - A driver for IMUs compatible the microstrain 3DM-GX2 and 3DM-GX3
+Changes:
+ ros-one-microstrain-3dmgx2-imu (1.5.13-2025.11.23.20.29) bookworm; urgency=high
+ .
+   * Merge pull request #11 <https://github.com/ros-drivers/microstrain_3dmgx2_imu/issues/11> from scpeters/fix_melodic_build
+     Fix melodic build (backwards compatible alternative to #10 <https://github.com/ros-drivers/microstrain_3dmgx2_imu/issues/10>)
+   * from C++11, constexpr specifier is requred for double
+   * Contributors: Kei Okada, Tony Baltovski
+Checksums-Sha1:
+ 0b5066320502bc0667275a92d9f9b7fa22748122 1282084 ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.11.23.20.29_amd64.deb
+ 224088dd5bffed86186174abc21af64f7cde17c8 17850 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.buildinfo
+ 8d70401ec767b20d01d0cf04c015dbf9d800a202 135336 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.deb
+Checksums-Sha256:
+ 84ebdfbb66adc972509200348e42524799aeaa0888158f3fe32bf7c992054569 1282084 ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.11.23.20.29_amd64.deb
+ 8040d75b001f93fe184735b46bb4fea6c01600b2c1fa6a36d478fe7bc0197d26 17850 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.buildinfo
+ 2686d8e46acb2f108e2510ca314794c316acd47df591ec4ddd84b89a75ebef23 135336 ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.deb
+Files:
+ abeaf24373dde91f8864379ad56bf9c3 1282084 debug optional ros-one-microstrain-3dmgx2-imu-dbgsym_1.5.13-2025.11.23.20.29_amd64.deb
+ da6a67b132dc8808aca8bd1c3acd764a 17850 misc optional ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.buildinfo
+ 7df332538e54672a51e3f1b151a59dfc 135336 misc optional ros-one-microstrain-3dmgx2-imu_1.5.13-2025.11.23.20.29_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-ethercat-trigger-controllers
+Binary: ros-one-ethercat-trigger-controllers ros-one-ethercat-trigger-controllers-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.11.23.21.57
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ethercat-trigger-controllers - Controllers to operate the digital output of the motor controller
+Changes:
+ ros-one-ethercat-trigger-controllers (1.10.18-3-g8e8dfa0-2025.11.23.21.57) bookworm; urgency=high
+Checksums-Sha1:
+ fa44d6f0f713edc6e2bf48bd6e4690a59fadac1f 2003944 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb
+ 474048c549ef0ae08fc72a4d4a6f793c4510f3d2 15202 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.buildinfo
+ 0dd813eddcf6132a74e3959c8629e9a9d76bb4e7 114708 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb
+Checksums-Sha256:
+ 1ef4dc37ea75c92759fab2ae8380829cea6eab89b34076329bd06a7a7f7ec1d8 2003944 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb
+ 3d292633d49d796cc8f81c8354182a0f86be6b0b40d1d8d4487138c0ff1216c6 15202 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.buildinfo
+ ea0513643e9cdf349dd010ff90f0458b3b1a68c3db01c210b91eaafb4254481b 114708 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb
+Files:
+ 72e05211efad1fc04982bdf9db9ecadd 2003944 debug optional ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb
+ 2c326f3a4ed5ccb790ca4fd9b3e792ce 15202 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.buildinfo
+ 073232ca8dcc2dc81446c6285a673105 114708 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2025.11.23.21.57_amd64.deb

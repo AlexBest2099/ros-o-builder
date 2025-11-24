@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Fri, 09 Dec 2022 00:00:00 -0000
+Source: ros-one-actionlib
+Binary: ros-one-actionlib ros-one-actionlib-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.14.0-7-g792eeda-2025.11.23.18.24
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-actionlib - The actionlib stack provides a standardized interface for interfa
+Changes:
+ ros-one-actionlib (1.14.0-7-g792eeda-2025.11.23.18.24) bookworm; urgency=high
+ .
+   * Fix constructors of SimpleActionServer (#194 <https://github.com/ros/actionlib/issues/194>)
+   * Added a check to see if the transition callback is for the current goal handle (#177 <https://github.com/ros/actionlib/issues/177>)
+     Co-authored-by: Mart Moerdijk <mailto:mmoerdijk@smart-robotics.nl>
+   * Noetic fixup spurious wakeup (#190 <https://github.com/ros/actionlib/issues/190>)
+   * Use nullptr instead of NULL (#185 <https://github.com/ros/actionlib/issues/185>)
+   * actionlib: remove unused client_goal_status.h (#184 <https://github.com/ros/actionlib/issues/184>)
+     Co-authored-by: Kyle Fazzari <mailto:kyle@canonical.com>
+   * Fix small type in debug log message (#187 <https://github.com/ros/actionlib/issues/187>)
+   * Remove semicolons from action definitions (#188 <https://github.com/ros/actionlib/issues/188>)
+   * Fix python wait_for_server premature return (#180 <https://github.com/ros/actionlib/issues/180>)
+   * Add maintainer (#174 <https://github.com/ros/actionlib/issues/174>)
+   * Contributors: C. Andy Martin, Guglielmo Gemignani, Hermann von Kleist, Jacob Perron, Jacob Seibert, Kyle Fazzari, Mart Moerdijk, Nick Lamprianidis, Ramon Wijnands
+Checksums-Sha1:
+ e2d5682f89eff3e94827b160433475464d8d897e 461684 ros-one-actionlib-dbgsym_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb
+ 497011297d3f8d0da650fcce35cb7dcc650298d2 12328 ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.buildinfo
+ f6d24dd44f473d31d98823c5c890ee497e48a250 151640 ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb
+Checksums-Sha256:
+ 358af932dd93a12182f60d6c9cb0295c1ca5ca6e1eebbc5c7cfb9fb8f43405f3 461684 ros-one-actionlib-dbgsym_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb
+ d8b48ab02d5c3aba0ed07e65a88f686df64ce7e32ccc2e6dc774d3d40d08651d 12328 ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.buildinfo
+ 33617b7deafc45e13dbfaa5e02fe80494ef31d03259be7611c443db8325358bb 151640 ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb
+Files:
+ 943e4b503a91220358b31f30b88a5a7d 461684 debug optional ros-one-actionlib-dbgsym_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb
+ 20a8c02a7f51ba505507d2a97e47c8b4 12328 misc optional ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.buildinfo
+ 3b370ff17ef9d890093c75142d80a5f6 151640 misc optional ros-one-actionlib_1.14.0-7-g792eeda-2025.11.23.18.24_amd64.deb

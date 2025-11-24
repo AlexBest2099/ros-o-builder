@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 10 Oct 2024 00:00:00 -0000
+Source: ros-one-mavros-msgs
+Binary: ros-one-mavros-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.20.0-1-g08142be7-2025.11.23.20.29
+Distribution: bookworm
+Urgency: high
+Maintainer: Vladimir Ermakov <vooon341@gmail.com>
+Changed-By: Vladimir Ermakov <vooon341@gmail.com>
+Description:
+ ros-one-mavros-msgs - mavros_msgs defines messages for MAVROS.
+Changes:
+ ros-one-mavros-msgs (1.20.0-1-g08142be7-2025.11.23.20.29) bookworm; urgency=high
+Checksums-Sha1:
+ 75a76179683aa8bd88da77e9575a06e0c097cf63 9150 ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.buildinfo
+ 142f6766e4f84405aca4c7130567a60138f48dc5 406100 ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.deb
+Checksums-Sha256:
+ bc8423d8d2a24979a06465e5face2c0ec18e3ae39eb3ce1dfc97169fc4d02402 9150 ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.buildinfo
+ cfc07ace80de6f95b4fb48d5c3002f3683a8227a6f676f6182af923dda78b2d4 406100 ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.deb
+Files:
+ 5a99b25159bde7b06f66326be7cd325b 9150 misc optional ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.buildinfo
+ 76d664ea17d093ba29088e61b0dc5b6a 406100 misc optional ros-one-mavros-msgs_1.20.0-1-g08142be7-2025.11.23.20.29_amd64.deb

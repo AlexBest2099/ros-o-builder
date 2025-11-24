@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-calibration-controllers
+Binary: ros-one-pr2-calibration-controllers ros-one-pr2-calibration-controllers-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.11.24.00.09
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-calibration-controllers - The pr2_calibration_controllers package contains the controllers
+Changes:
+ ros-one-pr2-calibration-controllers (1.10.18-3-g8e8dfa0-2025.11.24.00.09) bookworm; urgency=high
+Checksums-Sha1:
+ 1fe16b7f31407ccbcabaca120945b51dbbe5d772 2934068 ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb
+ 71300163350d4ce273cf1f4b5c71f3ce89a740cb 20532 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.buildinfo
+ e6503f918f584a92cafbac82d61e928b269b9f85 69432 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb
+Checksums-Sha256:
+ 62165b6eb76b9df827499dd49ebe426270a982622747df30abad38dc3d27ad49 2934068 ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb
+ 92b2a84231f454f61b2313e0ffdc1eafe3f5f94d56e633d4d40d5a182baeabda 20532 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.buildinfo
+ bb1fcd0179a66e1f8419cb5ca84ab4e891ed10397c208ccfb12ca95d78ff1c49 69432 ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb
+Files:
+ 846003862400b879054d38672433524e 2934068 debug optional ros-one-pr2-calibration-controllers-dbgsym_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb
+ f995cf2e781106968642b4f458b5897f 20532 misc optional ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.buildinfo
+ a8fda547810798ddce4a496ee4816455 69432 misc optional ros-one-pr2-calibration-controllers_1.10.18-3-g8e8dfa0-2025.11.24.00.09_amd64.deb

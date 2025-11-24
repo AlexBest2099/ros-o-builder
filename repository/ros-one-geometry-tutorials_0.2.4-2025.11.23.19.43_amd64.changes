@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-geometry-tutorials
+Binary: ros-one-geometry-tutorials
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.2.4-2025.11.23.19.43
+Distribution: bookworm
+Urgency: high
+Maintainer: William Woodall <william@osrfoundation.org>
+Changed-By: William Woodall <william@osrfoundation.org>
+Description:
+ ros-one-geometry-tutorials - Metapackage of geometry tutorials ROS.
+Changes:
+ ros-one-geometry-tutorials (0.2.4-2025.11.23.19.43) bookworm; urgency=high
+Checksums-Sha1:
+ 2a703d5282c3bced23bff131803ad10ef2c88b73 7344 ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.buildinfo
+ dbb231008ea6d3ed642d5782c48890017fa71b97 2512 ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.deb
+Checksums-Sha256:
+ 99c8fbc09869efb632344b43b1f0582cc5c7d2462b4cac6c127f2420aab9b388 7344 ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.buildinfo
+ 7a848359fa87f1e7fe924b08542bcc0f0813b961f4b182b564c4a981a0a3f89e 2512 ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.deb
+Files:
+ fa4f445e320fb686c28aaae7b2d37938 7344 misc optional ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.buildinfo
+ dcc47904456e484f62fdad2e8a705d1b 2512 misc optional ros-one-geometry-tutorials_0.2.4-2025.11.23.19.43_amd64.deb

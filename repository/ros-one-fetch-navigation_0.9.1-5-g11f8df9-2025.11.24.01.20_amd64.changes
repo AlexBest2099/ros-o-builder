@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 05 Mar 2021 00:00:00 -0000
+Source: ros-one-fetch-navigation
+Binary: ros-one-fetch-navigation
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.1-5-g11f8df9-2025.11.24.01.20
+Distribution: bookworm
+Urgency: high
+Maintainer: Carl Saldanha <csaldanha@fetchrobotics.com>
+Changed-By: Carl Saldanha <csaldanha@fetchrobotics.com>
+Description:
+ ros-one-fetch-navigation - Configuration and launch files for running ROS navigation on Fetc
+Changes:
+ ros-one-fetch-navigation (0.9.1-5-g11f8df9-2025.11.24.01.20) bookworm; urgency=high
+Checksums-Sha1:
+ a329da912f2dbfdeda1e42e67c9b91ecce03d42c 7381 ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.buildinfo
+ d3e0d3c3744e57b2b8f91b95a098e60b31c43106 13564 ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.deb
+Checksums-Sha256:
+ 878ad2418e5fb0ffb09ed685a6ef7eb617546ad52b469af2927fe71db44b5ebe 7381 ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.buildinfo
+ ef75435b38993c88a6a79b9cbd37a7eae28e1028b1fe0f4774465338affd8435 13564 ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.deb
+Files:
+ 5399b279ed6afca8857b9ce28abbd653 7381 misc optional ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.buildinfo
+ 1fc3a1340f804c4dd38ac14ca1f4a434 13564 misc optional ros-one-fetch-navigation_0.9.1-5-g11f8df9-2025.11.24.01.20_amd64.deb

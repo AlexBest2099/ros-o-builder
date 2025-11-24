@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 19 Jan 2023 00:00:00 -0000
+Source: ros-one-pcl-ros
+Binary: ros-one-pcl-ros ros-one-pcl-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.4-12-g5f72467-2025.11.23.19.50
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Changed-By: Paul Bovbel <paul@bovbel.com>
+Description:
+ ros-one-pcl-ros - PCL (Point Cloud Library) ROS interface stack.
+Changes:
+ ros-one-pcl-ros (1.7.4-12-g5f72467-2025.11.23.19.50) bookworm; urgency=high
+ .
+   * Adding separate leaf sizes for each axis in the VoxelGrid filter (#393 <https://github.com/ros-perception/perception_pcl/issues/393>)
+   * Add logic for missing pcl/point_traits.h in newer PCL versions (#381 <https://github.com/ros-perception/perception_pcl/issues/381>)
+     point_traits.h is no longer available, starting with PCL 1.13.0
+     Since PCL 1.11.0, type_traits.h should be used instead
+   * Add boost include, missing in upcoming PCL versions (#373 <https://github.com/ros-perception/perception_pcl/issues/373>)
+     Was removed in pcl/conversions.h here: https://github.com/PointCloudLibrary/pcl/commit/292593abd3b69af315c7fe3379363bdce7800d5a
+   * Switch to hpp headers of pluginlib (#370 <https://github.com/ros-perception/perception_pcl/issues/370>)
+     Co-authored-by: Jochen Sprickerhof <mailto:jspricke@debian.org>
+   * Contributors: Jochen Sprickerhof, Markus Vieth, Tom Moore
+Checksums-Sha1:
+ 53ae8c061fabeccc58f4bf0c8a2e8e24e59f67d3 54128656 ros-one-pcl-ros-dbgsym_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb
+ de3d95682d30d01fde77b3bd22bf865cb806e764 35993 ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.buildinfo
+ 14eb1d6ccc90df2d691439baa6b9d7468c1edf1f 1004288 ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb
+Checksums-Sha256:
+ b6586228d85530ce50fb00b9effa68c2fe675fd12dfdd5263dbaab55179bafb2 54128656 ros-one-pcl-ros-dbgsym_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb
+ 70bcd02bc1fa94818956342eb3d6baea05516c62482423649e5bdc0f9309292a 35993 ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.buildinfo
+ 861866d3ce4b7958ef1a43043b192da2c196f8a8eede6ddc8a9daa98fa967619 1004288 ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb
+Files:
+ a0efcfc189c3450a97abdffecff762ae 54128656 debug optional ros-one-pcl-ros-dbgsym_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb
+ d53675bbc1891a7ca1077340344fc65a 35993 misc optional ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.buildinfo
+ b1720694d9ad214f1c34ed4785ad73ec 1004288 misc optional ros-one-pcl-ros_1.7.4-12-g5f72467-2025.11.23.19.50_amd64.deb

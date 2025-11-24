@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-occupancy-map-monitor
+Binary: ros-one-moveit-ros-occupancy-map-monitor ros-one-moveit-ros-occupancy-map-monitor-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.22.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-occupancy-map-monitor - Components of MoveIt connecting to occupancy map
+Changes:
+ ros-one-moveit-ros-occupancy-map-monitor (1.1.16-49-g4838449d7-2025.11.23.22.46) bookworm; urgency=high
+Checksums-Sha1:
+ f4855316b6ea1b69baaf66d25ae5e6d0e018e4aa 2437844 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb
+ d1cfc28a5786890728de1ea76b41c779cbcfd9b3 21375 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.buildinfo
+ 1e59c848b829300dcc20b2a8f55e2781a0e4bfbb 140972 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb
+Checksums-Sha256:
+ 7ebf862afc62a50070ed3dc5b9bb0e88d46550cb5050eed56cedb731b75173a9 2437844 ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb
+ 24d2e09c78fcba363c253048984ee69142cba0f7c4b1cf848ee8af7837c8e055 21375 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.buildinfo
+ 7026f096fbd13727d77e1ac4c6d56ee17abfc9a1f97b3b1803d85878f80cd432 140972 ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb
+Files:
+ 0f86276d41bd9a35a166240f975b397d 2437844 debug optional ros-one-moveit-ros-occupancy-map-monitor-dbgsym_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb
+ f6d4a52cefd65b6526559effe3d49c47 21375 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.buildinfo
+ 0a98f2de7b189bc7c20a1d15d84d64b9 140972 misc optional ros-one-moveit-ros-occupancy-map-monitor_1.1.16-49-g4838449d7-2025.11.23.22.46_amd64.deb

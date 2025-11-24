@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-control-interface
+Binary: ros-one-moveit-ros-control-interface ros-one-moveit-ros-control-interface-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.24.00.30
+Distribution: bookworm
+Urgency: high
+Maintainer: Mathias Lüdtke <mathias.luedtke@ipa.fraunhofer.de>
+Changed-By: Mathias Lüdtke <mathias.luedtke@ipa.fraunhofer.de>
+Description:
+ ros-one-moveit-ros-control-interface - ros_control controller manager interface for MoveIt
+Changes:
+ ros-one-moveit-ros-control-interface (1.1.16-49-g4838449d7-2025.11.24.00.30) bookworm; urgency=high
+Checksums-Sha1:
+ 0b1f39f71846a0a51d72c2ae23f7d0dacd0d23da 1486140 ros-one-moveit-ros-control-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb
+ d2f6b259541d28e0ba4f94c390ac52bd58e8418d 22703 ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.buildinfo
+ 8d9bb1d803b8cd19fb3eb78fcc0a544d39ded5d2 102504 ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb
+Checksums-Sha256:
+ 23dd4df3d4b8adbbe9ffbef490f427cb10d198586a1055d1778521bfaeaf5d59 1486140 ros-one-moveit-ros-control-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb
+ cdc52248814be8b6404c4a946a73829a948ad6c6cb24e8ffd23086d25840204b 22703 ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.buildinfo
+ 957e742e1823f89e9ba79b7089c84e8e964e4fa7dd978444d9b4b7bcc318352f 102504 ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb
+Files:
+ c0d21ce565d6a37f263f7dd12e3d7c94 1486140 debug optional ros-one-moveit-ros-control-interface-dbgsym_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb
+ 9feb3e905a554b9d8c6da43891e790b5 22703 misc optional ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.buildinfo
+ 8c34947c4abc255fde61b575693f0943 102504 misc optional ros-one-moveit-ros-control-interface_1.1.16-49-g4838449d7-2025.11.24.00.30_amd64.deb

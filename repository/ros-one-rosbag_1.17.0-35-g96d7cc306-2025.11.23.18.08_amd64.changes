@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rosbag
+Binary: ros-one-rosbag ros-one-rosbag-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.18.08
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rosbag - This is a set of tools for recording from and playing back to ROS
+Changes:
+ ros-one-rosbag (1.17.0-35-g96d7cc306-2025.11.23.18.08) bookworm; urgency=high
+ .
+   * Update header for Boost 1.83 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ fc54305723efbabfbc1e75c5b40b7a18215b2eb7 4658144 ros-one-rosbag-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb
+ 9f11c803db9d63ac8b6fde81fa5735889e3406d1 14492 ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.buildinfo
+ 6ebe1c1e0ca0662e215abd0a51dfa9684e2a1b7e 391828 ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb
+Checksums-Sha256:
+ 1451b5b6c934ee96e1779c09f039cd1725ba8a4ef030af65920e410d9e00afca 4658144 ros-one-rosbag-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb
+ e762b7b09781a24576c7bead5561c2760e668984b93ba87035fe8319040d7cfd 14492 ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.buildinfo
+ 76c640059e29228eec061a88e035b3171973aed06351ca6029112c6e29e03313 391828 ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb
+Files:
+ c3834ca3ddb9ec2f6cafc84fb1291609 4658144 debug optional ros-one-rosbag-dbgsym_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb
+ 00faf1a1c5e47d1574e031e73b9d9386 14492 misc optional ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.buildinfo
+ e1e1b93763d8fd35bdf9c94b5685be55 391828 misc optional ros-one-rosbag_1.17.0-35-g96d7cc306-2025.11.23.18.08_amd64.deb

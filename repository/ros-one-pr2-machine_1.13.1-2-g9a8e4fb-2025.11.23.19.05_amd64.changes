@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 07 Sep 2022 00:00:00 -0000
+Source: ros-one-pr2-machine
+Binary: ros-one-pr2-machine
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.1-2-g9a8e4fb-2025.11.23.19.05
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-machine - This package contains the xxx.machine files that describe the dif
+Changes:
+ ros-one-pr2-machine (1.13.1-2-g9a8e4fb-2025.11.23.19.05) bookworm; urgency=high
+Checksums-Sha1:
+ 64eef3ff827a651543dbaa656a6f3cd0b53da5e2 7357 ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.buildinfo
+ 12e91636566bb830ac1984d3037fd9450cbb684a 5664 ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.deb
+Checksums-Sha256:
+ 5657c2ba74da51556a4e59a246cfc65b03b484663a615119284b9a08b46dc4eb 7357 ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.buildinfo
+ 34dc426c63fb0bd5f8a5b7959975a69330db6c13283312d705a395a1e2c2cac9 5664 ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.deb
+Files:
+ 7b2ecf637d6be62839533dd8fea42709 7357 misc optional ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.buildinfo
+ f254aeeb943b261285bef8f52a315304 5664 misc optional ros-one-pr2-machine_1.13.1-2-g9a8e4fb-2025.11.23.19.05_amd64.deb

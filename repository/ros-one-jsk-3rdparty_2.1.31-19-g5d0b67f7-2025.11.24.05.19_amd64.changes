@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-jsk-3rdparty
+Binary: ros-one-jsk-3rdparty
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.05.19
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-3rdparty - Metapackage that contains commonly used 3rdparty toolset for jsk-
+Changes:
+ ros-one-jsk-3rdparty (2.1.31-19-g5d0b67f7-2025.11.24.05.19) bookworm; urgency=high
+ .
+   * jsk_3rdparty/package.xml: add emotion_analyzer, gdrive_Ros, voccevox, remove slic
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ e83eb59b0f4daf26f343d3ad50e354c01453d45c 7370 ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.buildinfo
+ 6e446c32bb067c54d04f6ccfd02102040a8c6490 4988 ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.deb
+Checksums-Sha256:
+ df9766fb6b841e570351fa64d643a54a410f64c69880dc431aeec54a986a839c 7370 ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.buildinfo
+ c75c7f1b77ecf7e9700d74b477f7d5edbdae8f2247ed0be1e894a880f107a23f 4988 ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.deb
+Files:
+ 755ed37f94e26060cf22f984761d360f 7370 misc optional ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.buildinfo
+ dba7a65b18d25da34621ce391ec2563a 4988 misc optional ros-one-jsk-3rdparty_2.1.31-19-g5d0b67f7-2025.11.24.05.19_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-ur15-moveit-config
+Binary: ros-one-ur15-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-1-gf2f8613-2025.11.24.02.07
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur15-moveit-config - An automatically generated package with all the configuration and
+Changes:
+ ros-one-ur15-moveit-config (1.5.0-1-gf2f8613-2025.11.24.02.07) bookworm; urgency=high
+ .
+   * Add support for UR15 (#702 <https://github.com/ros-industrial/universal_robot/issues/702>)
+   * Contributors: Felix Exner
+Checksums-Sha1:
+ b8a7714a5a76fd9bf18fd862053e49992ed319a4 7391 ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.buildinfo
+ f9f9276536f4cf17b2377f13295c4e55f625f252 15540 ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.deb
+Checksums-Sha256:
+ b6fe5a3eb80a91e965e9ff17ac0351d2f07e09c329505fe33f8a94945f146858 7391 ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.buildinfo
+ f51f2fca51b46ad9971dba474b67e4ec2c78297e0f5a58b0dc80b92888ade870 15540 ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.deb
+Files:
+ fb43108ef4c69a3e3e4093afd97bee5c 7391 misc optional ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.buildinfo
+ 9e5248a361aac0a6bab86c1fcf0d0e3a 15540 misc optional ros-one-ur15-moveit-config_1.5.0-1-gf2f8613-2025.11.24.02.07_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 11 Dec 2024 00:00:00 -0000
+Source: ros-one-jsk-interactive
+Binary: ros-one-jsk-interactive
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.8-103-g2f3a799-2025.11.24.09.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Yusuke Furuta <furua@jsk.imi.i.u-tokyo.ac.jp>
+Changed-By: Yusuke Furuta <furua@jsk.imi.i.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-interactive - jsk_interactive
+Changes:
+ ros-one-jsk-interactive (2.1.8-103-g2f3a799-2025.11.24.09.44) bookworm; urgency=high
+Checksums-Sha1:
+ 3b5f541b04ad6b8427667d7374861b0ef80b3a25 47137 ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.buildinfo
+ 53cc5761dd0160fb3c258e5745257dc698fd2615 17484 ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.deb
+Checksums-Sha256:
+ 92d33a77bf616263c6717152c5ae1204acfec4314aec00760c6cd49d747c833a 47137 ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.buildinfo
+ 746265c34322c823650f1cf3bf6a72d876be4ce4ac2f9479c41e3833dfea07e2 17484 ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.deb
+Files:
+ 49bc10ce016f1de961ecbcd11e529340 47137 misc optional ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.buildinfo
+ c42a407221b44b00ed07702c8125a723 17484 misc optional ros-one-jsk-interactive_2.1.8-103-g2f3a799-2025.11.24.09.44_amd64.deb

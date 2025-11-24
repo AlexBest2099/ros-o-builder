@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 09 Apr 2025 00:00:00 -0000
+Source: ros-one-image-common
+Binary: ros-one-image-common
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.12.1-2025.11.23.18.30
+Distribution: bookworm
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-image-common - Common code for working with images in ROS.
+Changes:
+ ros-one-image-common (1.12.1-2025.11.23.18.30) bookworm; urgency=high
+Checksums-Sha1:
+ 96f4c98bbb2102b6fd41a986111254f2063abe91 7318 ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.buildinfo
+ e3d5527ddc89459ccf89a7a0c9810eda7c926699 2908 ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.deb
+Checksums-Sha256:
+ 71bb00c4e7543dd986423818a5d84e38c807e7909d4ea35272d87af8deb0e19f 7318 ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.buildinfo
+ bd289022220d138e9d34df0ae83a492c9930b6371f6f89862e0801f1ccfaddd1 2908 ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.deb
+Files:
+ 60139728845b73449481395b2119d909 7318 misc optional ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.buildinfo
+ a9eda08d2528b4be3490d8716596c4b2 2908 misc optional ros-one-image-common_1.12.1-2025.11.23.18.30_amd64.deb

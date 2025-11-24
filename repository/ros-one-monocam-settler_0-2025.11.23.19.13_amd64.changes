@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-monocam-settler
+Binary: ros-one-monocam-settler ros-one-monocam-settler-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.11.23.19.13
+Distribution: bookworm
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-monocam-settler - Listens on a ImageFeatures topic, and waits for the data to settl
+Changes:
+ ros-one-monocam-settler (0-2025.11.23.19.13) bookworm; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 36b3ff74e808f95e40bec0b4c7a9b5ee0046d5c7 1151600 ros-one-monocam-settler-dbgsym_0-2025.11.23.19.13_amd64.deb
+ f2f5fe1842e95b9ae3682e81662b4463d0aa0bcb 17154 ros-one-monocam-settler_0-2025.11.23.19.13_amd64.buildinfo
+ b81bef58b21743258ea42c9ea05f4f4c84e5783e 124524 ros-one-monocam-settler_0-2025.11.23.19.13_amd64.deb
+Checksums-Sha256:
+ 60df5349ed75643ebb340ad33cc6a141aee91da24b3a89aea3b9d81b9541bd37 1151600 ros-one-monocam-settler-dbgsym_0-2025.11.23.19.13_amd64.deb
+ f9627a4950be280d8475e9a00240fd19949991b6ea99b83ab5cc0c6a852e13ef 17154 ros-one-monocam-settler_0-2025.11.23.19.13_amd64.buildinfo
+ cabf87207024714094ac037d371373817c85606d54c58b5372d50c1c1d1dd322 124524 ros-one-monocam-settler_0-2025.11.23.19.13_amd64.deb
+Files:
+ ee7baa6a286ff92c39124e26cd5752a1 1151600 debug optional ros-one-monocam-settler-dbgsym_0-2025.11.23.19.13_amd64.deb
+ 5ee0bd2e0205211d5308205b92604edb 17154 misc optional ros-one-monocam-settler_0-2025.11.23.19.13_amd64.buildinfo
+ d51c45216877c21788b541ff000ea367 124524 misc optional ros-one-monocam-settler_0-2025.11.23.19.13_amd64.deb

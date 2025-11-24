@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-rosping
+Binary: ros-one-rosping ros-one-rosping-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.07.02
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-rosping - rosping is the tool to send ICMP ECHO_REQUEST to network hosts wh
+Changes:
+ ros-one-rosping (2.1.31-19-g5d0b67f7-2025.11.24.07.02) bookworm; urgency=high
+Checksums-Sha1:
+ 31ae01f4ade7f4b8dbd0750f0efad532d34dd227 807316 ros-one-rosping-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb
+ 1e563b69d2753a5cb5271c404640fe4adcf42e7d 12347 ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.buildinfo
+ 7a704b5daaa57c70552f689c1a301288b693d7f2 66352 ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb
+Checksums-Sha256:
+ 13a790811064b8b8c42f5ddbc7954a0ccd54c580400e6f6cb4cc2fa28c33eeeb 807316 ros-one-rosping-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb
+ 417f8bcbfc6c1710394a92e0e2e65a2210abd1786b3cfa5eaebfb1466912e4e6 12347 ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.buildinfo
+ 11d56491e48232c56c7cc96b0c92140b0b8e16c2eb9173ab8de4ca1fd7be1b35 66352 ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb
+Files:
+ f97cc25b83881b3d345b4cbdbd28ed16 807316 debug optional ros-one-rosping-dbgsym_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb
+ 1e64bfd39f6b85c332e3aaa9b97d5d6c 12347 misc optional ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.buildinfo
+ 18b8f1cdc9b0b308cf2ba02e0f642582 66352 misc optional ros-one-rosping_2.1.31-19-g5d0b67f7-2025.11.24.07.02_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 06 Jan 2025 00:00:00 -0000
+Source: ros-one-jsk-common
+Binary: ros-one-jsk-common
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.2.13-54-ge738ffd4-2025.11.24.02.16
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-common - Metapackage that contains commonly used toolset for jsk-ros-pkg
+Changes:
+ ros-one-jsk-common (2.2.13-54-ge738ffd4-2025.11.24.02.16) bookworm; urgency=high
+Checksums-Sha1:
+ b482f5e067788656a4629388d402f38461ce9ad9 7360 ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.buildinfo
+ ec38e2ce78d30a40e7dccd3443d7dc4c203a2378 3492 ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.deb
+Checksums-Sha256:
+ 1f7b79091387f6d77a9a9c109c0ca7700807680da8dc633c87d1d332f19be40f 7360 ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.buildinfo
+ 9374fb5a37c445deee849a08a9ccb5912a1b9df4aeefa1b501412e705dcf5f3e 3492 ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.deb
+Files:
+ d86e3538224961f498e91f25dc110a47 7360 misc optional ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.buildinfo
+ e4fd7fd4ae044e36ae7209b6f776a68f 3492 misc optional ros-one-jsk-common_2.2.13-54-ge738ffd4-2025.11.24.02.16_amd64.deb

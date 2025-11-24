@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 May 2025 00:00:00 -0000
+Source: ros-one-rostwitter
+Binary: ros-one-rostwitter
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.31-19-g5d0b67f7-2025.11.24.07.08
+Distribution: bookworm
+Urgency: high
+Maintainer: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: k-okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-rostwitter - The rostwitter package
+Changes:
+ ros-one-rostwitter (2.1.31-19-g5d0b67f7-2025.11.24.07.08) bookworm; urgency=high
+Checksums-Sha1:
+ 4c1bb03c7f56579dfccb7ba38ca9f97f9168d303 14943 ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.buildinfo
+ 0d8d858781b199275353e43adb3ed59d5593098a 128428 ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.deb
+Checksums-Sha256:
+ f3a748c4ea4187bf9b995bab4319a884fcb2f04571e41856706094498b2d1145 14943 ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.buildinfo
+ a4244af7768fe393ad238472fc25c2baf0ce213e46cbacac17d4dab36af6d4d2 128428 ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.deb
+Files:
+ 1b4f7f654c66f90510fbed44a2dd10f8 14943 misc optional ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.buildinfo
+ ea0ae3b5bfd4f2a8ad0c4cd276843c0b 128428 misc optional ros-one-rostwitter_2.1.31-19-g5d0b67f7-2025.11.24.07.08_amd64.deb

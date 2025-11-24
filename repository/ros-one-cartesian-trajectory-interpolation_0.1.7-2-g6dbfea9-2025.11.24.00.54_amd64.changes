@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 29 Jul 2024 00:00:00 -0000
+Source: ros-one-cartesian-trajectory-interpolation
+Binary: ros-one-cartesian-trajectory-interpolation ros-one-cartesian-trajectory-interpolation-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.7-2-g6dbfea9-2025.11.24.00.54
+Distribution: bookworm
+Urgency: high
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Changed-By: Stefan Scherzinger <scherzin@fzi.de>
+Description:
+ ros-one-cartesian-trajectory-interpolation - Cartesian trajectory interpolation as a standalone library
+Changes:
+ ros-one-cartesian-trajectory-interpolation (0.1.7-2-g6dbfea9-2025.11.24.00.54) bookworm; urgency=high
+Checksums-Sha1:
+ 9f65c6698f6e6d3616f76909e537b1be1fb244df 886948 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb
+ 28ec54685a63014a8a3fdbcca3b3902c6f272662 21113 ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.buildinfo
+ 2c2da5e3ed63de4159397c0f19c23f4900389efa 26152 ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb
+Checksums-Sha256:
+ 0e8c4ac372a0e136bcb3864696399db0c25e58e4b21e7728bdd5835bfc88932a 886948 ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb
+ d9b3750dab89ba16340245502a941c77a872fc0c22b46a7ca05ec8ad4bf52b1d 21113 ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.buildinfo
+ 9724d8b12965ff4197ed9012ec62ae024c14bd536df33693bc98c4ba1bb64819 26152 ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb
+Files:
+ 977215987637b349b477a18a9b4bb32b 886948 debug optional ros-one-cartesian-trajectory-interpolation-dbgsym_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb
+ b5319105f42a93e3fc451779f367f8d8 21113 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.buildinfo
+ 13e0d60228eafcd53958834bb6bd8727 26152 misc optional ros-one-cartesian-trajectory-interpolation_0.1.7-2-g6dbfea9-2025.11.24.00.54_amd64.deb

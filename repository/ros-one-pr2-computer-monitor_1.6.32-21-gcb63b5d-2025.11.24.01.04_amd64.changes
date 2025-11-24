@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 26 May 2021 00:00:00 -0000
+Source: ros-one-pr2-computer-monitor
+Binary: ros-one-pr2-computer-monitor ros-one-pr2-computer-monitor-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.6.32-21-gcb63b5d-2025.11.24.01.04
+Distribution: bookworm
+Urgency: high
+Maintainer: Dave Feil-Seifer <dave@cse.unr.edu>
+Changed-By: Dave Feil-Seifer <dave@cse.unr.edu>
+Description:
+ ros-one-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and
+Changes:
+ ros-one-pr2-computer-monitor (1.6.32-21-gcb63b5d-2025.11.24.01.04) bookworm; urgency=high
+ .
+   * Merge pull request #268 <https://github.com/pr2/pr2_robot/issues/268> from k-okada/fix_for_noetic
+   * run 2to3 -w -fexcept .
+   * run 2to3 -w -fprint .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 4f6f9520d5f380bdeb5e061636594dc4a6befd62 222756 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb
+ 31d796584765f450c095804f52a4b826aa3f37f2 10604 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.buildinfo
+ a4904a506296bc1eabd5f659ad65c699561ea87b 34748 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb
+Checksums-Sha256:
+ ad4184c8f4dd75da407c1c3bf1cc79a3f811072090e2e3d39f21c4db3422d9fd 222756 ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb
+ f1afb2ed381b63b2ced7cae4ac6ebec2276809df2640cc418cff7eaaa3467653 10604 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.buildinfo
+ 0816b2d1d0050c4218a9cc5e72faf1d070df0e7c59795b1df77a00ec78fc0830 34748 ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb
+Files:
+ 5cf32f161ed5192c78f326781ad40786 222756 debug optional ros-one-pr2-computer-monitor-dbgsym_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb
+ 410a46abbd98e0d88d70125ce8d5216d 10604 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.buildinfo
+ 0935c57550cd5f1c02f6fdd3d209e046 34748 misc optional ros-one-pr2-computer-monitor_1.6.32-21-gcb63b5d-2025.11.24.01.04_amd64.deb

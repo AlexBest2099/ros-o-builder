@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-roswtf
+Binary: ros-one-roswtf
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.18.10
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roswtf - roswtf is a tool for diagnosing issues with a running ROS system.
+Changes:
+ ros-one-roswtf (1.17.0-35-g96d7cc306-2025.11.23.18.10) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ 37d5da4b2f9ed57d4e48b5d73ecca86165655de1 11832 ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.buildinfo
+ a22cdfdb66890b99cb102cf2c99082372e0b5a75 56460 ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.deb
+Checksums-Sha256:
+ 3de04ca51b08d6e6c563c691526cdc7e45cc9dc0724a0ed3a886dac8fc095dce 11832 ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.buildinfo
+ ef52332588757182228b2e0905011e24c1a2baf0a3026f51ea9f70418acf3599 56460 ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.deb
+Files:
+ 607edd47ec59b1e3f7a17b2be0d76384 11832 misc optional ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.buildinfo
+ 2ab966526ae8fc93385019c2df31755e 56460 misc optional ros-one-roswtf_1.17.0-35-g96d7cc306-2025.11.23.18.10_amd64.deb

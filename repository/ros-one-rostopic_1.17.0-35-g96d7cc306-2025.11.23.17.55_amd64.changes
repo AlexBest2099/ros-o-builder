@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rostopic
+Binary: ros-one-rostopic
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.11.23.17.55
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rostopic - rostopic contains the rostopic command-line tool for displaying d
+Changes:
+ ros-one-rostopic (1.17.0-35-g96d7cc306-2025.11.23.17.55) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ 7c1ec651daf2a1fe83910479ec3d2a420f1f635d 11842 ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.buildinfo
+ 9a5c19a94f41df6d9294624e067fee6cb6d477d2 62912 ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.deb
+Checksums-Sha256:
+ f50094a0468650a343e6e0ea98f2fc3072b3c8a52a22a094efbfc647a7b7a5e7 11842 ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.buildinfo
+ 12bcd62d0d36d4deeb7b9ef9233851d6c20084afc3a8bbbcf93fdc3877b284fb 62912 ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.deb
+Files:
+ 5a4a4ce85e8b120dcc76f4ae017f3c5e 11842 misc optional ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.buildinfo
+ 282d3da31e523a6f19e5cb20fbae596b 62912 misc optional ros-one-rostopic_1.17.0-35-g96d7cc306-2025.11.23.17.55_amd64.deb

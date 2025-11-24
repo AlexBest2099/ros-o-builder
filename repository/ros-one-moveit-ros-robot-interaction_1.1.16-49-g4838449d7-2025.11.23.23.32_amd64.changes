@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-robot-interaction
+Binary: ros-one-moveit-ros-robot-interaction ros-one-moveit-ros-robot-interaction-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.11.23.23.32
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-robot-interaction - Components of MoveIt that offer interaction via interactive marke
+Changes:
+ ros-one-moveit-ros-robot-interaction (1.1.16-49-g4838449d7-2025.11.23.23.32) bookworm; urgency=high
+Checksums-Sha1:
+ 98599c86d4a7a3f344e5f610ff36edc5fc3e470f 5951328 ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb
+ 074918417571a27a0f6355ac6f016942f80acfb6 22778 ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.buildinfo
+ 400d682f128021f3d227a97e12b57a298b932122 124104 ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb
+Checksums-Sha256:
+ ba914d2e9ad077c54118653267833d7b2c4ec8c57703f2afda706e8b3881643e 5951328 ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb
+ bf39dbebbf322d3d2fe18d20ddedc2b653955372fdd48ea46728969946eadf83 22778 ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.buildinfo
+ ce616a530c6954103600a51238e56f7194550435898b9b3b3b3b897a589d0540 124104 ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb
+Files:
+ b06272d4f20fdaf9b47add7559d804ef 5951328 debug optional ros-one-moveit-ros-robot-interaction-dbgsym_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb
+ 31e9acec6a05a350686c0a5c6fb6b64e 22778 misc optional ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.buildinfo
+ e01af23aa4156a3bc82b9e8b5026ee3e 124104 misc optional ros-one-moveit-ros-robot-interaction_1.1.16-49-g4838449d7-2025.11.23.23.32_amd64.deb

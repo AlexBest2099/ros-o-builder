@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 15 Oct 2025 00:00:00 -0000
+Source: ros-one-moveit-task-constructor-msgs
+Binary: ros-one-moveit-task-constructor-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1-0.1.4-2-gedcb472-2025.11.24.00.55
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-moveit-task-constructor-msgs - Messages for MoveIt Task Pipeline
+Changes:
+ ros-one-moveit-task-constructor-msgs (1-0.1.4-2-gedcb472-2025.11.24.00.55) bookworm; urgency=high
+ .
+   * Increase minimum required CMake version to 3.16 supported by Ubuntu 20.04
+   * Add property trajectory_execution_info (#355 <https://github.com/moveit/moveit_task_constructor/issues/355>, #502 <https://github.com/moveit/moveit_task_constructor/issues/502>)
+   * Contributors: Robert Haschke, Luca Lach
+Checksums-Sha1:
+ 40aced632b7ff671da75757a2141ab8d101410ce 9623 ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.buildinfo
+ 2a89b33931b8c57fab98b35358042e9da471bac7 169380 ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.deb
+Checksums-Sha256:
+ 97638a40cc216b5551dc41a789d4b833fcabcd3b95d60c37df2e44959f541dc7 9623 ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.buildinfo
+ a83e01ecb3c7d99a7ce16ed3608a403995991dded9915eb66de65e85f7e39d8d 169380 ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.deb
+Files:
+ f7fac43ebb1766c9f018eabe10993595 9623 misc optional ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.buildinfo
+ 5ca35356d4afc90fc1d1de8ca075d604 169380 misc optional ros-one-moveit-task-constructor-msgs_1-0.1.4-2-gedcb472-2025.11.24.00.55_amd64.deb
