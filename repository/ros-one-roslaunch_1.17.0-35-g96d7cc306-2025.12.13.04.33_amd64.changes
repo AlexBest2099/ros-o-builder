@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-roslaunch
+Binary: ros-one-roslaunch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.12.13.04.33
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roslaunch - roslaunch is a tool for easily launching multiple ROS nodes local
+Changes:
+ ros-one-roslaunch (1.17.0-35-g96d7cc306-2025.12.13.04.33) bookworm; urgency=high
+ .
+   * Fixes for Python 3.12 (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Matthias Klose
+Checksums-Sha1:
+ ed772008d1929eb4d9398ef4f9d9ec5076286ea7 7365 ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.buildinfo
+ d6689d99a2cc97e5310ab95bcd756634942101d2 189664 ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.deb
+Checksums-Sha256:
+ 84f5cecb741f7053e9a290dd9ca0601aff5322c17a0cafc9fd1e7cd8f0c355c9 7365 ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.buildinfo
+ 2cd1e4233083c5d8211bab4efa96c82a81015ea335358a78fbd3a5096945a87d 189664 ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.deb
+Files:
+ 6f0cb05bcfb638d5fda25886bf90e479 7365 misc optional ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.buildinfo
+ 7529ef5a8bbdb32b800b000cc7d53a31 189664 misc optional ros-one-roslaunch_1.17.0-35-g96d7cc306-2025.12.13.04.33_amd64.deb

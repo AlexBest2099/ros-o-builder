@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-rospy-tutorials
+Binary: ros-one-rospy-tutorials
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.10.3-2025.12.13.05.43
+Distribution: bookworm
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-rospy-tutorials - This package attempts to show the features of ROS python API step
+Changes:
+ ros-one-rospy-tutorials (0.10.3-2025.12.13.05.43) bookworm; urgency=high
+ .
+   * added pointcoud2 example (#111 <https://github.com/ros/ros_tutorials/issues/111>)
+   * Update maintainers (#102 <https://github.com/ros/ros_tutorials/issues/102>)
+   * Contributors: Evan Flynn, Shane Loretz
+Checksums-Sha1:
+ be5df8eacae9f4f7ad42c4da2213e695baf47a6b 11825 ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.buildinfo
+ 4ddf804282a5f3e8d38f128a3a8fb4ceb7e7a14f 34084 ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.deb
+Checksums-Sha256:
+ 75c326960d60e1a1c736baa71e653a19f19c8efdd38de553402d2f145ae87b16 11825 ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.buildinfo
+ a204fad7cf43b1673d127dce57c32c4918c598290cceaf6266cd92a3624dc95f 34084 ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.deb
+Files:
+ ccd2a016107c5d1a2db135f2e990d35d 11825 misc optional ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.buildinfo
+ c7aba5e58dc27f910dea9b265a3da578 34084 misc optional ros-one-rospy-tutorials_0.10.3-2025.12.13.05.43_amd64.deb

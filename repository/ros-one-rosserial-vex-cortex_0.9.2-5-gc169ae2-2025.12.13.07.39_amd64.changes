@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial-vex-cortex
+Binary: ros-one-rosserial-vex-cortex
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.39
+Distribution: bookworm
+Urgency: high
+Maintainer: Canyon Turtle <canyonturtle@gmail.com>
+Changed-By: Canyon Turtle <canyonturtle@gmail.com>
+Description:
+ ros-one-rosserial-vex-cortex - rosserial for Cortex/AVR platforms.
+Changes:
+ ros-one-rosserial-vex-cortex (0.9.2-5-gc169ae2-2025.12.13.07.39) bookworm; urgency=high
+ .
+   * Fix header mismatch in changelog.
+   * Contributors: Mike Purvis
+Checksums-Sha1:
+ f03594434ff42666974e1a1935951f5358fa016e 7401 ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.buildinfo
+ 374ec5e20599d83258aa71dea5f5891d6dde11ff 14096 ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.deb
+Checksums-Sha256:
+ 403f5e7f82b38fbf464a5ee65c1c3aac02295b60774f3b5bb44943bec868d38b 7401 ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.buildinfo
+ 6f9ff5d3e505a012343a639ebd98b0f0371a6ed6020da4331b809f540ce3af09 14096 ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.deb
+Files:
+ 081c3dd409ef81ee9de0d4d8e204c14b 7401 misc optional ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.buildinfo
+ 74cd3c145b09307f1863a40a693f90e9 14096 misc optional ros-one-rosserial-vex-cortex_0.9.2-5-gc169ae2-2025.12.13.07.39_amd64.deb

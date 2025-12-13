@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 06 Jan 2023 00:00:00 -0000
+Source: ros-one-flir-camera-description
+Binary: ros-one-flir-camera-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.2.5-1-gfe5cb56-2025.12.13.09.53
+Distribution: bookworm
+Urgency: high
+Maintainer: Luis Camero <lcamero@clearpathrobotics.com>
+Changed-By: Luis Camero <lcamero@clearpathrobotics.com>
+Description:
+ ros-one-flir-camera-description - URDF descriptions for Flir cameras
+Changes:
+ ros-one-flir-camera-description (0.2.5-1-gfe5cb56-2025.12.13.09.53) bookworm; urgency=high
+Checksums-Sha1:
+ 099d8410f6631570980e423ebe021f694a0744a2 7416 ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.buildinfo
+ ca69e28161654c6b61104bd7ce800351823c9910 78228 ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.deb
+Checksums-Sha256:
+ a85aeaaa84a8a9894687819e2c361ee61cb509eafe20b7db150eeff81dd5c348 7416 ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.buildinfo
+ 67b865cb279549aed154d197c379dc585614f6f645713f98e52b8c4e35415fac 78228 ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.deb
+Files:
+ 2230fa39a65a91c6ad3c30eb2a92cfb2 7416 misc optional ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.buildinfo
+ d056239cec6a62c4ebe58538cb8c3d03 78228 misc optional ros-one-flir-camera-description_0.2.5-1-gfe5cb56-2025.12.13.09.53_amd64.deb

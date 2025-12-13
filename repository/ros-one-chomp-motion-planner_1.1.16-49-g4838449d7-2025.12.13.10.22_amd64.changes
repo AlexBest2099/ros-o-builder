@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-chomp-motion-planner
+Binary: ros-one-chomp-motion-planner ros-one-chomp-motion-planner-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.12.13.10.22
+Distribution: bookworm
+Urgency: high
+Maintainer: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Changed-By: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Description:
+ ros-one-chomp-motion-planner - chomp_motion_planner
+Changes:
+ ros-one-chomp-motion-planner (1.1.16-49-g4838449d7-2025.12.13.10.22) bookworm; urgency=high
+Checksums-Sha1:
+ e688322c34e22bd26e5e5731e68e5fead3675a9c 7236808 ros-one-chomp-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb
+ ec87481036bfb021b0410c7321362707c2723a80 21282 ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.buildinfo
+ c2daa0b9c1ce721d86746689e90763fceacb892b 116992 ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb
+Checksums-Sha256:
+ 63fde50108245d51c79ce9dc3920e456f8cee231fb2c239189a214710279560e 7236808 ros-one-chomp-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb
+ 47125897c115221234059c07733f4da4a71d5027f8cb93ca859e72413f94696e 21282 ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.buildinfo
+ ce678845cca4e1afa2df8ab53e8baf3c0feb45cb11183bacec1ba7ac95132e7a 116992 ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb
+Files:
+ 84598e01de803c7a1e5f0dc8a99e4cb6 7236808 debug optional ros-one-chomp-motion-planner-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb
+ 4ca779664f0b2a1b729475331222ea68 21282 misc optional ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.buildinfo
+ b3538dcd2ad7842ef208c25e9a36222e 116992 misc optional ros-one-chomp-motion-planner_1.1.16-49-g4838449d7-2025.12.13.10.22_amd64.deb

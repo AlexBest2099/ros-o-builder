@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 05 May 2025 00:00:00 -0000
+Source: ros-one-rqt-nav-view
+Binary: ros-one-rqt-nav-view
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.8-2025.12.13.07.43
+Distribution: bookworm
+Urgency: high
+Maintainer: Aaron Blasdel <ablasdel@gmail.com>
+Changed-By: Aaron Blasdel <ablasdel@gmail.com>
+Description:
+ ros-one-rqt-nav-view - rqt_nav_view provides a gui for viewing navigation maps and paths
+Changes:
+ ros-one-rqt-nav-view (0.5.8-2025.12.13.07.43) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#11 <https://github.com/ros-visualization/rqt_nav_view/issues/11>)
+   * Add missing dep on setuptools (#10 <https://github.com/ros-visualization/rqt_nav_view/issues/10>)
+   * Add myself as maintainer (#9 <https://github.com/ros-visualization/rqt_nav_view/issues/9>)
+   * Add myself as maintainer (#8 <https://github.com/ros-visualization/rqt_nav_view/issues/8>)
+   * Fix and major update (#7 <https://github.com/ros-visualization/rqt_nav_view/issues/7>)
+   * fix shebang line for python3
+   * Contributors: Arne Hitzmann, Matthijs van der Burgh, Mikael Arguedas, Srishti Dhamija
+Checksums-Sha1:
+ 1c79044bdac830a1dde37c587d7372d861415a8a 7317 ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.buildinfo
+ 3fdd7fd59d483d18af47f2df599cd277d86954c0 26452 ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.deb
+Checksums-Sha256:
+ 01e2e1f4700cbc6dae5b34293b0590691bc9777be686baa09648488a0ca0a8a9 7317 ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.buildinfo
+ c0585e44e91274f9721bd67d360ecd4ce9f520a7ce9ebb372a980b3091a9e13f 26452 ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.deb
+Files:
+ c7ef347549f43ee4a3fbaa4d6471ca02 7317 misc optional ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.buildinfo
+ 04ea6325e614a2bd5f7a69ed0aae0fbf 26452 misc optional ros-one-rqt-nav-view_0.5.8-2025.12.13.07.43_amd64.deb

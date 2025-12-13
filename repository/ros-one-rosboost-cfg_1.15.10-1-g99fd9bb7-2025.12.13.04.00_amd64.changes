@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosboost-cfg
+Binary: ros-one-rosboost-cfg
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.12.13.04.00
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosboost-cfg - Contains scripts used by the rosboost-cfg tool for determining cf
+Changes:
+ ros-one-rosboost-cfg (1.15.10-1-g99fd9bb7-2025.12.13.04.00) bookworm; urgency=high
+Checksums-Sha1:
+ 2d784a2bc740d869c62663496c97106d2d1428e0 7373 ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.buildinfo
+ 020262344cc4340c389200e1152458490579a695 18008 ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.deb
+Checksums-Sha256:
+ 866f23df86948c533ee4fad3327b7020b120db367d3b58fdac90b1d1e0d9142d 7373 ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.buildinfo
+ 1ac8fbcb0245b89f7e82c51b4769df19c4a96c79b195821ab497a8e9111cc03a 18008 ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.deb
+Files:
+ 3308bc55d6f1c964ea3c0e23032ac058 7373 misc optional ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.buildinfo
+ af4204504a1cfc5bbf5e8bf1f7d0c366 18008 misc optional ros-one-rosboost-cfg_1.15.10-1-g99fd9bb7-2025.12.13.04.00_amd64.deb

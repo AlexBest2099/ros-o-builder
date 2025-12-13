@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 08 Jul 2022 00:00:00 -0000
+Source: ros-one-velodyne-pcl
+Binary: ros-one-velodyne-pcl
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.0-4-g29abd0e-2025.12.13.09.04
+Distribution: bookworm
+Urgency: high
+Maintainer: Josh Whitley <josh.whitley@autoware.org>
+Changed-By: Josh Whitley <josh.whitley@autoware.org>
+Description:
+ ros-one-velodyne-pcl - The velodyne_pcl package
+Changes:
+ ros-one-velodyne-pcl (1.7.0-4-g29abd0e-2025.12.13.09.04) bookworm; urgency=high
+ .
+   * Use std::uint16_t to reduce build warnings from PCL (#449 <https://github.com/ros-drivers/velodyne/issues/449>)
+   * Contributors: icolwell-as
+Checksums-Sha1:
+ f6b717b1a75858302f0498b36a2465d982dbab12 35743 ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.buildinfo
+ f1318bb7f4c0405580d398826016a1b18953a14b 8292 ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.deb
+Checksums-Sha256:
+ e2e4b6ec05fa2cac26dd41abad3124e0d7313cd2cd2d0f251364bffb41aaf41f 35743 ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.buildinfo
+ 1964bfbcfcfce523e7864a426fd6fd8591fcf628651c8383abd2b2589af01339 8292 ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.deb
+Files:
+ 3a3d8c7c27af232932f3583f9a05312e 35743 misc optional ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.buildinfo
+ e726c5e6b8878bb3ff9af8ecaed6a669 8292 misc optional ros-one-velodyne-pcl_1.7.0-4-g29abd0e-2025.12.13.09.04_amd64.deb

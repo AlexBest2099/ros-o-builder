@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 Oct 2020 00:00:00 -0000
+Source: ros-one-warehouse-ros-mongo
+Binary: ros-one-warehouse-ros-mongo ros-one-warehouse-ros-mongo-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.10.0-7-g9ba9e71-2025.12.13.09.14
+Distribution: bookworm
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-warehouse-ros-mongo - warehouse_ros for MongoDB
+Changes:
+ ros-one-warehouse-ros-mongo (0.10.0-7-g9ba9e71-2025.12.13.09.14) bookworm; urgency=high
+ .
+   * clang-format-10
+   * Python3 compatibility layer for roslaunch in CMake (#35 <https://github.com/ros-planning/warehouse_ros_mongo/issues/35>)
+   * Contributors: Robert Haschke, Tyler Weaver
+Checksums-Sha1:
+ aa91b024178f6ac66c8ddfb9437de97a703f5d09 995476 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb
+ a2562f8cc0691373d637f82bf22bccf94feadeb7 22068 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.buildinfo
+ 9bbbe78f7ed8fd9c1c175138cb4dad4474a6af95 66280 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb
+Checksums-Sha256:
+ 8da43fe1bec3f62139d20404a6e67ea27b745307681d3270bbab160c7f80fb4b 995476 ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb
+ 4bdf9a4f3648bd3946573ab04ab224e45f73736fa9adafecf26d0da9ea179ee8 22068 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.buildinfo
+ 1485b85d23ab7b4298b17bd1f05abb10b80e8e5b770eaedd6e380d53a6944169 66280 ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb
+Files:
+ 5d8b3f017282573008c82f954beae817 995476 debug optional ros-one-warehouse-ros-mongo-dbgsym_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb
+ 46fa7332cf88d7925369cd8c08dc2b54 22068 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.buildinfo
+ 1c74fcabda221f4f441449633becc5a8 66280 misc optional ros-one-warehouse-ros-mongo_0.10.0-7-g9ba9e71-2025.12.13.09.14_amd64.deb

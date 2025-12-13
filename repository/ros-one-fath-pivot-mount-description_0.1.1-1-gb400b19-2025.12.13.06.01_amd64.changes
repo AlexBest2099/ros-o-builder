@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 11 Mar 2022 00:00:00 -0000
+Source: ros-one-fath-pivot-mount-description
+Binary: ros-one-fath-pivot-mount-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-1-gb400b19-2025.12.13.06.01
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-fath-pivot-mount-description - URDF Macro for adding an adjustable, fath pivot mount used for ca
+Changes:
+ ros-one-fath-pivot-mount-description (0.1.1-1-gb400b19-2025.12.13.06.01) bookworm; urgency=high
+ .
+   * Bump CMake version to avoid CMP0048 warning.
+   * Contributors: Tony Baltovski
+Checksums-Sha1:
+ 36f4bda3cb4e00806f9a3935949c5c2c61345811 7444 ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.buildinfo
+ f11580bf472c5aa9c571133f76200c74f26c83bb 332732 ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.deb
+Checksums-Sha256:
+ 02d11254759327b4381cfa5d52cd6fdbf6d409b248d17cd20466d182c2e739ab 7444 ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.buildinfo
+ 10c3dce347440968daa3e02516e48172a04df7b622051a97cc913ffbbf4f950e 332732 ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.deb
+Files:
+ f77a5d8fe741ace87802f8c11794f90d 7444 misc optional ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.buildinfo
+ be6659e2804f6a8c559021535d06719e 332732 misc optional ros-one-fath-pivot-mount-description_0.1.1-1-gb400b19-2025.12.13.06.01_amd64.deb

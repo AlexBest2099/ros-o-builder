@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 18 Dec 2019 00:00:00 -0000
+Source: ros-one-fake-joint-driver
+Binary: ros-one-fake-joint-driver ros-one-fake-joint-driver-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.0.4-6-g1e5d5a2-2025.12.13.09.40
+Distribution: bookworm
+Urgency: high
+Maintainer: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Changed-By: Tokyo Opensource Robotics Kyokai (TORK) Developer Team <dev@opensource-robotics.tokyo.jp>
+Description:
+ ros-one-fake-joint-driver - The fake_joint_driver package
+Changes:
+ ros-one-fake-joint-driver (0.0.4-6-g1e5d5a2-2025.12.13.09.40) bookworm; urgency=high
+Checksums-Sha1:
+ 180809d425a12f21013f6ffc060f3c45d6cebfcc 1010192 ros-one-fake-joint-driver-dbgsym_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb
+ 75d136df342c3edeaaad3c5a5a51aa7b69e939f0 15699 ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.buildinfo
+ c5dd6954790885cfe1a6bdbd0bfecfc001aa4e4b 53300 ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb
+Checksums-Sha256:
+ c0875a261638117070a7ab6a975bd4fee6912ed91827f12dac767ecb77912168 1010192 ros-one-fake-joint-driver-dbgsym_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb
+ 134ee3c463e5a0d27cf3f2119ddce353d640d8ff94c395f5ec4704f5d3af337a 15699 ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.buildinfo
+ dc7e35b2048ea9217fdfb117a6b3ff649da7a11a99b033246f2b6a893bdb096c 53300 ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb
+Files:
+ 4131504d29a61a0690bc4a35738f4633 1010192 debug optional ros-one-fake-joint-driver-dbgsym_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb
+ c94122a72e45ce53eed870c2bb42d74b 15699 misc optional ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.buildinfo
+ 5c43964442823235f176f8fd8f6c3766 53300 misc optional ros-one-fake-joint-driver_0.0.4-6-g1e5d5a2-2025.12.13.09.40_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 27 Oct 2023 00:00:00 -0000
+Source: ros-one-combined-robot-hw-tests
+Binary: ros-one-combined-robot-hw-tests
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.20.0-1-g633c374-2025.12.13.07.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-combined-robot-hw-tests - Tests for the combined Robot HW class.
+Changes:
+ ros-one-combined-robot-hw-tests (0.20.0-1-g633c374-2025.12.13.07.26) bookworm; urgency=high
+Checksums-Sha1:
+ 81e7324e35201dea62d3135424c911d165db0154 14447 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.buildinfo
+ 7d355211b6f8c21f4c17ff3241300be596cfa778 9312 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.deb
+Checksums-Sha256:
+ 50a24d289358cc26ccf6ca189b5ecee97a4f308eea621a19a2721e1b4737b2f7 14447 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.buildinfo
+ 385cbbf9cd687840210a9ba440b7436db04b5eee534de0bc1dba1d90ca07cd8a 9312 ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.deb
+Files:
+ 49b8c6edc4521ca870584b88724aa7c9 14447 misc optional ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.buildinfo
+ 3d98450bfc7c7fc0c2ea09c8fe580c64 9312 misc optional ros-one-combined-robot-hw-tests_0.20.0-1-g633c374-2025.12.13.07.26_amd64.deb

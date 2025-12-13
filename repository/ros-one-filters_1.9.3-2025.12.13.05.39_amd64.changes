@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-filters
+Binary: ros-one-filters ros-one-filters-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.9.3-2025.12.13.05.39
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@willowgarage.com>
+Changed-By: Tully Foote <tfoote@willowgarage.com>
+Description:
+ ros-one-filters - This library provides a standardized interface for processing dat
+Changes:
+ ros-one-filters (1.9.3-2025.12.13.05.39) bookworm; urgency=high
+ .
+   * [ROS-O] update pluginlib include names (#64 <https://github.com/ros/filters/issues/64>)
+   * [ROS-O] remove obsolete register keyword (#63 <https://github.com/ros/filters/issues/63>)
+   * Contributors: Jonathan Binney, v4hn
+Checksums-Sha1:
+ fadcbd7f5d83bdb7181bb9a64fae9ce06125b598 1540612 ros-one-filters-dbgsym_1.9.3-2025.12.13.05.39_amd64.deb
+ f037146beec26f445db308f88ca6ce4625e2c032 13568 ros-one-filters_1.9.3-2025.12.13.05.39_amd64.buildinfo
+ 46d0dd362e36a99f9a500ea78962e2e12d3bf5cd 73584 ros-one-filters_1.9.3-2025.12.13.05.39_amd64.deb
+Checksums-Sha256:
+ a9cd4ea34fbfe158c60bb980cb163e4d1b9b9ab17c0f787bf7a69cabedc29ee1 1540612 ros-one-filters-dbgsym_1.9.3-2025.12.13.05.39_amd64.deb
+ 91ce84086b2ef27974ef2a237431ecfe627beb01015d4317f3f96e70f4a50f1d 13568 ros-one-filters_1.9.3-2025.12.13.05.39_amd64.buildinfo
+ e3952985d019c3049133911d96e2e234ba6c8169a194020f0edaa5321306a497 73584 ros-one-filters_1.9.3-2025.12.13.05.39_amd64.deb
+Files:
+ 73718589b57c335f6dc6ed1496a695fc 1540612 debug optional ros-one-filters-dbgsym_1.9.3-2025.12.13.05.39_amd64.deb
+ 25717773e413e69a1901967330af9dec 13568 misc optional ros-one-filters_1.9.3-2025.12.13.05.39_amd64.buildinfo
+ e031e201bf05472970b50e14ea7830ee 73584 misc optional ros-one-filters_1.9.3-2025.12.13.05.39_amd64.deb

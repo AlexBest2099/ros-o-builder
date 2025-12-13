@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 11 Aug 2025 00:00:00 -0000
+Source: ros-one-py-binding-tools
+Binary: ros-one-py-binding-tools ros-one-py-binding-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.0-3-g20287a0-2025.12.13.06.09
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-py-binding-tools - Python binding tools for C++
+Changes:
+ ros-one-py-binding-tools (1.1.0-3-g20287a0-2025.12.13.06.09) bookworm; urgency=high
+ .
+   * Fix pybind11 deprecations
+   * Bump cmake_minimum_required to 3.12
+   * Remove undefined PYTHON_LIBRARIES
+   * Add unit tests
+   * Rename roscpp_initializer.* -> initializer.*
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 5cdf0022de45e0aa9b24d0a6b415056a17b283c1 1904668 ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb
+ 9658f53c0d1f1390ab3590aa0ee5fd1096c5ed3d 10975 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.buildinfo
+ 92f0c74be7afb985cbbfd08590ee4176428832fc 121680 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb
+Checksums-Sha256:
+ 29ec938f50ffa4408478cdcde78ef5c2ea1312ae4e851f534c78aa6b921d474a 1904668 ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb
+ 6ffbb6d9d111b741a5d66e86c2bd8b4830fe04163f5a81b4c9d4f6eaa874d436 10975 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.buildinfo
+ c85a7dfe8d7c828d139a554985aa8a5ae1ebb01694488f31768f1230f8a40a70 121680 ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb
+Files:
+ 6ae95f07e4d2845ec00e00fb5eecc053 1904668 debug optional ros-one-py-binding-tools-dbgsym_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb
+ c7e925ce258a6b413b6bf81eb8cbdec5 10975 misc optional ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.buildinfo
+ 961ac03990e0f99e0639bf1e09a060cb 121680 misc optional ros-one-py-binding-tools_1.1.0-3-g20287a0-2025.12.13.06.09_amd64.deb

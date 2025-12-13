@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 08 Jul 2022 00:00:00 -0000
+Source: ros-one-velodyne-msgs
+Binary: ros-one-velodyne-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.0-4-g29abd0e-2025.12.13.08.56
+Distribution: bookworm
+Urgency: high
+Maintainer: Josh Whitley <josh.whitley@autoware.org>
+Changed-By: Josh Whitley <josh.whitley@autoware.org>
+Description:
+ ros-one-velodyne-msgs - ROS message definitions for Velodyne 3D LIDARs.
+Changes:
+ ros-one-velodyne-msgs (1.7.0-4-g29abd0e-2025.12.13.08.56) bookworm; urgency=high
+Checksums-Sha1:
+ 92996d710435e3e14907fecee41954c44c739253 8907 ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.buildinfo
+ 7ff7e03d8ad5e86bf62aa5b4f0feed7b43012aba 20116 ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.deb
+Checksums-Sha256:
+ bd91087e9d39688d10cbac9005a5c4179a740a1a3f1b796e7dfd0b316ed27031 8907 ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.buildinfo
+ 3b38f719642a627f5504ce6b5d11688942709bd6a489d990e45dbce5b36ad3ec 20116 ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.deb
+Files:
+ 61b36bf98a0f8e728698f25dd993069e 8907 misc optional ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.buildinfo
+ 5c0512dc419c20ff022eb93bc3a61a76 20116 misc optional ros-one-velodyne-msgs_1.7.0-4-g29abd0e-2025.12.13.08.56_amd64.deb

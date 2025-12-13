@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 24 Feb 2022 00:00:00 -0000
+Source: ros-one-turtlebot3-slam
+Binary: ros-one-turtlebot3-slam ros-one-turtlebot3-slam-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.5-39-g4ae959e-2025.12.13.12.24
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-turtlebot3-slam - The turtlebot3_slam package provides roslaunch scripts for starti
+Changes:
+ ros-one-turtlebot3-slam (1.2.5-39-g4ae959e-2025.12.13.12.24) bookworm; urgency=high
+ .
+   * No Changes
+Checksums-Sha1:
+ 44a9a0fe3c5a292d7ee6e4bd3c35b43cad8dc04b 336704 ros-one-turtlebot3-slam-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb
+ d0c4feb480406d4abe47b760c70910be8f6317a7 10494 ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.buildinfo
+ ccefa5da3e042ccda737d3f3728b0411e5481e80 37236 ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb
+Checksums-Sha256:
+ d05fd9fe7c4cbda8c04e9b4d50c283a0508069f1c34f58149c27224a7b1bf79c 336704 ros-one-turtlebot3-slam-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb
+ d3c27a6d6d3d298fc6ab14efbabff3f2b871f7ef3e5123bc739dbc3a8ab5dc48 10494 ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.buildinfo
+ 6c16fbbba12603c003389fc169c3fb9696f5f40b8b5cdc89492857974f8f576b 37236 ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb
+Files:
+ 97d661cee96b3fb564af8f20dbb6a6a4 336704 debug optional ros-one-turtlebot3-slam-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb
+ 110b55c6b8c25337e9761b86843af4eb 10494 misc optional ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.buildinfo
+ 19b4b83714476f4493e92bbb82c7d373 37236 misc optional ros-one-turtlebot3-slam_1.2.5-39-g4ae959e-2025.12.13.12.24_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 20 Feb 2021 00:00:00 -0000
+Source: ros-one-libuvc-ros
+Binary: ros-one-libuvc-ros
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.06.59
+Distribution: bookworm
+Urgency: high
+Maintainer: Ken Tossell <ken@tossell.net>
+Changed-By: Ken Tossell <ken@tossell.net>
+Description:
+ ros-one-libuvc-ros - libuvc_ros metapackage
+Changes:
+ ros-one-libuvc-ros (0-2025.12.13.06.59) bookworm; urgency=high
+Checksums-Sha1:
+ e887602356c15cad01844e4f33bab22a69cca62d 7288 ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.buildinfo
+ 5d98bf35f31e68069c6f04d56d153e9fbf736390 2744 ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.deb
+Checksums-Sha256:
+ a0548e7f553aee28c140f0dcf1bef1b1910e79657d5dc614a8e49d4cb7ae9301 7288 ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.buildinfo
+ 348dce68fa69e1c3f6d92edae0d3dc2649c50837dfa7d68233e57b135b2a6a1f 2744 ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.deb
+Files:
+ 8ca088e717e20306ee4ce884ea167d77 7288 misc optional ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.buildinfo
+ 6d412d692992aa9ad74f8e43e45542db 2744 misc optional ros-one-libuvc-ros_0-2025.12.13.06.59_amd64.deb

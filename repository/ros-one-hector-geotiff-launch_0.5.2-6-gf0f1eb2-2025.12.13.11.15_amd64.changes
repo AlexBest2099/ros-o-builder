@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-geotiff-launch
+Binary: ros-one-hector-geotiff-launch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.15
+Distribution: bookworm
+Urgency: high
+Maintainer: Stefan Fabian <fabian@sim.tu-darmstadt.de>
+Changed-By: Stefan Fabian <fabian@sim.tu-darmstadt.de>
+Description:
+ ros-one-hector-geotiff-launch - Contains launch files for the hector_geotiff mapper.
+Changes:
+ ros-one-hector-geotiff-launch (0.5.2-6-gf0f1eb2-2025.12.13.11.15) bookworm; urgency=high
+Checksums-Sha1:
+ eef731e7137bc3d606cdc337dec6721bdc5c9e4c 7403 ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.buildinfo
+ 37f31976c9f818c76ff653ed57cf4a47529d3354 5696 ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.deb
+Checksums-Sha256:
+ 5c84ae6254a8136ff6609eaa7e44fc054bc8985dfe6664142b6ff3516f145bc3 7403 ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.buildinfo
+ 8034c0afe1880b4adda8adcec0318da5c817a4dc031f10bcc1c7142e436c960b 5696 ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.deb
+Files:
+ 594afa0c37589c9aeae0e285741b0d63 7403 misc optional ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.buildinfo
+ c56b1ce17104ae9daec1417b4596b9c9 5696 misc optional ros-one-hector-geotiff-launch_0.5.2-6-gf0f1eb2-2025.12.13.11.15_amd64.deb

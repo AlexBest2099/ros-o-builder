@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 24 Jan 2021 00:00:00 -0000
+Source: ros-one-lms1xx
+Binary: ros-one-lms1xx ros-one-lms1xx-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.0-2025.12.13.05.38
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-lms1xx - The lms1xx package contains a basic ROS driver for the SICK LMS1x
+Changes:
+ ros-one-lms1xx (0.3.0-2025.12.13.05.38) bookworm; urgency=high
+ .
+   * Changed shebang to python3.
+   * Fixed typo in find_sick script.
+   * Update the python scripts so they'll work with python3
+   * Switched to industrial_ci for TravisCI.
+   * Contributors: Chris I-B, Tony Baltovski
+Checksums-Sha1:
+ 10a8785a72f10bbf7f458f32bfd52e6fb364438e 271680 ros-one-lms1xx-dbgsym_0.3.0-2025.12.13.05.38_amd64.deb
+ 500c1f3751352ac70c2b5de02db98faf2b34272d 10398 ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.buildinfo
+ 7e2ad39634a28abce1357efd351dce00cba66440 144564 ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.deb
+Checksums-Sha256:
+ d63931c4f3258ea25c779879369fd541130435c87928ba4cfa8ad305e0ab645e 271680 ros-one-lms1xx-dbgsym_0.3.0-2025.12.13.05.38_amd64.deb
+ bbab37d6ef0e4fd82c5e50d5b19e62a83511bb99f84205fe977b950e94b9ed8f 10398 ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.buildinfo
+ f53bdb92a9928a647800582420f7f53bc42d987e11cda9380141c3d78656586f 144564 ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.deb
+Files:
+ 4fdf2c7047a9bb58bed809a6ba0280ee 271680 debug optional ros-one-lms1xx-dbgsym_0.3.0-2025.12.13.05.38_amd64.deb
+ ae30a18a4ad6e07f8c4d7abdffac6322 10398 misc optional ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.buildinfo
+ 9060962e29e23459cebf8c7743e35616 144564 misc optional ros-one-lms1xx_0.3.0-2025.12.13.05.38_amd64.deb

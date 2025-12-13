@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial-windows
+Binary: ros-one-rosserial-windows
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.45
+Distribution: bookworm
+Urgency: high
+Maintainer: Kareem Shehata <kshehata@clearpathrobotics.com>
+Changed-By: Kareem Shehata <kshehata@clearpathrobotics.com>
+Description:
+ ros-one-rosserial-windows - rosserial for Windows platforms.
+Changes:
+ ros-one-rosserial-windows (0.9.2-5-gc169ae2-2025.12.13.07.45) bookworm; urgency=high
+Checksums-Sha1:
+ 3fac4b390a0751c769e0709b804a1fe5caeccb76 17504 ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.buildinfo
+ 8f6e71100ff02f1af039b765b899374aaf9a5d26 9156 ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.deb
+Checksums-Sha256:
+ 4817dad690f1524647981c63e546a12f546fb196334b50978a86ddb02e2d72d8 17504 ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.buildinfo
+ ff13aaa347475d7f31d37e08722dbb10d9daa65794aa9fdaf3d1039036568113 9156 ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.deb
+Files:
+ a6427c4044b9aa867146dbfee5b67834 17504 misc optional ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.buildinfo
+ 8e604a650100b5931b463fc16d186042 9156 misc optional ros-one-rosserial-windows_0.9.2-5-gc169ae2-2025.12.13.07.45_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 04 Jun 2020 00:00:00 -0000
+Source: ros-one-control-toolbox
+Binary: ros-one-control-toolbox ros-one-control-toolbox-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.18.2-9-g59b3859-2025.12.13.06.49
+Distribution: bookworm
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-control-toolbox - The control toolbox contains modules that are useful across all c
+Changes:
+ ros-one-control-toolbox (1.18.2-9-g59b3859-2025.12.13.06.49) bookworm; urgency=high
+ .
+   * Python 3 compat part II
+   * Contributors: Tobias Fischer
+Checksums-Sha1:
+ 8808a0e1ddfc6a724871eda76b8a7725a3022c86 1210840 ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb
+ fc239612be6ff97fef205034bca89847b23f316c 15661 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.buildinfo
+ f8dd2bf90e5486a2829d58a29927dd43575190f6 99604 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb
+Checksums-Sha256:
+ 99eb05fb541f9f7ceb5232512e0b9b992d7965ab0d28bcb6b1ebb318e565d41f 1210840 ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb
+ 9034ed22acbf21e6be668369cc16724718b48030fb1dcfe6e5a67207481f32d6 15661 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.buildinfo
+ 48ac980e3f9b83351574bf4dac9fa50b4a75639bac1b77916a2bc9379fde1849 99604 ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb
+Files:
+ 77f20a6b12baf265f826d42b5fb470fa 1210840 debug optional ros-one-control-toolbox-dbgsym_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb
+ 957f6e03056d33ecf2d9f1ccb83ad3e1 15661 misc optional ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.buildinfo
+ da8a72e556527643b82e81d210121c1b 99604 misc optional ros-one-control-toolbox_1.18.2-9-g59b3859-2025.12.13.06.49_amd64.deb

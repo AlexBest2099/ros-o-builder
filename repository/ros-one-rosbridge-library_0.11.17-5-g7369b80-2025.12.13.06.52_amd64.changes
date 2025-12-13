@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 10 Sep 2025 00:00:00 -0000
+Source: ros-one-rosbridge-library
+Binary: ros-one-rosbridge-library
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.11.17-5-g7369b80-2025.12.13.06.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Changed-By: Russell Toris <rctoris@wpi.edu>
+Description:
+ ros-one-rosbridge-library - The core rosbridge package, responsible for interpreting JSON and
+Changes:
+ ros-one-rosbridge-library (0.11.17-5-g7369b80-2025.12.13.06.52) bookworm; urgency=high
+Checksums-Sha1:
+ 8817e4dbf4153975869cb0c0006531e18cb2631f 9776 ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.buildinfo
+ 2186c699b2595190c25e6863df6024a53ea0c31c 149752 ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.deb
+Checksums-Sha256:
+ 7d483c46bd41f76b45c623e3225970457c1a856f6139c3a3ad1a97f4ff6a5861 9776 ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.buildinfo
+ 4e830c70e39f7580f82137fd1fee44b1733d9a245da85f7a9cd31aa5613bbd81 149752 ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.deb
+Files:
+ d4339a3d8ce473632c23ba29f6d36762 9776 misc optional ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.buildinfo
+ 829639a708ec4576fd79574668921b52 149752 misc optional ros-one-rosbridge-library_0.11.17-5-g7369b80-2025.12.13.06.52_amd64.deb

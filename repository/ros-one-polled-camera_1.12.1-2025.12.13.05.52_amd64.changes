@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 09 Apr 2025 00:00:00 -0000
+Source: ros-one-polled-camera
+Binary: ros-one-polled-camera ros-one-polled-camera-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.12.1-2025.12.13.05.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-polled-camera - polled_camera contains a service and C++ helper classes for imple
+Changes:
+ ros-one-polled-camera (1.12.1-2025.12.13.05.52) bookworm; urgency=high
+ .
+   * Switch to new boost/bind/bind.hpp (#227 <https://github.com/ros-perception/image_common/issues/227>)
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ a17700f1010ae3d408d129bec2d58fd157e35eeb 602312 ros-one-polled-camera-dbgsym_1.12.1-2025.12.13.05.52_amd64.deb
+ 3c28ead6d28cb59ababf29ef3ae00cb17a149b5e 12937 ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.buildinfo
+ 16ba815ab3a7154b87a9e33eaf17a66461503477 58724 ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.deb
+Checksums-Sha256:
+ 884a8db3f3bb4ad56d77a5c8060fed91f4a143ff0a06b2b2597c0d75ce88ed45 602312 ros-one-polled-camera-dbgsym_1.12.1-2025.12.13.05.52_amd64.deb
+ 516400a9e27711cfc914e456ea0f2ebbb7f34da7266025489a0c3260ae3e866d 12937 ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.buildinfo
+ 65a455a28ecfc99cf34e92bed289f17b00a12dac0a89596fca1a5e5d278543a6 58724 ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.deb
+Files:
+ e5326e7e81e576f138b717ffcb543637 602312 debug optional ros-one-polled-camera-dbgsym_1.12.1-2025.12.13.05.52_amd64.deb
+ 37a2fce5a8bad88248e1ae9229cd605c 12937 misc optional ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.buildinfo
+ b1bd89215ca1c911f2ad371807891b2a 58724 misc optional ros-one-polled-camera_1.12.1-2025.12.13.05.52_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-ros-planning
+Binary: ros-one-moveit-ros-planning ros-one-moveit-ros-planning-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.12.13.10.59
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Changed-By: Michael Ferguson <mferguson@fetchrobotics.com>
+Description:
+ ros-one-moveit-ros-planning - Planning components of MoveIt that use ROS
+Changes:
+ ros-one-moveit-ros-planning (1.1.16-49-g4838449d7-2025.12.13.10.59) bookworm; urgency=high
+ .
+   * Allow links to be ignored in PSM updates (#3645 <https://github.com/ros-planning/moveit/issues/3645>)
+   * Contributors: Davide Torielli
+Checksums-Sha1:
+ 48a243514a16bfc68be8345ac80fddf0788a8976 55510272 ros-one-moveit-ros-planning-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb
+ d47aba4e560500a0e286fa63da5f5cfa3acb4233 22574 ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.buildinfo
+ 3ceca74dcfb14a3e9e51fddc6bf0b4bf6620d6c1 874520 ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb
+Checksums-Sha256:
+ ef8826309bde5b083182ec372128cd0063363fd21b5f5b48a27e8c0bfdcbdb70 55510272 ros-one-moveit-ros-planning-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb
+ d3285d12893ec8ec44e96df27d800cffb1f7cb683d5a92290ee34ba87fa377b0 22574 ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.buildinfo
+ a93c94fb95578c171c772498a7366b2afb4047ba452a5f1498d258a2330a493c 874520 ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb
+Files:
+ 4bc169ceece0f366d6c85fd5f0a822fa 55510272 debug optional ros-one-moveit-ros-planning-dbgsym_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb
+ 8988c6874678f4937e2370acd11a47e6 22574 misc optional ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.buildinfo
+ 9b0bf679ddeb3cd92d2c6f4a4d552673 874520 misc optional ros-one-moveit-ros-planning_1.1.16-49-g4838449d7-2025.12.13.10.59_amd64.deb

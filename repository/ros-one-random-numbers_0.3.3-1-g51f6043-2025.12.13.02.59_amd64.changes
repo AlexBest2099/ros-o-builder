@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 12 Aug 2024 00:00:00 -0000
+Source: ros-one-random-numbers
+Binary: ros-one-random-numbers ros-one-random-numbers-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.3-1-g51f6043-2025.12.13.02.59
+Distribution: bookworm
+Urgency: high
+Maintainer: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Changed-By: Steven! Ragnarök <stevenragnarok@osrfoundation.org>
+Description:
+ ros-one-random-numbers - This library contains wrappers for generating floating point valu
+Changes:
+ ros-one-random-numbers (0.3.3-1-g51f6043-2025.12.13.02.59) bookworm; urgency=high
+ .
+   * Windows shared library support (#27 <https://github.com/ros-planning/random_numbers/issues/27>/#23 <https://github.com/ros-planning/random_numbers/pull/23>)
+   * Bump required cmake version (#19 <https://github.com/ros-planning/random_numbers/issues/19>)
+   * Fix shared library install path (#13 <https://github.com/ros-planning/random_numbers/issues/13>)
+   * Contributors: Michael Görner, Robert Haschke, Sean Yen [MSFT], Silvio Traversaro
+Checksums-Sha1:
+ 095733aa7ec105db300fe5ce07bfffeb69bbae48 180688 ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb
+ 323296e2873d2dfbed6ef6fb28a887309d52def6 13999 ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.buildinfo
+ 2b285cc99443e78d9178f0efb9468f4677eb959d 27924 ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb
+Checksums-Sha256:
+ c9eb54f19adf6d18e169afd5550682b6decf27df550cbfa85ca6d136022a7a04 180688 ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb
+ 54b80f66b45296444d9423f471c707a993ea4ada9a6ba82c81b931ad46dbd039 13999 ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.buildinfo
+ a88de65778bdfc1be645b26821c0a6679dcb87ef8a34cc4a340cc79a64b8093b 27924 ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb
+Files:
+ 1d230f63b09175f086b6b2e4a181139b 180688 debug optional ros-one-random-numbers-dbgsym_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb
+ 68c0d6992b9cd41908f566a607b21a0d 13999 misc optional ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.buildinfo
+ 3f3e09e60296221ee681e41d1a9b2f82 27924 misc optional ros-one-random-numbers_0.3.3-1-g51f6043-2025.12.13.02.59_amd64.deb

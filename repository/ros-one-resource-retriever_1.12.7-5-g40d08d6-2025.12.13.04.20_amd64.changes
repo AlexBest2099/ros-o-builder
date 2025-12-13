@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 06 Dec 2021 00:00:00 -0000
+Source: ros-one-resource-retriever
+Binary: ros-one-resource-retriever ros-one-resource-retriever-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.12.7-5-g40d08d6-2025.12.13.04.20
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-resource-retriever - This package retrieves data from url-format files such as http://
+Changes:
+ ros-one-resource-retriever (1.12.7-5-g40d08d6-2025.12.13.04.20) bookworm; urgency=high
+ .
+   * Split curl dependency to avoid dev package at runtime (#67 <https://github.com/ros/resource_retriever/issues/67>)
+   * Contributors: Scott K Logan
+Checksums-Sha1:
+ 4e8feb0666976749a27937e49fa88bd0e6b53de4 670860 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb
+ 5ea746526c878551fd97ca7bf0a4a5568406d9d1 15856 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.buildinfo
+ 7a6d7c0261751a42b3d033674139b50bc39bc2ca 61560 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb
+Checksums-Sha256:
+ 8d9e4d4853b07b2a9f46faabea9692baf44d33980d73b5956d7ab8c120ac72ff 670860 ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb
+ 9e5656c56587b21b1148e8000356046e938a552fea7f35b7e308562cd1ea04d6 15856 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.buildinfo
+ 06d203eadf07c97ab5952dddc6dd5421e9ef8f679778ad5f1536772ef5987d54 61560 ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb
+Files:
+ 271eaefb9dc08ce67ba27787f27eb861 670860 debug optional ros-one-resource-retriever-dbgsym_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb
+ 6027d6fbf7f57482f0353c61f914d59e 15856 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.buildinfo
+ 2fe014a0b0c1c641dda4dada1c08a14f 61560 misc optional ros-one-resource-retriever_1.12.7-5-g40d08d6-2025.12.13.04.20_amd64.deb

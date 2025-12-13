@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial-server
+Binary: ros-one-rosserial-server ros-one-rosserial-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.30
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-rosserial-server - A more performance- and stability-oriented server alternative imp
+Changes:
+ ros-one-rosserial-server (0.9.2-5-gc169ae2-2025.12.13.07.30) bookworm; urgency=high
+ .
+   * Add python3-dev as build depend (#544 <https://github.com/ros-drivers/rosserial/issues/544>)
+   * Contributors: Tobias Fischer
+Checksums-Sha1:
+ 30f59bdfb32f7765453f9118e8bbcade2db6383f 3946280 ros-one-rosserial-server-dbgsym_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb
+ 00c24ad1fb7bdc2fcdf01c8a65d8071462648813 10832 ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.buildinfo
+ 4b7211d853b8ed6dd73a2e29701e3022ebd997ac 175552 ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb
+Checksums-Sha256:
+ 859d155942edfce60cd5c04ea78ba2521c4137e31bd92dc1133dbc18cd4afbcd 3946280 ros-one-rosserial-server-dbgsym_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb
+ f40c23ebe46ddeacda21c7863e9c26c5803b41095c67ad87c5def9bd28653d45 10832 ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.buildinfo
+ e67b57e4a593380f7073c2748113461d1db0ff9f23067c0e95f29158f8a9a171 175552 ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb
+Files:
+ 20a3c991be4e0bb971217560a5cf534a 3946280 debug optional ros-one-rosserial-server-dbgsym_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb
+ 0da0a4bbbc3bce38b01902bf3dfdbf17 10832 misc optional ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.buildinfo
+ 3d9092c042997854f360dd756e04b042 175552 misc optional ros-one-rosserial-server_0.9.2-5-gc169ae2-2025.12.13.07.30_amd64.deb

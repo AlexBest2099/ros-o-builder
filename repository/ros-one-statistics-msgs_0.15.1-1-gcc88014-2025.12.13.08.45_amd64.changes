@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 12 Jan 2022 00:00:00 -0000
+Source: ros-one-statistics-msgs
+Binary: ros-one-statistics-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.15.1-1-gcc88014-2025.12.13.08.45
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-statistics-msgs - Messages related to the Point Grey camera driver.
+Changes:
+ ros-one-statistics-msgs (0.15.1-1-gcc88014-2025.12.13.08.45) bookworm; urgency=high
+Checksums-Sha1:
+ c48c795627140c2db531b13c3c4a774c29747979 7793 ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.buildinfo
+ 41fc8f9f153e6dde6bd8c9d3aae4085f84feb0f5 14480 ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.deb
+Checksums-Sha256:
+ ab870f9d578bc2646be4256c1855f6039e3aa2167373f80e7a08e9b50beb63d6 7793 ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.buildinfo
+ 0816995e95923cfea7cdcda880670128063cb67d37b4ae8a04a36284ac64ce36 14480 ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.deb
+Files:
+ 3cb6ee68db10ce685caf315ec8066641 7793 misc optional ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.buildinfo
+ 487017ec1a3d648e3bccdec1e6aa8e65 14480 misc optional ros-one-statistics-msgs_0.15.1-1-gcc88014-2025.12.13.08.45_amd64.deb

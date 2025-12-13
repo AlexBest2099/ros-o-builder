@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial-arduino
+Binary: ros-one-rosserial-arduino
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.09
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bouchier <paul.bouchier@gmail.com>
+Changed-By: Paul Bouchier <paul.bouchier@gmail.com>
+Description:
+ ros-one-rosserial-arduino - rosserial for Arduino/AVR platforms.
+Changes:
+ ros-one-rosserial-arduino (0.9.2-5-gc169ae2-2025.12.13.07.09) bookworm; urgency=high
+ .
+   * Fix CMP0038 warning in arduino-cmake (#553 <https://github.com/ros-drivers/rosserial/issues/553>)
+   * Python3 import fix for rosserial_arduino (#554 <https://github.com/ros-drivers/rosserial/issues/554>)
+   * Contributors: Marco Camurri, Vasily Fedotov
+Checksums-Sha1:
+ d436561da14d451a5de863bb15708e0204d05cbe 7799 ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.buildinfo
+ 19f6e81646c6ec6b0c39ec1266ded814cfa7e19e 53436 ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.deb
+Checksums-Sha256:
+ a296a5f526ba3ad0f086987c4ae7b133f74cefe2038078d7c92cf9aaca879512 7799 ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.buildinfo
+ 2edacc661617a840db295c67fc640beae0b36ac988c9750824cd1ca12d8b5a82 53436 ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.deb
+Files:
+ ed2ebee73d6332a9b5e0998285bd75f4 7799 misc optional ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.buildinfo
+ 9d44234a9466df89575a6e3ba6fbef01 53436 misc optional ros-one-rosserial-arduino_0.9.2-5-gc169ae2-2025.12.13.07.09_amd64.deb

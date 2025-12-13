@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-eigen-conversions
+Binary: ros-one-eigen-conversions ros-one-eigen-conversions-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-13-gfaeeae7-2025.12.13.06.49
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-eigen-conversions - Conversion functions between: - Eigen and KDL - Eigen and geometr
+Changes:
+ ros-one-eigen-conversions (1.13.2-13-gfaeeae7-2025.12.13.06.49) bookworm; urgency=high
+Checksums-Sha1:
+ 334b2551169af67f30f0015bde935aa45095fc3a 363404 ros-one-eigen-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb
+ 2fbb0fc42f142b5cbac36862866543f99c1d1673 9280 ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.buildinfo
+ 5ab5d1443d10d27e6b86b460db7aa02a9ed0e050 12800 ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb
+Checksums-Sha256:
+ 2128d81fa5b5e7d00af77a15a6e4b339fb27ffa4142219e3aa8da77b25b1837a 363404 ros-one-eigen-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb
+ 66c24d7316ac167ccf96818922efb028aac0fbd52be628a3f9e1d43f6a697624 9280 ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.buildinfo
+ 2ce46d822179b71342e0b79c6ce627489667232b273ed29c4633b004c9431102 12800 ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb
+Files:
+ 342e986abb3d4fa7908fd735ca164c2e 363404 debug optional ros-one-eigen-conversions-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb
+ c7551df18cd9d7aa81ba6e61c2efc62f 9280 misc optional ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.buildinfo
+ 4dfc11b55d4a17c98f0a0a45677947bb 12800 misc optional ros-one-eigen-conversions_1.13.2-13-gfaeeae7-2025.12.13.06.49_amd64.deb

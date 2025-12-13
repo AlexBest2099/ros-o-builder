@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 24 Feb 2022 00:00:00 -0000
+Source: ros-one-turtlebot3-navigation
+Binary: ros-one-turtlebot3-navigation
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.5-39-g4ae959e-2025.12.13.12.19
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-turtlebot3-navigation - The turtlebot3_navigation provides roslaunch scripts for starting
+Changes:
+ ros-one-turtlebot3-navigation (1.2.5-39-g4ae959e-2025.12.13.12.19) bookworm; urgency=high
+ .
+   * No Changes
+Checksums-Sha1:
+ 90071049836aea8276eef55b99b605dce2c9c8a4 7410 ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.buildinfo
+ 9211037fdc7b6d38bba7930dae08128f15ce0a08 11756 ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.deb
+Checksums-Sha256:
+ dc41b8b7063ae2e7a3f7832c7c55eed2b6adcaf3a3fc7588954e60c36d373424 7410 ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.buildinfo
+ 6059ec9d40d50e5800c701deaf37fa489effe1efce093e5c09729f56e2e06db2 11756 ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.deb
+Files:
+ 51e57ec2578111fb79dd163fbdc12bc3 7410 misc optional ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.buildinfo
+ 3dd789e1fb4bdcf9c2871566e8a947b4 11756 misc optional ros-one-turtlebot3-navigation_1.2.5-39-g4ae959e-2025.12.13.12.19_amd64.deb

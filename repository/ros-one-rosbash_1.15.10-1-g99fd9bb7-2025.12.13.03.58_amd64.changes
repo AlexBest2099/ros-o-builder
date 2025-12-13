@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosbash
+Binary: ros-one-rosbash
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.12.13.03.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosbash - Assorted shell commands for using ros with bash.
+Changes:
+ ros-one-rosbash (1.15.10-1-g99fd9bb7-2025.12.13.03.58) bookworm; urgency=high
+ .
+   * Call realpaths for roslaunch and rosbash. (#309 <https://github.com/ros/ros/issues/309>)
+   * Contributors: Ivor Wanders
+Checksums-Sha1:
+ 76e445e8176f5793e6f0925392581edf426c900c 7348 ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.buildinfo
+ 1c7c562db2219e3e67d1b710b47396d7133e38f1 22900 ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.deb
+Checksums-Sha256:
+ 1e3669b7dbb8b8efa5fa3e44621807ca43e903ac1066dda7963650c90669ff4e 7348 ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.buildinfo
+ b4e689e015670363d2f8a5e4d5d150af7650773856478f768530e240b3dfcb5d 22900 ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.deb
+Files:
+ fc7a3e8e269394c62f1ec501c0d7eb94 7348 misc optional ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.buildinfo
+ f50e8436955810f42874fc8a69405c4f 22900 misc optional ros-one-rosbash_1.15.10-1-g99fd9bb7-2025.12.13.03.58_amd64.deb

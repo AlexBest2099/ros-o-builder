@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 12 Jan 2022 00:00:00 -0000
+Source: ros-one-wfov-camera-msgs
+Binary: ros-one-wfov-camera-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.15.1-1-gcc88014-2025.12.13.08.55
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-wfov-camera-msgs - Messages related to the Point Grey camera driver.
+Changes:
+ ros-one-wfov-camera-msgs (0.15.1-1-gcc88014-2025.12.13.08.55) bookworm; urgency=high
+Checksums-Sha1:
+ 1eb95b4ae45914751e0d315bb1c67f5568a2af6b 9050 ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.buildinfo
+ df780e5ca7619f1a7078a629f77d3ad2739dd52b 35516 ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.deb
+Checksums-Sha256:
+ 7b212ee5a2888c75efa3c61fbeed73bb08a3d941ac20b4ac11445b6b9026e7b0 9050 ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.buildinfo
+ 61ff3841b4f11464a9b89de37d61358cb935624b3b1c69b4a6de3874faab6bdd 35516 ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.deb
+Files:
+ d889d75cc462aea5f5c31d13dce8e8e8 9050 misc optional ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.buildinfo
+ 796f48817abe9fb3f2aa21229758f44e 35516 misc optional ros-one-wfov-camera-msgs_0.15.1-1-gcc88014-2025.12.13.08.55_amd64.deb

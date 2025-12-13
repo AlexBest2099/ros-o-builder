@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-fake-localization
+Binary: ros-one-fake-localization ros-one-fake-localization-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.3-4-gf44bb1fc-2025.12.13.08.05
+Distribution: bookworm
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-fake-localization - A ROS node that simply forwards odometry information.
+Changes:
+ ros-one-fake-localization (1.17.3-4-gf44bb1fc-2025.12.13.08.05) bookworm; urgency=high
+ .
+   * [ROS-O] various patches (#1225 <https://github.com/ros-planning/navigation/issues/1225>)
+     * do not specify obsolete c++11 standard
+     this breaks with current versions of log4cxx.
+     * update pluginlib include paths
+     the non-hpp headers have been deprecated since kinetic
+     * use lambdas in favor of boost::bind
+     Using boost's _1 as a global system is deprecated since C++11.
+     The ROS packages in Debian removed the implicit support for the global symbols,
+     so this code fails to compile there without the patch.
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ beb2a5673ecae6cfb1cac6eae53a1aba2cf22061 1366304 ros-one-fake-localization-dbgsym_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb
+ 8ae176c6a558c0ef023dd3e54ea8c12f9b33d22a 13170 ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.buildinfo
+ e629fbbf6e7bfa00025b30855d1d433e8d743798 87164 ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb
+Checksums-Sha256:
+ aaa84873df7453c1addc1f3483be325cbcd3e5d74dae28ce2ed4cad372e83ede 1366304 ros-one-fake-localization-dbgsym_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb
+ 5a1da1ba87e4531c2b0711c4e7aa4480f2a461894b9cffd17689caa17cd32592 13170 ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.buildinfo
+ 1259b9db9b516fc2c63e9ae5d426ec3ad8f2f9825605632a872c4f3341019d40 87164 ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb
+Files:
+ b076befa3807ebc5788ea1394d01569e 1366304 debug optional ros-one-fake-localization-dbgsym_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb
+ e0ff7ab9fa5740c8e75cc3a0b7391f3d 13170 misc optional ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.buildinfo
+ 239cd2449c264182bc028638d7b4dea6 87164 misc optional ros-one-fake-localization_1.17.3-4-gf44bb1fc-2025.12.13.08.05_amd64.deb

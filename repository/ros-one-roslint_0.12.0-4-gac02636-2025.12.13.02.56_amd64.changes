@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Mon, 16 Mar 2020 00:00:00 -0000
+Source: ros-one-roslint
+Binary: ros-one-roslint
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.12.0-4-gac02636-2025.12.13.02.56
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-roslint - CMake lint commands for ROS packages.
+Changes:
+ ros-one-roslint (0.12.0-4-gac02636-2025.12.13.02.56) bookworm; urgency=high
+ .
+   * Misc tidying for ROS Noetic. (#79 <https://github.com/ros/roslint//issues/79>)
+     - Invoke wrappers with python -m instead of as scripts.
+     - Drop logic not needed with CATKIN_ENV used.
+     - Drop unneeded install of the cmake extra.
+     - Print output as well as capturing in test wrapper.
+   * Bump CMake version to avoid CMP0048 warning (#77 <https://github.com/ros/roslint//issues/77>)
+   * Fix is-not usage in cpplint-wrapper (#76 <https://github.com/ros/roslint//issues/76>)
+     Python complains about this during installation now.
+   * Bump to latest pycodestyle.
+   * Python 3 fixes for cpplint.
+   * Bump cpplint.py to latest version
+   * Update URL to cpplint
+   * Support for headers outside of include folder (#68 <https://github.com/ros/roslint//issues/68>)
+   * Adding hpp to default list of extensions. (#69 <https://github.com/ros/roslint//issues/69>)
+   * CheckBracers now correctly accepts C++11 bracer-init-lists passed as arguments to functions (#63 <https://github.com/ros/roslint//issues/63>)
+   * Contributors: Joshua Whitley, Maciej Żurad, Mike Purvis, Shane Loretz, mistoll
+Checksums-Sha1:
+ 52d71521bb6a2aa1a5d545b49a02ba722d7329ca 7343 ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.buildinfo
+ 4d43e28a65d5239b2335f0c904370297e866db31 189216 ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.deb
+Checksums-Sha256:
+ c9d0a32d34c713fe2ae5b059fafe3b1b02f0a028142468f2fc2b853f73d69e79 7343 ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.buildinfo
+ caaad62f59a07cf0bb5f687e7e77657dbb21a472cd9530e93a104047db9ae3e5 189216 ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.deb
+Files:
+ bb70708b30251da5744a4434b6ca592f 7343 misc optional ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.buildinfo
+ acfce1eed3d32c5b92f26f3cc29ed1b9 189216 misc optional ros-one-roslint_0.12.0-4-gac02636-2025.12.13.02.56_amd64.deb

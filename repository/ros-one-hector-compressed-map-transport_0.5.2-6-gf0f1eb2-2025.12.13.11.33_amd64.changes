@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-compressed-map-transport
+Binary: ros-one-hector-compressed-map-transport ros-one-hector-compressed-map-transport-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.33
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-compressed-map-transport - hector_compressed_map_transport provides means for transporting c
+Changes:
+ ros-one-hector-compressed-map-transport (0.5.2-6-gf0f1eb2-2025.12.13.11.33) bookworm; urgency=high
+ .
+   * Fix out of bounds access
+     Fixes #52 <https://github.com/tu-darmstadt-ros-pkg/hector_slam/issues/52> and #70 <https://github.com/tu-darmstadt-ros-pkg/hector_slam/issues/70>
+   * Contributors: Stefan Fabian
+Checksums-Sha1:
+ d8016b97961c406ffc7042767d96b10174763f73 627616 ros-one-hector-compressed-map-transport-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb
+ 28a440b0081f3dc7f6709042534c4d633f46581d 27622 ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.buildinfo
+ 54068d420a8d810073b567dae30df12d4c6246c0 33096 ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb
+Checksums-Sha256:
+ 6a37446c7ccc32f7b66a7f4214b62d2856fd563cf67b704e1c80c7f37c1c113e 627616 ros-one-hector-compressed-map-transport-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb
+ 92cd07a3b4ff2677036f8d32f739ee3944f69c01c842812312701a62352834d0 27622 ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.buildinfo
+ 92958657f7a073cf5d87a3ed62ee2710631fe74699bcc069c845bdb0ef9a6992 33096 ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb
+Files:
+ ace2b59444b4a6939975dc63200179db 627616 debug optional ros-one-hector-compressed-map-transport-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb
+ d3d2dce8e1cf5b12b0f03056f3dc841d 27622 misc optional ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.buildinfo
+ 045326f2b031e2d74ec42ddaff0635ce 33096 misc optional ros-one-hector-compressed-map-transport_0.5.2-6-gf0f1eb2-2025.12.13.11.33_amd64.deb

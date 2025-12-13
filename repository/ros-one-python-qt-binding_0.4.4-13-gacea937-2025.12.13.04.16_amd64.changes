@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 15 Jul 2021 00:00:00 -0000
+Source: ros-one-python-qt-binding
+Binary: ros-one-python-qt-binding
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.4-13-gacea937-2025.12.13.04.16
+Distribution: bookworm
+Urgency: high
+Maintainer: Claire Wang <clairewang@openrobotics.org>
+Changed-By: Claire Wang <clairewang@openrobotics.org>
+Description:
+ ros-one-python-qt-binding - This stack provides Python bindings for Qt.
+Changes:
+ ros-one-python-qt-binding (0.4.4-13-gacea937-2025.12.13.04.16) bookworm; urgency=high
+ .
+   * add check for sip binding install directory on archlinux (#95 <https://github.com/ros-visualization/python_qt_binding/issues/95>)
+   * Update maintainers (#96 <https://github.com/ros-visualization/python_qt_binding/issues/96>)
+   * Contributors: Akash Patel, Shane Loretz
+Checksums-Sha1:
+ 7d36635ed3f0bdc15eb36769be184905936c42c7 13763 ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.buildinfo
+ 39b8e60fdc8d2b7fc282015110cdbc7250d8860c 22720 ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.deb
+Checksums-Sha256:
+ 14f2cca387760a0ba6059652bc7cb9f6ea44ee02df5e831048bd8e9d50e638ca 13763 ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.buildinfo
+ 4027a014c9166897599e366fdd9bdfdcb071b4745c25d10a9aebcdde3ff5a529 22720 ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.deb
+Files:
+ 2dd1315045a13145124cf6d0cbf7e385 13763 misc optional ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.buildinfo
+ 4278492e910f192264633b339c095ef5 22720 misc optional ros-one-python-qt-binding_0.4.4-13-gacea937-2025.12.13.04.16_amd64.deb

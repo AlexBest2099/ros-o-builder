@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-turtle-tf
+Binary: ros-one-turtle-tf ros-one-turtle-tf-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.2.4-2025.12.13.07.54
+Distribution: bookworm
+Urgency: high
+Maintainer: William Woodall <william@osrfoundation.org>
+Changed-By: William Woodall <william@osrfoundation.org>
+Description:
+ ros-one-turtle-tf - turtle_tf demonstrates how to write a tf broadcaster and listener
+Changes:
+ ros-one-turtle-tf (0.2.4-2025.12.13.07.54) bookworm; urgency=high
+ .
+   * Do away with boost::bind (#86 <https://github.com/ros/geometry_tutorials/issues/86>)
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ dbd746941ba9b9c4eeaa3d91651927cb2f990427 1987124 ros-one-turtle-tf-dbgsym_0.2.4-2025.12.13.07.54_amd64.deb
+ 70e8ead12ee49e72c55452d2c40a7c36e714473c 19515 ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.buildinfo
+ 7cb1fbda2d6540f7ce551de12727a6390538f9d9 107424 ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.deb
+Checksums-Sha256:
+ 5ce552214dbec3283d0b83846745c848014252286aaac4ea7168ad66ebd5a605 1987124 ros-one-turtle-tf-dbgsym_0.2.4-2025.12.13.07.54_amd64.deb
+ c82a7c4398a3f80a2cedcdc17dfcfe94ef49f558f0e7e18eada112235abaf1f2 19515 ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.buildinfo
+ af6017ea9267aa8e3f88ebf7ecbef2e6fe7e11793bc2b42f636e21254855ebe7 107424 ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.deb
+Files:
+ b154ec717ce0b6c301783dee48d69045 1987124 debug optional ros-one-turtle-tf-dbgsym_0.2.4-2025.12.13.07.54_amd64.deb
+ e85783f884680cb7c89385334d619acb 19515 misc optional ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.buildinfo
+ 7bc4f7d6607315037e4301471e774676 107424 misc optional ros-one-turtle-tf_0.2.4-2025.12.13.07.54_amd64.deb

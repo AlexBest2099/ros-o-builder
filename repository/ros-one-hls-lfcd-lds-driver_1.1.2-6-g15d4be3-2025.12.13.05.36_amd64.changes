@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 16 Apr 2021 00:00:00 -0000
+Source: ros-one-hls-lfcd-lds-driver
+Binary: ros-one-hls-lfcd-lds-driver ros-one-hls-lfcd-lds-driver-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.2-6-g15d4be3-2025.12.13.05.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-hls-lfcd-lds-driver - ROS package for LDS(HLS-LFCD2).
+Changes:
+ ros-one-hls-lfcd-lds-driver (1.1.2-6-g15d4be3-2025.12.13.05.36) bookworm; urgency=high
+ .
+   * fix LDS data issue
+   * Contributors: Will Son
+Checksums-Sha1:
+ 3a86ded14126377b0a1e08795651279e4c7450dd 1036624 ros-one-hls-lfcd-lds-driver-dbgsym_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb
+ d88a593a641ca30c91473fcf26dff71e551b9eda 15670 ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.buildinfo
+ 50b46ffb944937e217887365ee548ed1572daf65 63848 ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb
+Checksums-Sha256:
+ c119071884288643a8be27af7784053cf0f998b979a0a5c6ee9a67dc77dc37a4 1036624 ros-one-hls-lfcd-lds-driver-dbgsym_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb
+ 2a7a5c281f2b0a69d5e0dc53579bbc5c761da8b7441a490a6e0c640dd3e68b17 15670 ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.buildinfo
+ b620f7b1a9923a54270ba070e50d331726c038b658334a4dd7012451ce0c1128 63848 ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb
+Files:
+ c1fe909108bde8366b65876601a6944c 1036624 debug optional ros-one-hls-lfcd-lds-driver-dbgsym_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb
+ 85ba82f912a2764f7b2976ebbb98d455 15670 misc optional ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.buildinfo
+ ba7591ad24324475a18107977b679051 63848 misc optional ros-one-hls-lfcd-lds-driver_1.1.2-6-g15d4be3-2025.12.13.05.36_amd64.deb

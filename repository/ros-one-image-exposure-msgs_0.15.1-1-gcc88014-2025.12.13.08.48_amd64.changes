@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 12 Jan 2022 00:00:00 -0000
+Source: ros-one-image-exposure-msgs
+Binary: ros-one-image-exposure-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.15.1-1-gcc88014-2025.12.13.08.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-image-exposure-msgs - Messages related to the Point Grey camera driver.
+Changes:
+ ros-one-image-exposure-msgs (0.15.1-1-gcc88014-2025.12.13.08.48) bookworm; urgency=high
+Checksums-Sha1:
+ 34a937ebe8c0c0906a17614391694685cb10cd63 9006 ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.buildinfo
+ 4d6661a324ff9a47ebc8dd3bad87aad6a822b6a2 29520 ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.deb
+Checksums-Sha256:
+ 822649f8996731fa4ae82493f735ece89e8276b1ec1d85af1e67d9d78a402885 9006 ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.buildinfo
+ c80ed3da2f5a880c1e734c97fe9d29054a90f7e58133d81c1f7419c57c0203ff 29520 ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.deb
+Files:
+ 49ad03a7f940d9be2a20e6553815d5d9 9006 misc optional ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.buildinfo
+ 276e12e05a1847f353ce1d900314a864 29520 misc optional ros-one-image-exposure-msgs_0.15.1-1-gcc88014-2025.12.13.08.48_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-geometry-msgs
+Binary: ros-one-geometry-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-1-g092bc23-2025.12.13.04.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-geometry-msgs - geometry_msgs provides messages for common geometric primitives s
+Changes:
+ ros-one-geometry-msgs (1.13.2-1-g092bc23-2025.12.13.04.28) bookworm; urgency=high
+ .
+   * Remove additional spaces (#180 <https://github.com/ros/common_msgs/issues/180>)
+   * Contributors: Oskar
+Checksums-Sha1:
+ 9c6d79af16f988d2e4b10551cec382a81c4905c9 8911 ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.buildinfo
+ 787bb220dd30e0dc6f3216dc33d72528a611620e 74708 ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.deb
+Checksums-Sha256:
+ 2e8f6e9d9ebddc7013a7cf97a6c3ef49dd0c7d64b8fa0fb29946c5b8f165081d 8911 ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.buildinfo
+ d4ef7d049319c896cb80946a47e96f312c5fb292dfd1d6afc88befacec92c93d 74708 ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.deb
+Files:
+ 038ae3a3d866345bf48722109c963e85 8911 misc optional ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.buildinfo
+ e2b6825185e2faba02621fe3efb89b40 74708 misc optional ros-one-geometry-msgs_1.13.2-1-g092bc23-2025.12.13.04.28_amd64.deb

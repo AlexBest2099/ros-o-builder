@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 24 Feb 2025 00:00:00 -0000
+Source: ros-one-ur-msgs
+Binary: ros-one-ur-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.5.0-2025.12.13.05.44
+Distribution: bookworm
+Urgency: high
+Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Changed-By: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
+Description:
+ ros-one-ur-msgs - Message and service definitions for interacting with Universal Ro
+Changes:
+ ros-one-ur-msgs (1.5.0-2025.12.13.05.44) bookworm; urgency=high
+ .
+   * Add SetForceMode service (#27 <https://github.com/ros-industrial/ur_msgs/issues/27>)
+   * Contributors: URJala
+Checksums-Sha1:
+ 286533693ba66965b716ef0ad149b15f7c0c3f54 8896 ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.buildinfo
+ 83a80fb4420ebde217dbc492a5a409cff84b9e7b 80456 ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.deb
+Checksums-Sha256:
+ b441be8ad392a41fff52fd5c99bbe853c32b36d481b1df3c403957bc41809d57 8896 ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.buildinfo
+ a92f03ca6c454d6a1b8d896d54185ae7811c7137c8829e755176159ddb9fb547 80456 ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.deb
+Files:
+ a6343673ac9618851935984917e42c4f 8896 misc optional ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.buildinfo
+ b96deee8276b69023053ec54a4504d94 80456 misc optional ros-one-ur-msgs_1.5.0-2025.12.13.05.44_amd64.deb

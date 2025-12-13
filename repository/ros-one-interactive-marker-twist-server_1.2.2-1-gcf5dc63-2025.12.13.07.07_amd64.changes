@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 00:00:00 -0000
+Source: ros-one-interactive-marker-twist-server
+Binary: ros-one-interactive-marker-twist-server ros-one-interactive-marker-twist-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.2-1-gcf5dc63-2025.12.13.07.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Changed-By: Mike Purvis <mpurvis@clearpathrobotics.com>
+Description:
+ ros-one-interactive-marker-twist-server - Interactive control for generic Twist-based robots using interact
+Changes:
+ ros-one-interactive-marker-twist-server (1.2.2-1-gcf5dc63-2025.12.13.07.07) bookworm; urgency=high
+ .
+   * Remove the leading '/' from the default link; this causes errors in Noetic
+   * Bump CMake version to avoid CMP0048 warning.
+   * Contributors: Chris Iverach-Brereton, Tony Baltovski
+Checksums-Sha1:
+ 6fbb125001e7b591d23b6349ae3acfd3f0798af1 437932 ros-one-interactive-marker-twist-server-dbgsym_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb
+ c555fe2ea28b9a760adffe1f70567a2e0ccdbf87 18183 ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.buildinfo
+ 6e3e117dcd39a39e5c86d8a2882515da785bd1de 28172 ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb
+Checksums-Sha256:
+ b107966640472bcd175700fe529050165bf4b5bf2135e1fe1f1c8275acf39a2c 437932 ros-one-interactive-marker-twist-server-dbgsym_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb
+ 06bfbac4b3f8c12e5e36073c1d87f077767638df094ff9c856be687a55881ba4 18183 ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.buildinfo
+ 9de15dc97e178041535d2b6f5821d238d1f168f68921801b839198ab7b46cc58 28172 ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb
+Files:
+ 341b3003ea2ad9de8b54ef0b0320c698 437932 debug optional ros-one-interactive-marker-twist-server-dbgsym_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb
+ feb401087e59f4146b21b0e89c664cf4 18183 misc optional ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.buildinfo
+ 915f2f8f8f03abdb43015484d7b10396 28172 misc optional ros-one-interactive-marker-twist-server_1.2.2-1-gcf5dc63-2025.12.13.07.07_amd64.deb

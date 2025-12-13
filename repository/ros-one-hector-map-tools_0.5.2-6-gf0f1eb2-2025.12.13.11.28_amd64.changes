@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-map-tools
+Binary: ros-one-hector-map-tools
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-map-tools - hector_map_tools contains some functions related to accessing inf
+Changes:
+ ros-one-hector-map-tools (0.5.2-6-gf0f1eb2-2025.12.13.11.28) bookworm; urgency=high
+Checksums-Sha1:
+ 72edaa15f661731e9d8c758a1f504eda13702d5e 9132 ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.buildinfo
+ 8693e4cb4cc8ce0a27e65e32f2cdbdfc4e659eb8 9252 ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.deb
+Checksums-Sha256:
+ 4dff46a6132ada0a62c65c646f1672156ad95eed5eb5ce3cd657c8930a802f49 9132 ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.buildinfo
+ c963f7af49ca3d47b37479f1db721c81451b1afeacd7d8dbdd4c9e7d8c709ecb 9252 ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.deb
+Files:
+ 62c619e71f05bf7b482bdf84d7d2a9b0 9132 misc optional ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.buildinfo
+ ba2d64923cc38d9b42f857d162914051 9252 misc optional ros-one-hector-map-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.28_amd64.deb

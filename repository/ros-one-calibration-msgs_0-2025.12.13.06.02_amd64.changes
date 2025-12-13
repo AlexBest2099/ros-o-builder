@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-msgs
+Binary: ros-one-calibration-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.06.02
+Distribution: bookworm
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration-msgs - This package defines messages for storing calibration samples to
+Changes:
+ ros-one-calibration-msgs (0-2025.12.13.06.02) bookworm; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 01c26a1e3e766a7b6bb48b5fba289aeea352aef8 8986 ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.buildinfo
+ 3c0c74675f86da5c5a10631ec140817bcd23f5ed 80280 ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.deb
+Checksums-Sha256:
+ 2ff0897de52312b761e4a04bb2764fd5a81fa87f8a8563efaf02870e85e9967f 8986 ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.buildinfo
+ 14892ee4bdd8467fb069198d486041e6ff3288a5cbd254cf0b4f3218fe500e6d 80280 ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.deb
+Files:
+ 0917cc96ea622bdbe9709b966630db2f 8986 misc optional ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.buildinfo
+ 4d68f27b51b8861b2b090654d2856dcc 80280 misc optional ros-one-calibration-msgs_0-2025.12.13.06.02_amd64.deb

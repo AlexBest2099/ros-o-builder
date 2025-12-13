@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial
+Binary: ros-one-rosserial
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bouchier <paul.bouchier@gmail.com>
+Changed-By: Paul Bouchier <paul.bouchier@gmail.com>
+Description:
+ ros-one-rosserial - Metapackage for core of rosserial.
+Changes:
+ ros-one-rosserial (0.9.2-5-gc169ae2-2025.12.13.07.07) bookworm; urgency=high
+Checksums-Sha1:
+ bdc75c1066400662133af432c76a5d5d1bc89efc 7343 ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.buildinfo
+ c53d035f6a3a37354ff1c5fcd3e53398e2d6f816 2528 ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.deb
+Checksums-Sha256:
+ bedc8a018fcb4bf121ee9f6fb6d5b94e1574a761f4f768040535728a664f78e2 7343 ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.buildinfo
+ e8604d768f1f2505d9b4ee76df16b759c47e975e4048dba5e68fda9473df701d 2528 ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.deb
+Files:
+ 87fb3a4188d5bf8ba1264b7710b8a305 7343 misc optional ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.buildinfo
+ 76bbce019e1724f02c46d3bf40435e47 2528 misc optional ros-one-rosserial_0.9.2-5-gc169ae2-2025.12.13.07.07_amd64.deb

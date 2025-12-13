@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-trajectory-server
+Binary: ros-one-hector-trajectory-server ros-one-hector-trajectory-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.12.16
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-trajectory-server - hector_trajectory_server keeps track of tf trajectories extracted
+Changes:
+ ros-one-hector-trajectory-server (0.5.2-6-gf0f1eb2-2025.12.13.12.16) bookworm; urgency=high
+Checksums-Sha1:
+ 746a2fd0bb520b9c2101b12e43312d65ab49fdd0 686944 ros-one-hector-trajectory-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb
+ 0844b75794a62fd0ad2df972029c800f68db5573 17967 ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.buildinfo
+ a2f9f9ae408038f4bf3e1d9c562866c5d89271cd 51164 ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb
+Checksums-Sha256:
+ a4366f5a94feab88451e6d9607f9f85a06366f20e9aca0ced423ba9ee770f542 686944 ros-one-hector-trajectory-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb
+ c79ad7fb36223a1e5438ce321c405a2f69868a043dc3cbf5e19e0ef8c1ece92c 17967 ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.buildinfo
+ dc7a309ebcb688b42b6a0311be23caffc456f2d5a623f15a63999e48f1a33ea2 51164 ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb
+Files:
+ 0d3ab7de96e63a1ef7133f6af7fea843 686944 debug optional ros-one-hector-trajectory-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb
+ d23fab4b0656942628ec6bfed415b9f8 17967 misc optional ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.buildinfo
+ 6f53697e282a1b7aad9c6623a4b54c14 51164 misc optional ros-one-hector-trajectory-server_0.5.2-6-gf0f1eb2-2025.12.13.12.16_amd64.deb

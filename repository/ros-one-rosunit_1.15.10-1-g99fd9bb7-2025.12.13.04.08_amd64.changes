@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosunit
+Binary: ros-one-rosunit
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.12.13.04.08
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosunit - Unit-testing package for ROS.
+Changes:
+ ros-one-rosunit (1.15.10-1-g99fd9bb7-2025.12.13.04.08) bookworm; urgency=high
+Checksums-Sha1:
+ 1b48c323428f648fe0342ffdb117f75d61dd3a60 7348 ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.buildinfo
+ 47d215d8e4f0ce3ac98be81d4e41ffdf7e103da4 63572 ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.deb
+Checksums-Sha256:
+ 4cdc8b78b36e28004abc7f84e07bb050f4321524741d36661f3139aec4b8f670 7348 ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.buildinfo
+ 1bcde75c0fce01553b8dc3a10b26f16e49434c733f59a6a6d4b36becea49a557 63572 ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.deb
+Files:
+ 228667ab89ae575b9bdf722419f65ba5 7348 misc optional ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.buildinfo
+ 5c4a685b81fd90bee79dfac691178528 63572 misc optional ros-one-rosunit_1.15.10-1-g99fd9bb7-2025.12.13.04.08_amd64.deb

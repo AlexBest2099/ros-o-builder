@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-capture
+Binary: ros-one-audio-capture ros-one-audio-capture-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.18-2025.12.13.06.02
+Distribution: bookworm
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-capture - Transports audio from a source to a destination.
+Changes:
+ ros-one-audio-capture (0.3.18-2025.12.13.06.02) bookworm; urgency=high
+Checksums-Sha1:
+ 87855c999a081ce5e13175e7c562543d263124c1 549012 ros-one-audio-capture-dbgsym_0.3.18-2025.12.13.06.02_amd64.deb
+ 70111d64851005cf242e3cbad982f9f13a4e89eb 13558 ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.buildinfo
+ ecb18be8f93bbc5e3fe848763985de35bb7619cf 44228 ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.deb
+Checksums-Sha256:
+ 1c9ee7bf49f94c9ee54c635103685431b79322353b38fee0713f846e86db30be 549012 ros-one-audio-capture-dbgsym_0.3.18-2025.12.13.06.02_amd64.deb
+ 3e53687e6b8d4b9eef266ed81154a175ec910f13b2bba298208c6febed0b8313 13558 ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.buildinfo
+ dbe7d14d8a4c564ed4a0608cfad0eec57467c87eb7bc1af341ad173e833364fe 44228 ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.deb
+Files:
+ 2360057543580199b411b9da900451ca 549012 debug optional ros-one-audio-capture-dbgsym_0.3.18-2025.12.13.06.02_amd64.deb
+ 32bc5593b45bc29360d02f267b38581b 13558 misc optional ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.buildinfo
+ 516c6091d9fb8cb72fc674b7a0bd46a4 44228 misc optional ros-one-audio-capture_0.3.18-2025.12.13.06.02_amd64.deb

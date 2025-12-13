@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-posedetection-msgs
+Binary: ros-one-posedetection-msgs ros-one-posedetection-msgs-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2025.12.13.06.09
+Distribution: bookworm
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-posedetection-msgs - posedetection_msgs provides messages and services to facilitate p
+Changes:
+ ros-one-posedetection-msgs (4.3.2-13-g093b57c-2025.12.13.06.09) bookworm; urgency=high
+ .
+   * fix for noetic, need to use OpenCV2 instead of OpenCV (#26 <https://github.com/jsk-ros-pkg/jsk_common_msgs/issues/26>)
+ .
+       * add noetic test to travis.yml, update jsk_travis 0.5.10
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ e5226af9d84fed1d746a75429d1126a0454e8978 1407656 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb
+ a98aa7c19fad8d7eb093a5d1a75986a3b89d1adf 25538 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.buildinfo
+ d0ab4b5f65561eb997b50397cbdf700679d61bcb 137576 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb
+Checksums-Sha256:
+ b053d3bfe9f8cc0d7d0485f837d127da570987e03f472c2e2dd237a1c1e589f4 1407656 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb
+ 6eb97fbd7b115648b8b0a3e3dc0bb411245f73906ee74cd6ca0c97eeb534afc1 25538 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.buildinfo
+ 5fa2fb75de8308d7218c01dd873450c81ae99499852c180d35dde00053ee7b8f 137576 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb
+Files:
+ dc1902cbb5087a822e863f335c97ca6d 1407656 debug optional ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb
+ 7016bcfa17a159673ec546e9892f832d 25538 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.buildinfo
+ 81e7c701fef540a6f36e7deadd6c6ff7 137576 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2025.12.13.06.09_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-slam
+Binary: ros-one-hector-slam
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.12.08
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-slam - The hector_slam metapackage that installs hector_mapping and rela
+Changes:
+ ros-one-hector-slam (0.5.2-6-gf0f1eb2-2025.12.13.12.08) bookworm; urgency=high
+Checksums-Sha1:
+ bab28f240f7a122198b94f1fdd04b9f63e10d039 7353 ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.buildinfo
+ b2e2983693eaa889dc61086e0ff6945f306ef914 3128 ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.deb
+Checksums-Sha256:
+ 20be10ca15b00c0233c50e6c76941532bfc3f7b0e08dea12db0a160a1b695711 7353 ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.buildinfo
+ b7e81bafa7c881e043864775f03a0569e547465294b7cc12678fe68eb32e37cc 3128 ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.deb
+Files:
+ 6101f7096eed8beb03e9304d69740f63 7353 misc optional ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.buildinfo
+ ba3ba89c12075d902f6e3d269f22e5d3 3128 misc optional ros-one-hector-slam_0.5.2-6-gf0f1eb2-2025.12.13.12.08_amd64.deb

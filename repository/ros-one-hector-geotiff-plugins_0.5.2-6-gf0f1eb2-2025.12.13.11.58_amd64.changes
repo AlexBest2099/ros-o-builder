@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-geotiff-plugins
+Binary: ros-one-hector-geotiff-plugins ros-one-hector-geotiff-plugins-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-geotiff-plugins - hector_geotiff_plugins contains plugins that extend geotiff maps
+Changes:
+ ros-one-hector-geotiff-plugins (0.5.2-6-gf0f1eb2-2025.12.13.11.58) bookworm; urgency=high
+Checksums-Sha1:
+ 305dd19667b40c787eff7c9fcaa72f9b79b1dd7a 348472 ros-one-hector-geotiff-plugins-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb
+ 87a8893d3a482bf141ce6d937b6cb04ea6da6e39 17231 ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.buildinfo
+ 27b92b027b25bc894b1a85fddcc799290dcdf11f 24724 ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb
+Checksums-Sha256:
+ 22155ca4c02d3a2c2e1708a60de96dee54644aac078b930b78c7894f2ec2334f 348472 ros-one-hector-geotiff-plugins-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb
+ bf5bd7efc066f689de5f8abd85c5e6600b874643e23ef0cee5ec9e9536af2ae6 17231 ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.buildinfo
+ f4db917f329fbafbc2a63784333ff1c58f0b34f10990b966495ff1e6224e7b83 24724 ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb
+Files:
+ eb084d62e72770fb15d2b97125dc1576 348472 debug optional ros-one-hector-geotiff-plugins-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb
+ 17d22cde6a09b1074c2660ecc22b6f78 17231 misc optional ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.buildinfo
+ 90def555108b2cebefef2314f335326f 24724 misc optional ros-one-hector-geotiff-plugins_0.5.2-6-gf0f1eb2-2025.12.13.11.58_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 13 Feb 2025 00:00:00 -0000
+Source: ros-one-executive-smach
+Binary: ros-one-executive-smach
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.5.3-2025.12.13.06.10
+Distribution: bookworm
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-executive-smach - This metapackage depends on the SMACH library and ROS SMACH integ
+Changes:
+ ros-one-executive-smach (2.5.3-2025.12.13.06.10) bookworm; urgency=high
+Checksums-Sha1:
+ 80f51b5bd51ee114e97ba6fcb95ff1ab73d6dccd 7329 ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.buildinfo
+ 062baf2f7c711988c385b47bbc4c3d78bbc15c7a 2900 ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.deb
+Checksums-Sha256:
+ 08567fd4cceb877a33c66f989e553f41b6efbfe0a84c4466880128b709a7a5ec 7329 ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.buildinfo
+ afeb6641171c7dee2d29bfa41147e0f0737c9819e03ea687b85c9225533ced8b 2900 ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.deb
+Files:
+ b5e5e3812986b7619cb40433dfa95062 7329 misc optional ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.buildinfo
+ 6891ba41c9b2d880b8250acba9ce7a4f 2900 misc optional ros-one-executive-smach_2.5.3-2025.12.13.06.10_amd64.deb

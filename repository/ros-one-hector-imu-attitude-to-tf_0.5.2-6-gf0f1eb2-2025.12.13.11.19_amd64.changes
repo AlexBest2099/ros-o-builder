@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-imu-attitude-to-tf
+Binary: ros-one-hector-imu-attitude-to-tf ros-one-hector-imu-attitude-to-tf-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.19
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-imu-attitude-to-tf - hector_imu_attitude_to_tf is a lightweight node that can be used
+Changes:
+ ros-one-hector-imu-attitude-to-tf (0.5.2-6-gf0f1eb2-2025.12.13.11.19) bookworm; urgency=high
+Checksums-Sha1:
+ 9f0de791a8ef74998e166c07e5cc4543e9eeaef1 321220 ros-one-hector-imu-attitude-to-tf-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb
+ 8e4d7fcfc4704fded2695b6e3355d88be8ce0571 17761 ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.buildinfo
+ f44b220df5beba8334d985e6185903725dde3f3e 27028 ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb
+Checksums-Sha256:
+ 3bec91d4fb3e5340cb5bd8f264a30093be699d9a1bbc9d412a32aad107458aab 321220 ros-one-hector-imu-attitude-to-tf-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb
+ 82fc92086d31107eb8b83579b0b5fc54e2f5c9a964a6d03926282009dd9c2794 17761 ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.buildinfo
+ c6e7a918b56e33895f0a68dac75363791ae0729233f0302d41d3cfdf0c471606 27028 ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb
+Files:
+ 3a0292c79b50ffef90d35b52880d1c4a 321220 debug optional ros-one-hector-imu-attitude-to-tf-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb
+ e8ca767c83f0bfdfc7c08c47022a102d 17761 misc optional ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.buildinfo
+ 604ba98a75a3e2cd2ed07b76655ea6c9 27028 misc optional ros-one-hector-imu-attitude-to-tf_0.5.2-6-gf0f1eb2-2025.12.13.11.19_amd64.deb

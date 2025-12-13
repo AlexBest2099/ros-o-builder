@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 13 Feb 2025 00:00:00 -0000
+Source: ros-one-smach-msgs
+Binary: ros-one-smach-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.5.3-2025.12.13.06.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Isaac I. Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I. Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-smach-msgs - this package contains a set of messages that are used by the intr
+Changes:
+ ros-one-smach-msgs (2.5.3-2025.12.13.06.36) bookworm; urgency=high
+Checksums-Sha1:
+ be8bed32f046669853198f66813a37c3c5c4a8ed 8848 ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.buildinfo
+ 925506e1c3c9285d170dfb3f40d03331384d7cea 24212 ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.deb
+Checksums-Sha256:
+ 571a08ad8f6f18b22dc17988192a3a4cc5398eec159e08ef0d8443fffaa7e525 8848 ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.buildinfo
+ 49f832af64f944988574ec815667342ba0800275120ba2b0f82e7e819ac92d5a 24212 ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.deb
+Files:
+ d38effb10e3533e9d264af75426f0d96 8848 misc optional ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.buildinfo
+ 276301c4b726797beaa44747c64dc138 24212 misc optional ros-one-smach-msgs_2.5.3-2025.12.13.06.36_amd64.deb

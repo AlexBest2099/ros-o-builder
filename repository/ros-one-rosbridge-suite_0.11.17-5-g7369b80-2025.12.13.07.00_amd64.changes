@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 10 Sep 2025 00:00:00 -0000
+Source: ros-one-rosbridge-suite
+Binary: ros-one-rosbridge-suite
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.11.17-5-g7369b80-2025.12.13.07.00
+Distribution: bookworm
+Urgency: high
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Changed-By: Russell Toris <rctoris@wpi.edu>
+Description:
+ ros-one-rosbridge-suite - Rosbridge provides a JSON API to ROS functionality for non-ROS pr
+Changes:
+ ros-one-rosbridge-suite (0.11.17-5-g7369b80-2025.12.13.07.00) bookworm; urgency=high
+Checksums-Sha1:
+ 70a356cb895f2601c8e4de0299c2f949e12de4ab 7381 ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.buildinfo
+ 502eb3d946574eac99e8f8f7afc0074a87adb57c 4096 ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.deb
+Checksums-Sha256:
+ 0c9d73e092ede928f4e2d6b6e93ff3050924fc8badd05988aa16781b9b743809 7381 ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.buildinfo
+ 2d0b6ebfd97d5ce361b30ab6f9d1816497dc63df605932e4382a4d1ae81a5b9c 4096 ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.deb
+Files:
+ d9734a7070eaa723996c080ca4bc0f1b 7381 misc optional ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.buildinfo
+ 88f413180e22dbd6b84f219cb0fc01db 4096 misc optional ros-one-rosbridge-suite_0.11.17-5-g7369b80-2025.12.13.07.00_amd64.deb

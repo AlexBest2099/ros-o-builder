@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 13 Aug 2024 00:00:00 -0000
+Source: ros-one-audio-common
+Binary: ros-one-audio-common
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.18-2025.12.13.05.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-common - Common code for working with audio in ROS
+Changes:
+ ros-one-audio-common (0.3.18-2025.12.13.05.58) bookworm; urgency=high
+Checksums-Sha1:
+ df2183062e3aaca3dc95f5cc8b47426fa287a2f1 7318 ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.buildinfo
+ 9eb9090a77668598973cd3bc0af7225609de7141 2980 ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.deb
+Checksums-Sha256:
+ 13b1ee83defd6373eb3e81e94cfa2c1704ab44e8ed8a6f780fda243d48a497f5 7318 ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.buildinfo
+ 1f3b2bd6c319b7f3324780248c5a0968ec17994282c1efe268abae867eb7f0d2 2980 ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.deb
+Files:
+ 95fd6adc6335ae99581094b6080c5125 7318 misc optional ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.buildinfo
+ 1ed2bcc725b5a72e90ce4686336c28e6 2980 misc optional ros-one-audio-common_0.3.18-2025.12.13.05.58_amd64.deb

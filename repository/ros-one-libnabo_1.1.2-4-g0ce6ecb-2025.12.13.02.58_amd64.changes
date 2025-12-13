@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 23 May 2024 00:00:00 -0000
+Source: ros-one-libnabo
+Binary: ros-one-libnabo
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.2-4-g0ce6ecb-2025.12.13.02.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Stéphane Magnenat <stephane.magnenat@mavt.ethz.ch>
+Changed-By: Stéphane Magnenat <stephane.magnenat@mavt.ethz.ch>
+Description:
+ ros-one-libnabo - libnabo is a fast K Nearest Neighbour library for low-dimensional
+Changes:
+ ros-one-libnabo (1.1.2-4-g0ce6ecb-2025.12.13.02.58) bookworm; urgency=high
+ .
+   * Merge pull request #137 <https://github.com/ethz-asl/libnabo/issues/137> from norlab-ulaval/github-action-api-docs
+     Add a GitHub action to upload API documentation to a webpage
+   * CMake read libnabo version from package.xml, instead of the header of nabo.h
+   * Merge pull request #136 <https://github.com/ethz-asl/libnabo/issues/136> from norlab-ulaval/release
+     Mod docker compose services for running with docker-container driver
+   * ci: update submodule to latest and mod service for docker-container driver
+   * ci: force norlab-teamcity-server release build configuration
+     [skip release]
+   * Contributors: Luc Coupal, RedLeaderOne, boxanm
+Checksums-Sha1:
+ 077b4f4482dd105380b0817c87dcd10e288333c6 12975 ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.buildinfo
+ 9325ceddf288b8c35718693a61c4d97bafcce829 95868 ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.deb
+Checksums-Sha256:
+ 574e6dde088a737c8e454ac3ed2bffb9acfc8f96c946e6fc36e1cb755c4b0904 12975 ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.buildinfo
+ d9688f44e1f4d8a569e52fdf58c47f642c9ebda45d33e237ed79e8bc61bb3f02 95868 ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.deb
+Files:
+ 65bcb026aea4675e074e1b2562f41fb0 12975 misc optional ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.buildinfo
+ d958119b84fa30c31706eff3072d34a8 95868 misc optional ros-one-libnabo_1.1.2-4-g0ce6ecb-2025.12.13.02.58_amd64.deb

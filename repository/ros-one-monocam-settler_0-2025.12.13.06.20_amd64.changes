@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-monocam-settler
+Binary: ros-one-monocam-settler ros-one-monocam-settler-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.06.20
+Distribution: bookworm
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-monocam-settler - Listens on a ImageFeatures topic, and waits for the data to settl
+Changes:
+ ros-one-monocam-settler (0-2025.12.13.06.20) bookworm; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 83dd6d17f596e2a88090d21c7e228b02988201ec 1151600 ros-one-monocam-settler-dbgsym_0-2025.12.13.06.20_amd64.deb
+ fe1b84d2424ccffe47053353267bc2a3cdb56552 17158 ros-one-monocam-settler_0-2025.12.13.06.20_amd64.buildinfo
+ b3dcbe3f8e505d58b271dc0c3469edbb417ecca9 124512 ros-one-monocam-settler_0-2025.12.13.06.20_amd64.deb
+Checksums-Sha256:
+ ea5e2b13218db00b2ada95d935e0e47565947fc5c846d916aabae96fb9caf442 1151600 ros-one-monocam-settler-dbgsym_0-2025.12.13.06.20_amd64.deb
+ e7b7d51b1458303214f365b52a4dbd107489eee565f4b588ed34efb1f9142327 17158 ros-one-monocam-settler_0-2025.12.13.06.20_amd64.buildinfo
+ b71918c20a659d38690fe59921cd435673c610c26b54607f2d5c697e77001252 124512 ros-one-monocam-settler_0-2025.12.13.06.20_amd64.deb
+Files:
+ 3b8b4e44d12de7294de887cfcc923e09 1151600 debug optional ros-one-monocam-settler-dbgsym_0-2025.12.13.06.20_amd64.deb
+ 45aff58ad5ae16173cec35a371550963 17158 misc optional ros-one-monocam-settler_0-2025.12.13.06.20_amd64.buildinfo
+ 264f02924d64e852a6f51f796de5a509 124512 misc optional ros-one-monocam-settler_0-2025.12.13.06.20_amd64.deb

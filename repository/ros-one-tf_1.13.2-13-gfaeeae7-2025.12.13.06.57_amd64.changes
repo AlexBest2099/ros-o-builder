@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-tf
+Binary: ros-one-tf ros-one-tf-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-13-gfaeeae7-2025.12.13.06.57
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf - tf is a package that lets the user keep track of multiple coordin
+Changes:
+ ros-one-tf (1.13.2-13-gfaeeae7-2025.12.13.06.57) bookworm; urgency=high
+ .
+   * Updates for Ubuntu 22 (#233 <https://github.com/ros/geometry/issues/233>)
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ eba95aa4721b53c09d9e8fa0bda2fa91188a3315 3297856 ros-one-tf-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb
+ e452d32a54ce6429741396f757faf04faae5a9e6 12810 ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.buildinfo
+ 74fdc6330512e8a805e8ceeb90184f7df38c71b8 237300 ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb
+Checksums-Sha256:
+ 887229c573c0abeaf7300e07e06bf78f6afe518af8a2fc94f823e9abc4e3fbf4 3297856 ros-one-tf-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb
+ 3838187a31384e460df7773be99d3003e1996f99db625445af962aa6034e43ea 12810 ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.buildinfo
+ c0b00050bca0e52afd0fa9af4b988c780613ea61541b167ac48b620d7f7d417d 237300 ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb
+Files:
+ 928cfad059686f281c162aa083d72494 3297856 debug optional ros-one-tf-dbgsym_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb
+ 4f2cc6b05b2f6c4606a4c56f91adf61c 12810 misc optional ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.buildinfo
+ 827e8ea9c9a57398c91e548a543de6e7 237300 misc optional ros-one-tf_1.13.2-13-gfaeeae7-2025.12.13.06.57_amd64.deb

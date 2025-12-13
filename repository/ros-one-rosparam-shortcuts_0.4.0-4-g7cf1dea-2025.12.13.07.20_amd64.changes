@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 02 Jun 2020 00:00:00 -0000
+Source: ros-one-rosparam-shortcuts
+Binary: ros-one-rosparam-shortcuts ros-one-rosparam-shortcuts-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.0-4-g7cf1dea-2025.12.13.07.20
+Distribution: bookworm
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-rosparam-shortcuts - Quickly load variables from rosparam with good command line error
+Changes:
+ ros-one-rosparam-shortcuts (0.4.0-4-g7cf1dea-2025.12.13.07.20) bookworm; urgency=high
+ .
+   * bump cmake version (#13 <https://github.com/PickNikRobotics/rosparam_shortcuts/issues/13>)
+     get rid of CMP0048 warning.
+     https://github.com/ros-planning/geometric_shapes/pull/129
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ 15bb1c987ba2a845f7216ae49189e2ac5e87f944 993132 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb
+ 0ab10bd3cb4b1a505d50cfcfd963058d016434aa 10737 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.buildinfo
+ 6458eee806067ce5fd6c7375cde9bbb9d5998dc7 44240 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb
+Checksums-Sha256:
+ b8637bada4dbad2cba77f28e36ed14b375f1a7adca0c6925c34292df42defb63 993132 ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb
+ 9565130478e54f017bf6baf27832f7018022d384665b3809e8448de2c69e291d 10737 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.buildinfo
+ 2e46082832e24a1290234e4a50e0592eca0abfdc348968f5c79f118ea9e7a41f 44240 ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb
+Files:
+ 77a8626738ad67b588a62472ccfa0844 993132 debug optional ros-one-rosparam-shortcuts-dbgsym_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb
+ fd467888684eb508f60660614dcc6114 10737 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.buildinfo
+ 71e42a64477f0fedf1427df80d3641db 44240 misc optional ros-one-rosparam-shortcuts_0.4.0-4-g7cf1dea-2025.12.13.07.20_amd64.deb

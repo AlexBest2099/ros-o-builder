@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Wed, 26 Jun 2024 00:00:00 -0000
+Source: ros-one-behaviortree-cpp
+Binary: ros-one-behaviortree-cpp ros-one-behaviortree-cpp-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 4.6.2-39-g3a00bc3-2025.12.13.04.11
+Distribution: bookworm
+Urgency: high
+Maintainer: Davide Faconti <davide.faconti@gmail.com>
+Changed-By: Davide Faconti <davide.faconti@gmail.com>
+Description:
+ ros-one-behaviortree-cpp - This package provides the Behavior Trees core library.
+Changes:
+ ros-one-behaviortree-cpp (4.6.2-39-g3a00bc3-2025.12.13.04.11) bookworm; urgency=high
+ .
+   * Initialize template variable T out (#839 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/839>)
+   * Building with a recent compiler fails due incompatible expected library (#833 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/833>)
+     * nonstd::expected updated to 0.8
+   * fix issue #829 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/829>: support again custom JSON converters
+   * fix issue #834 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/834>: enable minitrace
+   * allow multiple instances of the loggers
+   * fix issue #827 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/827> : verify <BehaviorTree> name
+   * add TickMonitorCallback
+   * Fix typo in FallbackNode constructor parameter name (#830 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/830>)
+   * fix segfault and throw instead when manifest is nullptr
+   * Add in call to ament_export_targets. (#826 <https://github.com/BehaviorTree/BehaviorTree.CPP/issues/826>)
+   * Contributors: Davide Faconti, S. Messerschmidt, Sharmin Ramli, avikus-seonghyeon.kwon
+Checksums-Sha1:
+ 7f923aa91f8cc1e5d648eed421bc22e7fcab968c 15624356 ros-one-behaviortree-cpp-dbgsym_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb
+ f52bde8e516c91c1b7e6e0149cbb6cf2bbe2de1f 9916 ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.buildinfo
+ 1cd1dbb557474c40f90ea97c5aa49e43ed16f2aa 798576 ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb
+Checksums-Sha256:
+ af0cdf52bbba3e72966a2a3c826bb31bd37f0eb96e8adfa40670dbc48b388199 15624356 ros-one-behaviortree-cpp-dbgsym_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb
+ 2d236b15cdfc9c6839459d0147c49ae803d9e0330429295b46e431bf91271cd3 9916 ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.buildinfo
+ 1bcc265f003c090600c2cc3ee46017947f79cfbd5110c534788492c1ad723c8d 798576 ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb
+Files:
+ 3829b94b42cc00abe22508667dd377a2 15624356 debug optional ros-one-behaviortree-cpp-dbgsym_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb
+ d2cb6c49bf0870f391ac4bab28d1bb55 9916 misc optional ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.buildinfo
+ 1f2fdc95a6179e01346190f51a76b753 798576 misc optional ros-one-behaviortree-cpp_4.6.2-39-g3a00bc3-2025.12.13.04.11_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-qt-gui-py-common
+Binary: ros-one-qt-gui-py-common
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.2-15-g9726da6-2025.12.13.04.33
+Distribution: bookworm
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-py-common - qt_gui_py_common provides common functionality for GUI plugins wr
+Changes:
+ ros-one-qt-gui-py-common (0.4.2-15-g9726da6-2025.12.13.04.33) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#303 <https://github.com/ros-visualization/qt_gui_core/issues/303>)
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ 4a38d835a13f68cf1e4b20fe895fd8a8ceddff4b 7385 ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.buildinfo
+ 6758f18bdca3ef124e8607e766440aaf2bf7cc59 18568 ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.deb
+Checksums-Sha256:
+ 992fcd95c671b0a4a93bbe41ca2a6f488410db8c3dcafea5a8742f8dbdc1ebe2 7385 ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.buildinfo
+ c39411d2402de72a6dbeeda518a1c82ee2163de2a308dccd242792e2a1effd96 18568 ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.deb
+Files:
+ 81aab77c09be36491733ce4b749b0910 7385 misc optional ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.buildinfo
+ 6917edac17c723d28567791ea27fc3f2 18568 misc optional ros-one-qt-gui-py-common_0.4.2-15-g9726da6-2025.12.13.04.33_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-rqt-py-console
+Binary: ros-one-rqt-py-console
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.10-1-gf9bf603-2025.12.13.07.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rqt-py-console - rqt_py_console is a Python GUI plugin providing an interactive Py
+Changes:
+ ros-one-rqt-py-console (0.4.10-1-gf9bf603-2025.12.13.07.36) bookworm; urgency=high
+ .
+   * Merge pull request #10 <https://github.com/ros-visualization/rqt_py_console/issues/10> from ros-visualization/sloretz-update-maintainer
+     Update maintainer in package.xml
+   * Update maintainer in package.xml
+   * fix shebang line for python3 (#9 <https://github.com/ros-visualization/rqt_py_console/issues/9>)
+   * Contributors: Michael Carroll, Mikael Arguedas, Shane Loretz
+Checksums-Sha1:
+ 31b4150f007c621455ee858e8208fdefb67c2dd3 7375 ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.buildinfo
+ 0bfc38e55f4cd28d05958d480279dadb2df165cd 14788 ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.deb
+Checksums-Sha256:
+ ef09713dd16aad1576d1d0e39b0b7f919acd10cce768fd2c751b110080f1ddc1 7375 ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.buildinfo
+ 7c1d62fb24b44344e4a4c960c39d2efd4c0d12d29287d5007f359cc45ee26d5b 14788 ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.deb
+Files:
+ e93e939433168434173a231493ea9432 7375 misc optional ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.buildinfo
+ 570b6077919c99f9c782f763a1943713 14788 misc optional ros-one-rqt-py-console_0.4.10-1-gf9bf603-2025.12.13.07.36_amd64.deb

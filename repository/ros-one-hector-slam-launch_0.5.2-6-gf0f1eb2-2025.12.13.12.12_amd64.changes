@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-slam-launch
+Binary: ros-one-hector-slam-launch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.12.12
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-slam-launch - hector_slam_launch contains launch files for launching hector_sla
+Changes:
+ ros-one-hector-slam-launch (0.5.2-6-gf0f1eb2-2025.12.13.12.12) bookworm; urgency=high
+Checksums-Sha1:
+ f81eb4a1b9526b3fb5c2ee90300f4d0a3864b5b0 7388 ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.buildinfo
+ d81882d8323f174614b2e36f04cf4e2e0e04eecb 9448 ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.deb
+Checksums-Sha256:
+ 760fc58a77ef36cee6a7ebc792b9f31dcb10681ae96e89fd3846c4c3a9f7e4f4 7388 ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.buildinfo
+ 5ce19760883d18d97c81153202c60218c2036dddcf2f5a44f5efc1397e887b0e 9448 ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.deb
+Files:
+ ecdf122a916032cd1f1f7ccb10f56eb7 7388 misc optional ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.buildinfo
+ d1326c6cdf99fa6090097e56f2b770c0 9448 misc optional ros-one-hector-slam-launch_0.5.2-6-gf0f1eb2-2025.12.13.12.12_amd64.deb

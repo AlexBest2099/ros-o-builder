@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-genpy
+Binary: ros-one-genpy
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.6.18-2-g028344d-2025.12.13.03.21
+Distribution: bookworm
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-genpy - Python ROS message and service generators.
+Changes:
+ ros-one-genpy (0.6.18-2-g028344d-2025.12.13.03.21) bookworm; urgency=high
+ .
+   * Use yaml.safe_load in test (#150 <https://github.com/ros/genpy/issues/150>)
+   * Replaced deprecated unit test aliases #145 <https://github.com/ros/genpy/issues/145> (#156 <https://github.com/ros/genpy/issues/156>)
+   * Contributors: Atsushi Watanabe, Tanveer Brar
+Checksums-Sha1:
+ 54c32ad5d9af6278c3a9d7055a82c6288507161d 7386 ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.buildinfo
+ 39128ffbba991bfc1ee150b4d85ad572d9d76e88 70000 ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.deb
+Checksums-Sha256:
+ 8a7e8b3e9fa074ad6d0cf53279ac2237981f8606f6cc43598c86d7fc68eda5c2 7386 ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.buildinfo
+ e3edb5fde2c75ba07c222aa9b1ccf0aae7116a0014ad9fca03fa2c557f356485 70000 ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.deb
+Files:
+ 03598473685d5a31e1d95b76bf49e6b2 7386 misc optional ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.buildinfo
+ 7d9bd06e600bef45a1682ad864e0cc3f 70000 misc optional ros-one-genpy_0.6.18-2-g028344d-2025.12.13.03.21_amd64.deb

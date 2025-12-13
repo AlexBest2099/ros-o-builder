@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv-inherited
+Binary: ros-one-test-catkin-virtualenv-inherited ros-one-test-catkin-virtualenv-inherited-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.13.0-6-gd9c0ecd-2025.12.13.05.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv-inherited - Test to make sure a package inherits it's dependency's dependenci
+Changes:
+ ros-one-test-catkin-virtualenv-inherited (0.13.0-6-gd9c0ecd-2025.12.13.05.46) bookworm; urgency=high
+Checksums-Sha1:
+ 2fa705e95bef2367ac4d99f03cadd6386f40abc3 349112 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb
+ 328c8058076790e19ae7babff9576337d58b030f 9941 ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.buildinfo
+ 32120ff1e3c3e81fe61d81306f9537d4b0556def 2372660 ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb
+Checksums-Sha256:
+ 67d4ad7ae3070ff02480b19e66afeda0d5291385a06840528c79afd5e2e20657 349112 ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb
+ 7166ea4781282be7b8459bf8933a09b2c3e7fdcb95433605debe47d65ccce2d1 9941 ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.buildinfo
+ 79543ed6a07c62c82788c554338b508c2285e4928db392312570ab2a9d269801 2372660 ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb
+Files:
+ 5055bc343f617c92f521cd02fb512ee7 349112 debug optional ros-one-test-catkin-virtualenv-inherited-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb
+ ded7b9d63b88d267941e151c117f7e61 9941 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.buildinfo
+ 6fe55a9120936993c5b92b6a57d3a3dc 2372660 misc optional ros-one-test-catkin-virtualenv-inherited_0.13.0-6-gd9c0ecd-2025.12.13.05.46_amd64.deb

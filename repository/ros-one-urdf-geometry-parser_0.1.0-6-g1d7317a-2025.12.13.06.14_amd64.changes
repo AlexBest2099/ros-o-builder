@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 05 Apr 2020 00:00:00 -0000
+Source: ros-one-urdf-geometry-parser
+Binary: ros-one-urdf-geometry-parser ros-one-urdf-geometry-parser-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.0-6-g1d7317a-2025.12.13.06.14
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Changed-By: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Description:
+ ros-one-urdf-geometry-parser - Extract geometry value of a vehicle from urdf.
+Changes:
+ ros-one-urdf-geometry-parser (0.1.0-6-g1d7317a-2025.12.13.06.14) bookworm; urgency=high
+ .
+   * Remove tf2 dependency
+   * Add license
+   * Bump CMake version to avoid CMP0048 warning
+   * Cleanup CMakeLists.txt and package.xml
+   * Contributors: Bence Magyar, Matt Reynolds, Vincent Rousseau
+Checksums-Sha1:
+ ffa4c16c07b5a30c4badb8d6f61c1f5376a8d1a8 300732 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb
+ 247a9646ac03aaaa751c5832d0725316d51ad32b 13230 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.buildinfo
+ e8bba38c5f0c7d648d012cd700b9c456038c4884 23148 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb
+Checksums-Sha256:
+ 20fcaf3c9d04b39b54abd0010416ddea7ce7962708d637eb31e5de77b1a06f04 300732 ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb
+ 61cce5d981254f6c06330503235c347d9773e466987ece4746741b818eb18189 13230 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.buildinfo
+ bbcac2b2b1aa88b30e7052c2c2b168eec04a88d4fa705af5322523f1562831fc 23148 ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb
+Files:
+ 4e0211c884533931ea222c215e08446f 300732 debug optional ros-one-urdf-geometry-parser-dbgsym_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb
+ cbc0f97039c044c044865cefdc0e850a 13230 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.buildinfo
+ 24a9ecf441a421422e526c3ab54a236a 23148 misc optional ros-one-urdf-geometry-parser_0.1.0-6-g1d7317a-2025.12.13.06.14_amd64.deb

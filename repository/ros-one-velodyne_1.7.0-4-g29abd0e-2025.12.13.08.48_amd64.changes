@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 08 Jul 2022 00:00:00 -0000
+Source: ros-one-velodyne
+Binary: ros-one-velodyne
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.0-4-g29abd0e-2025.12.13.08.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Josh Whitley <josh.whitley@autoware.org>
+Changed-By: Josh Whitley <josh.whitley@autoware.org>
+Description:
+ ros-one-velodyne - Basic ROS support for the Velodyne 3D LIDARs.
+Changes:
+ ros-one-velodyne (1.7.0-4-g29abd0e-2025.12.13.08.48) bookworm; urgency=high
+Checksums-Sha1:
+ 695c950abcb999dd8e24cd309199b7c8de68c5a1 7338 ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.buildinfo
+ ea80376fb3ce009bd4f9b729ec1c230370869348 3200 ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.deb
+Checksums-Sha256:
+ 84af5173baad80161422f08942ee7c92d61c1768dfbf8e9e9d15fe2b0d25ec80 7338 ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.buildinfo
+ 4e28e5599042d68416c9fa956e469be11e4673308b862885bb91674e3e8cffc7 3200 ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.deb
+Files:
+ a87174b50e6762a7084ff10e71774a92 7338 misc optional ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.buildinfo
+ 34fde1c462727936d8a1de2c10299e46 3200 misc optional ros-one-velodyne_1.7.0-4-g29abd0e-2025.12.13.08.48_amd64.deb

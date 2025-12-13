@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 24 Oct 2014 00:00:00 -0000
+Source: ros-one-graph-msgs
+Binary: ros-one-graph-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.0-3-g530fe7c-2025.12.13.05.37
+Distribution: bookworm
+Urgency: high
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Changed-By: Dave Coleman <davetcoleman@gmail.com>
+Description:
+ ros-one-graph-msgs - ROS messages for publishing graphs of different data types
+Changes:
+ ros-one-graph-msgs (0.1.0-3-g530fe7c-2025.12.13.05.37) bookworm; urgency=high
+ .
+   * Added header / timestamp
+   * Contributors: Dave Coleman
+Checksums-Sha1:
+ f367f0fcd2cce8a88130ea682e0ec4cbee09dbfa 8955 ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.buildinfo
+ b9b11990865d06173be0671427e5ea0bbf3eab2c 20800 ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.deb
+Checksums-Sha256:
+ 08e5cb5c9d7de49d2cfbcff4cb397c73a1aeae6a45271fa6ebd0f1c4626a113b 8955 ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.buildinfo
+ 9c91bacc038aee64bf23b6bb6c230194d522d3851f04e11dff8c8e020989d7ce 20800 ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.deb
+Files:
+ a59e9b6da9ea541439196288017c9f4f 8955 misc optional ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.buildinfo
+ 2fb3442448fd9c7fa5c3da8e0a48cb8b 20800 misc optional ros-one-graph-msgs_0.1.0-3-g530fe7c-2025.12.13.05.37_amd64.deb

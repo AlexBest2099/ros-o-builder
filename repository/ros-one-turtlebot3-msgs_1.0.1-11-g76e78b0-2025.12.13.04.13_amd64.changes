@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 18 Jun 2020 00:00:00 -0000
+Source: ros-one-turtlebot3-msgs
+Binary: ros-one-turtlebot3-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.0.1-11-g76e78b0-2025.12.13.04.13
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-turtlebot3-msgs - Message and service types: custom messages and services for Turtl
+Changes:
+ ros-one-turtlebot3-msgs (1.0.1-11-g76e78b0-2025.12.13.04.13) bookworm; urgency=high
+ .
+   * ROS 1 Noetic Ninjemys support
+Checksums-Sha1:
+ 03a58276ba5f738b5ab940a7bfc1c7e4ed54f78d 8921 ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.buildinfo
+ 167a5c390de1b90de54bd083eea122d0156dd74b 25384 ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.deb
+Checksums-Sha256:
+ d8aa77241961a6790fdbb240da01406bd68ab6969a186292fe191e3b5ef76f0b 8921 ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.buildinfo
+ fe3d8565a24c6f65e74cf9147b6ae6a2484f5d256563e7fb2248e1fb8a7796e1 25384 ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.deb
+Files:
+ 67553873bb6a7ffd61d60dc216891a82 8921 misc optional ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.buildinfo
+ 9a9c0c93bc2f2efc14415da8ea9a2164 25384 misc optional ros-one-turtlebot3-msgs_1.0.1-11-g76e78b0-2025.12.13.04.13_amd64.deb

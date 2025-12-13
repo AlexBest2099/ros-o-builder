@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 30 Apr 2017 00:00:00 -0000
+Source: ros-one-stage-ros
+Binary: ros-one-stage-ros ros-one-stage-ros-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.8.0-1-g3f0165d-2025.12.13.07.59
+Distribution: bookworm
+Urgency: high
+Maintainer: William Woodall <william@osrfoundation.org>
+Changed-By: William Woodall <william@osrfoundation.org>
+Description:
+ ros-one-stage-ros - This package provides ROS specific hooks for stage
+Changes:
+ ros-one-stage-ros (1.8.0-1-g3f0165d-2025.12.13.07.59) bookworm; urgency=high
+ .
+   * Now uses Stage's native event loop properly and added reassuring startup output.
+   * Added a GUI section so that the world starts in a good place.
+   * Fixed issue such that ranger intensity values are no longer clipped to 256
+     See: #31 <https://github.com/ros-simulation/stage_ros/issues/31>
+   * Contributors: Richard Vaughan, Shane Loretz, William Woodall, gerkey
+Checksums-Sha1:
+ d364bb82e02b5edee3809506f837e4d31c750efb 768832 ros-one-stage-ros-dbgsym_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb
+ d65a50de2aa14b388e14db6063fbd96498214082 26871 ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.buildinfo
+ deb2f49e0754ad6894b8713125526778630a14dc 99256 ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb
+Checksums-Sha256:
+ ee9a1c6e7ea9f8c9865f2b95cd7073b5552b7139b6e7ba1675fa9b36e7bdce17 768832 ros-one-stage-ros-dbgsym_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb
+ 292444e85343c6b27dc7ca46e4648f51e6c118f086f7953dc79feafd0914692e 26871 ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.buildinfo
+ 8f32cd0fe80ac11847d51aa6fe1a0c7edcbcfb903eeaa95d5f59030e6a933d2c 99256 ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb
+Files:
+ dd2da21f15fd4062b7f61f39a98f278e 768832 debug optional ros-one-stage-ros-dbgsym_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb
+ 1e436c35501dbd15e1608cd2cf8b5fa9 26871 misc optional ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.buildinfo
+ 7b3f3324a9bfbe80c841ac8b6b6ce2cb 99256 misc optional ros-one-stage-ros_1.8.0-1-g3f0165d-2025.12.13.07.59_amd64.deb

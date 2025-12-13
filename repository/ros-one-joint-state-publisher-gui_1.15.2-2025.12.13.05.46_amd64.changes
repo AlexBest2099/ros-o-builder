@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-joint-state-publisher-gui
+Binary: ros-one-joint-state-publisher-gui
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.2-2025.12.13.05.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-joint-state-publisher-gui - This package contains a GUI tool for setting and publishing joint
+Changes:
+ ros-one-joint-state-publisher-gui (1.15.2-2025.12.13.05.46) bookworm; urgency=high
+ .
+   * Show 3 decimal places of joint angle (#91 <https://github.com/ros/joint_state_publisher/issues/91>)
+   * Enforce int type for slider values (#77 <https://github.com/ros/joint_state_publisher/issues/77>)
+   * Contributors: Michael Görner, VideoSystemsTech
+Checksums-Sha1:
+ 5d278a0292cbb578c85f995fa323964d2a55655d 7386 ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.buildinfo
+ 48e45eb227beea570a9da3d5ac6e7bd392ff1832 15292 ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.deb
+Checksums-Sha256:
+ b97c36a42d9d9888da2661df280ca185f9bc2bb1749a4521d74421f6836c635f 7386 ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.buildinfo
+ ff186018435b25da449b7f6801aaecd3c44260c58d044d91a176c7f267a2d7b6 15292 ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.deb
+Files:
+ 75d4f0cbdbb4e515b75ec28d7b1f1813 7386 misc optional ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.buildinfo
+ 9c2935da5ecfb31c7859b60ebe414d41 15292 misc optional ros-one-joint-state-publisher-gui_1.15.2-2025.12.13.05.46_amd64.deb

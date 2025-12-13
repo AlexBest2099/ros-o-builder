@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 24 Feb 2022 00:00:00 -0000
+Source: ros-one-turtlebot3-bringup
+Binary: ros-one-turtlebot3-bringup ros-one-turtlebot3-bringup-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.5-39-g4ae959e-2025.12.13.12.05
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-turtlebot3-bringup - roslaunch scripts for starting the TurtleBot3
+Changes:
+ ros-one-turtlebot3-bringup (1.2.5-39-g4ae959e-2025.12.13.12.05) bookworm; urgency=high
+ .
+   * add LDS-02 support
+   * Use OpenCV for Picam(Noetic only)
+Checksums-Sha1:
+ 8a7b1642bc3b2da5adb2f7d085784eabcbf4fd0c 588320 ros-one-turtlebot3-bringup-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb
+ 1020534542d2314abe3f4a8941f2d7e31e45f530 10651 ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.buildinfo
+ 391f1ae07f5d0632e9154581c0b5a3caa971c102 47596 ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb
+Checksums-Sha256:
+ 598fc578db2547a2a8a204b68c9d65d054df8965a676189f3e8e98f61afc15f2 588320 ros-one-turtlebot3-bringup-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb
+ 4c85b940f2a8ff62be3fcda15d411b9c449b16de1c9793bfcc7bb4febed45d73 10651 ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.buildinfo
+ 4ab633a66d9f0ee9122ced01353a6bf6882097bedeb74d197533fdfe7f4fe8a6 47596 ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb
+Files:
+ 1cb0e6f37c57ace4b7c793a18d92c453 588320 debug optional ros-one-turtlebot3-bringup-dbgsym_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb
+ 65afa84f839b9c20cd6ee91b20a9bd8b 10651 misc optional ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.buildinfo
+ 53052c68cf09d32ab7c2c85554e288a5 47596 misc optional ros-one-turtlebot3-bringup_1.2.5-39-g4ae959e-2025.12.13.12.05_amd64.deb

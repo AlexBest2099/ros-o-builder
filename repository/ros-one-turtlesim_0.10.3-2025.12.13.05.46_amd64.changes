@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-turtlesim
+Binary: ros-one-turtlesim ros-one-turtlesim-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.10.3-2025.12.13.05.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-turtlesim - turtlesim is a tool made for teaching ROS and ROS packages.
+Changes:
+ ros-one-turtlesim (0.10.3-2025.12.13.05.46) bookworm; urgency=high
+ .
+   * use boost::placeholders::_1 instead of deprecated _1, and boost/bind/bind.hpp instead of bind.hpp (#142 <https://github.com/ros/ros_tutorials/issues/142>)
+   * Update maintainers (#102 <https://github.com/ros/ros_tutorials/issues/102>)
+   * Contributors: Lucas Walter, Shane Loretz
+Checksums-Sha1:
+ ef80b17e488de072b48efc08e5199895d3e86e35 2633568 ros-one-turtlesim-dbgsym_0.10.3-2025.12.13.05.46_amd64.deb
+ 185ee015f88981c7c6384a57c01174299506ccfa 15027 ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.buildinfo
+ 6772a2cf6e6ff9949090a976e0ece572f70a773e 234732 ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.deb
+Checksums-Sha256:
+ b723dc891a8b062a21f9ad4db7e569131d49b338933bacc17131b39ae75da9a5 2633568 ros-one-turtlesim-dbgsym_0.10.3-2025.12.13.05.46_amd64.deb
+ 3ca0c23ffa953db69402f9b8c17d5c710386ef1efdd0f9544e4c3dbaa3023153 15027 ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.buildinfo
+ 6a2c1cb0b0b85f186893f5cc6152c62328f0497d8d25c9d00a6651a4605d63e6 234732 ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.deb
+Files:
+ 03f1000b5b599057b663aef791aa62df 2633568 debug optional ros-one-turtlesim-dbgsym_0.10.3-2025.12.13.05.46_amd64.deb
+ 0c6ee0b854c43864a41e6f8f9a24b542 15027 misc optional ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.buildinfo
+ 3ccdb3939b987c0c662b6f2c1557da35 234732 misc optional ros-one-turtlesim_0.10.3-2025.12.13.05.46_amd64.deb

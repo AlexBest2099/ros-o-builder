@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device
+Binary: ros-one-qb-device
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.10.45
+Distribution: bookworm
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device - This package contains a device-independent ROS interface for qbro
+Changes:
+ ros-one-qb-device (0-2025.12.13.10.45) bookworm; urgency=high
+Checksums-Sha1:
+ 77f00be25b33382a7adbedd5c6ca31fd4257508b 7283 ros-one-qb-device_0-2025.12.13.10.45_amd64.buildinfo
+ 9b03842c4c8baf4419f4571ffb9006b3b7fd5172 2768 ros-one-qb-device_0-2025.12.13.10.45_amd64.deb
+Checksums-Sha256:
+ 335061b5e2f18782bb964ca8d8758c8768006fc204d833b38d1fedd760e04eaf 7283 ros-one-qb-device_0-2025.12.13.10.45_amd64.buildinfo
+ 4d5080621b8b07381291a52678b3842244c2f107c0e8485bd93aa966493672ac 2768 ros-one-qb-device_0-2025.12.13.10.45_amd64.deb
+Files:
+ 656baa7b1c97fc32861e0ed3abd85c7c 7283 misc optional ros-one-qb-device_0-2025.12.13.10.45_amd64.buildinfo
+ 70b24881fa0d273e4efa7c038308a75f 2768 misc optional ros-one-qb-device_0-2025.12.13.10.45_amd64.deb

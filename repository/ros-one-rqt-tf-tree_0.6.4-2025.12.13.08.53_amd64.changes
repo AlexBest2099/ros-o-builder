@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 02 Oct 2023 00:00:00 -0000
+Source: ros-one-rqt-tf-tree
+Binary: ros-one-rqt-tf-tree
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.6.4-2025.12.13.08.53
+Distribution: bookworm
+Urgency: high
+Maintainer: Isaac I.Y. Saito <gm130s@gmail.com>
+Changed-By: Isaac I.Y. Saito <gm130s@gmail.com>
+Description:
+ ros-one-rqt-tf-tree - rqt_tf_tree provides a GUI plugin for visualizing the ROS TF fram
+Changes:
+ ros-one-rqt-tf-tree (0.6.4-2025.12.13.08.53) bookworm; urgency=high
+ .
+   * Fix dot save according to the PyQt5 (#28 <https://github.com/ros-visualization/rqt_tf_tree/issues/28>)
+   * Import setup from setuptools instead of distutils.core (#45 <https://github.com/ros-visualization/rqt_tf_tree/issues/45>)
+   * Add xml-model
+   * Add LICENSE file
+Checksums-Sha1:
+ f5014de2e4b8ab4e6fa9906257cfaf4ddc02b0fe 7312 ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.buildinfo
+ 039c8bc5630b540fb8d99c3a7f67dbc05ebb6f7c 19284 ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.deb
+Checksums-Sha256:
+ 5c0c6aa7465ff9ecb2cba4b66fdacd7b79222aa8673a92493ca7a31b0cc03518 7312 ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.buildinfo
+ a6fd397425874b1a2baec9c503f3ad2409dbca8c2045c83425b37e328671a803 19284 ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.deb
+Files:
+ c9fd31fd456bf054591664a777702b6f 7312 misc optional ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.buildinfo
+ 9175fbfa3e312b0afc54b1db8d80072d 19284 misc optional ros-one-rqt-tf-tree_0.6.4-2025.12.13.08.53_amd64.deb

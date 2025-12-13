@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 08 Jul 2022 00:00:00 -0000
+Source: ros-one-velodyne-laserscan
+Binary: ros-one-velodyne-laserscan ros-one-velodyne-laserscan-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.7.0-4-g29abd0e-2025.12.13.08.52
+Distribution: bookworm
+Urgency: high
+Maintainer: Josh Whitley <josh.whitley@autoware.org>
+Changed-By: Josh Whitley <josh.whitley@autoware.org>
+Description:
+ ros-one-velodyne-laserscan - Extract a single ring of a Velodyne PointCloud2 and publish it as
+Changes:
+ ros-one-velodyne-laserscan (1.7.0-4-g29abd0e-2025.12.13.08.52) bookworm; urgency=high
+Checksums-Sha1:
+ a591e0c03c88aff16330e4cc65127a5255fdaeb2 1367456 ros-one-velodyne-laserscan-dbgsym_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb
+ 44d350529070d1b16036031f102e469ad8620419 14844 ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.buildinfo
+ b954801444adf43b85159d22ac6f31fea8b297d7 83088 ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb
+Checksums-Sha256:
+ 0cbb60de24891d95631723c7a1110895bec9742f273516089832c89b1ce8796e 1367456 ros-one-velodyne-laserscan-dbgsym_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb
+ f246b869bd88b47c96d02e746914aa9c8bcc4eaa556b707e0b63a85cc343aab6 14844 ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.buildinfo
+ 039ccc2202fa27ed0ca9d0ee1b9aaa3eb8b3737bb02656d9c33c90ca15f2ae2c 83088 ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb
+Files:
+ ef1ae1ce813e48f63ad885216a72d90e 1367456 debug optional ros-one-velodyne-laserscan-dbgsym_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb
+ 9374f3da6652e900c5a193dd7d27231e 14844 misc optional ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.buildinfo
+ e61917cc8e54a9397e3cc50ef381e4fd 83088 misc optional ros-one-velodyne-laserscan_1.7.0-4-g29abd0e-2025.12.13.08.52_amd64.deb

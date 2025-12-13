@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-map-server
+Binary: ros-one-hector-map-server ros-one-hector-map-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.12.02
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-map-server - hector_map_server provides a service for retrieving the map, as w
+Changes:
+ ros-one-hector-map-server (0.5.2-6-gf0f1eb2-2025.12.13.12.02) bookworm; urgency=high
+Checksums-Sha1:
+ fb94fa4dfe66a2b839ce68b2e665f192c2d0d9d6 3406220 ros-one-hector-map-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb
+ e84255eaf0f38beb30c7be6e5c5257b8de8b6094 18045 ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.buildinfo
+ dfdb41a4d999474351a4e0e4182dd7f27772d4f5 86832 ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb
+Checksums-Sha256:
+ 23b507ee5c96e4183edce1ea0ed78049631317ff09f9c43d2884bf6b9bad5610 3406220 ros-one-hector-map-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb
+ a19e3322b764bf255290eaea2f390864a4d49ad9a9ec3952744e25e168976acb 18045 ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.buildinfo
+ 04d5d930a7be94367fb1366d0b4edc8e95a7cb58ba50f8c5ace2630b67a9d7fc 86832 ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb
+Files:
+ dfe445a82f4ee283d926e2c3738b5976 3406220 debug optional ros-one-hector-map-server-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb
+ 59bf2d3a486a5649cfc93fa2a7ddd2c4 18045 misc optional ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.buildinfo
+ 92e36b5a2a455f417cec8988a3d7634c 86832 misc optional ros-one-hector-map-server_0.5.2-6-gf0f1eb2-2025.12.13.12.02_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 25 Jun 2018 00:00:00 -0000
+Source: ros-one-twist-mux-msgs
+Binary: ros-one-twist-mux-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.1.0-2025.12.13.06.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Enrique Fernandez <efernandez@clearpathrobotics.com>
+Changed-By: Enrique Fernandez <efernandez@clearpathrobotics.com>
+Description:
+ ros-one-twist-mux-msgs - The twist_mux msgs and actions package
+Changes:
+ ros-one-twist-mux-msgs (2.1.0-2025.12.13.06.44) bookworm; urgency=high
+Checksums-Sha1:
+ 1ed971d8bb6a95498a366d56ae48fcc604762043 11967 ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.buildinfo
+ 1feed14898835b573485832860c51190a2c74ce6 37348 ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.deb
+Checksums-Sha256:
+ c1d047c372a5ae0138d9a8ce15d5452b0e4e65d859c10b6cf7b9e0967188f796 11967 ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.buildinfo
+ 770cb88a0a3a990f7292b026dc79c280e8d312dc8927e3c636569298ef38d25c 37348 ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.deb
+Files:
+ 4adbd0a3bf35fbecdaca793df6e94cf5 11967 misc optional ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.buildinfo
+ 27aa781dabac209ef3e595399e91d5ba 37348 misc optional ros-one-twist-mux-msgs_2.1.0-2025.12.13.06.44_amd64.deb

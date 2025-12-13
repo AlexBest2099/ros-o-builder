@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-geotiff
+Binary: ros-one-hector-geotiff ros-one-hector-geotiff-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.53
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-geotiff - hector_geotiff provides a node that can be used to save occupancy
+Changes:
+ ros-one-hector-geotiff (0.5.2-6-gf0f1eb2-2025.12.13.11.53) bookworm; urgency=high
+ .
+   * Refactored hector_geotiff dependencies.
+   * Contributors: Stefan Fabian
+Checksums-Sha1:
+ ad26487552c806a5d2e18248daacc895e5e49787 2718468 ros-one-hector-geotiff-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb
+ b5364791afe59ca6de2698959caf40cc4ac5bc33 16792 ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.buildinfo
+ e839a90031c1223250a8bcc43ef76d626a485910 186124 ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb
+Checksums-Sha256:
+ 0bf18e70b6ecf6a37f461372878eb95c5504c428a9300489624ce0fc6477597e 2718468 ros-one-hector-geotiff-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb
+ 3498920b5a02c245e9dbd857752ae4b9847a41e018f3e46c313f44e1d2534cc9 16792 ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.buildinfo
+ 9afeadbe32066d43703e59a3aae4a3924ae0ce8f300e219d2c366cbb77150db7 186124 ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb
+Files:
+ 092cf121c914fac24ece4ca05d7da080 2718468 debug optional ros-one-hector-geotiff-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb
+ ce10cadc35f2f298acc5969d361d7fe9 16792 misc optional ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.buildinfo
+ 17aeac73a933f69fe5c3ffc6cf6ca1c7 186124 misc optional ros-one-hector-geotiff_0.5.2-6-gf0f1eb2-2025.12.13.11.53_amd64.deb

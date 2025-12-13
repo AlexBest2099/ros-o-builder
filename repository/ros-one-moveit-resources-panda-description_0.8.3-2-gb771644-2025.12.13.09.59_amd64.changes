@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-panda-description
+Binary: ros-one-moveit-resources-panda-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2025.12.13.09.59
+Distribution: bookworm
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-one-moveit-resources-panda-description - panda Resources used for MoveIt! testing
+Changes:
+ ros-one-moveit-resources-panda-description (0.8.3-2-gb771644-2025.12.13.09.59) bookworm; urgency=high
+ .
+   * Add dual_panda_moveit_config (#133 <https://github.com/ros-planning/moveit_resources/issues/133>)
+   * Contributors: Cristian Beltran
+Checksums-Sha1:
+ 972fbb91c73cdeebb0d5bcd59e3f433031bde44e 11777 ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.buildinfo
+ f39cb774df55fa59f3ca51c7bfc96541a7f2cb36 3006532 ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.deb
+Checksums-Sha256:
+ c3919de1695556c5eada98c69b0363519bc512cdb627ad070983a93cb1807f06 11777 ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.buildinfo
+ e7b6403c1a65a7098022eaa21e664f849569066a1670577facced1d4ccfa010a 3006532 ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.deb
+Files:
+ b325408a994bde88d1776aa706cbfa43 11777 misc optional ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.buildinfo
+ 2aa6c910b7cbb9a2afbe87e1f36a81dc 3006532 misc optional ros-one-moveit-resources-panda-description_0.8.3-2-gb771644-2025.12.13.09.59_amd64.deb

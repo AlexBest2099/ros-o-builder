@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Sep 2021 00:00:00 -0000
+Source: ros-one-robot-state-publisher
+Binary: ros-one-robot-state-publisher ros-one-robot-state-publisher-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.2-4-ga235bfb-2025.12.13.07.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-robot-state-publisher - This package allows you to publish the state of a robot to tf2.
+Changes:
+ ros-one-robot-state-publisher (1.15.2-4-ga235bfb-2025.12.13.07.07) bookworm; urgency=high
+ .
+   * Reimplement tf_prefix in Noetic exactly as it was in Melodic (#169 <https://github.com/ros/robot_state_publisher/issues/169>)
+   * Include joint_states_index.bag in repo (#176 <https://github.com/ros/robot_state_publisher/issues/176>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 0c3ef84d9f9e96d982fe8621c704ab4f3ed63024 1295660 ros-one-robot-state-publisher-dbgsym_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb
+ 86b61286d231970a106e158829b0bc66de3e5420 18355 ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.buildinfo
+ abbdf1438c6fa33a55c2902b93f9a14f14c2d8b8 60004 ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb
+Checksums-Sha256:
+ 19e01ba568a47e938b482a21f88e79a35e5f5f193b66ccc373b8f76a2ea3d041 1295660 ros-one-robot-state-publisher-dbgsym_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb
+ 1067f88db1e99e78630bef410517295daafc5a745e1a396dd5c25ef0125f5c55 18355 ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.buildinfo
+ 8d91188da79846dc071359b9314144bb8671ad2aab43c082fe9df3c5f1610561 60004 ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb
+Files:
+ 1908cd348bc3245fbcda3ef20aa0710b 1295660 debug optional ros-one-robot-state-publisher-dbgsym_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb
+ 9f8dbba3c948e4c5c1f9c2f64efea1ed 18355 misc optional ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.buildinfo
+ 74eeb5e0e231773970c5298b1e8ccbf6 60004 misc optional ros-one-robot-state-publisher_1.15.2-4-ga235bfb-2025.12.13.07.07_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Oct 2024 00:00:00 -0000
+Source: ros-one-moveit-fake-controller-manager
+Binary: ros-one-moveit-fake-controller-manager ros-one-moveit-fake-controller-manager-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.1.16-49-g4838449d7-2025.12.13.11.07
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Görner <me@v4hn.de>
+Changed-By: Michael Görner <me@v4hn.de>
+Description:
+ ros-one-moveit-fake-controller-manager - A fake controller manager plugin for MoveIt.
+Changes:
+ ros-one-moveit-fake-controller-manager (1.1.16-49-g4838449d7-2025.12.13.11.07) bookworm; urgency=high
+Checksums-Sha1:
+ b775ff4c0ac27a21ee09f69eb4c881989d09ff40 2117040 ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb
+ 8b9184a9a947d78255299fcbaa6c9eab4e07ce1a 22739 ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.buildinfo
+ d6422e2a710d7767820d2e76f582b278a59b40e0 67668 ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb
+Checksums-Sha256:
+ 36b6f7970871da02e0bab775711c8b86cfa22eddc904da5c5e3231e8a6066aa2 2117040 ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb
+ 8fbd5b3576e9381e3d3916ad82c877f0a136059b090d651ee1745bc220e71c1f 22739 ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.buildinfo
+ 8f53ef997822d3ef3c5297b3056adf0dd10717a34e78010cbf6f5c0b35ce8f6c 67668 ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb
+Files:
+ 105e29337dcaabe82ed80fbf726c1660 2117040 debug optional ros-one-moveit-fake-controller-manager-dbgsym_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb
+ 35435905ac98e8d0e3376f1e3689256f 22739 misc optional ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.buildinfo
+ 849b4429ef2c5b4d72a70d9615ebaefe 67668 misc optional ros-one-moveit-fake-controller-manager_1.1.16-49-g4838449d7-2025.12.13.11.07_amd64.deb

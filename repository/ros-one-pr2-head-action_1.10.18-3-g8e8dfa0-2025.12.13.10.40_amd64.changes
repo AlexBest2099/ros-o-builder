@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-head-action
+Binary: ros-one-pr2-head-action ros-one-pr2-head-action-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2025.12.13.10.40
+Distribution: bookworm
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-head-action - The PR2 head action is a node that provides an action interface f
+Changes:
+ ros-one-pr2-head-action (1.10.18-3-g8e8dfa0-2025.12.13.10.40) bookworm; urgency=high
+ .
+   * Fix for noetic (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+ .
+       * install liborocos for noetic
+       * conver to package 3
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 41a760669292909f60985c23ac9c4bfeabf64021 1237420 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb
+ 765b2748ca8d1ed2159c6ce4e32868a1b64b30b5 18655 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.buildinfo
+ e186feb09e6dddd29353acf6e37de9c1699a01c5 94260 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb
+Checksums-Sha256:
+ a1a88761898103c8dc2705ed1a5f2c9c3557e32bf9a02cd786923a1d860bff59 1237420 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb
+ 37518f3428c63f9a4f5334f1988bc2eeb4fa190cdc89c23f02a94a139759a675 18655 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.buildinfo
+ c15b586541f7ac18e9e515e8a68a161f840aa38bd1390f3d5cb4756d5501b870 94260 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb
+Files:
+ 919d63f26ef58ea7b13c530f6923a68d 1237420 debug optional ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb
+ 5a8ac62e9bb4f574a390e841f0ec3f59 18655 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.buildinfo
+ 13daeb5db7afe9e23b1ddbf279e51169 94260 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2025.12.13.10.40_amd64.deb

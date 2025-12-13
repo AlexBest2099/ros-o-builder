@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 12 Jan 2022 00:00:00 -0000
+Source: ros-one-pointgrey-camera-description
+Binary: ros-one-pointgrey-camera-description
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.15.1-1-gcc88014-2025.12.13.08.34
+Distribution: bookworm
+Urgency: high
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Changed-By: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Description:
+ ros-one-pointgrey-camera-description - URDF descriptions for Point Grey cameras
+Changes:
+ ros-one-pointgrey-camera-description (0.15.1-1-gcc88014-2025.12.13.08.34) bookworm; urgency=high
+ .
+   * Added xacro: to tag calling bumblebee2 xacro, required in noetic
+   * Contributors: Luis Camero
+Checksums-Sha1:
+ 79e8f5a20935b7ac9ce6764f7cc65dcc13a9aa43 7445 ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.buildinfo
+ 058b6b2b8fa514d376a1fc2e200adbce13610ee6 22340 ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.deb
+Checksums-Sha256:
+ 82c04c3b6cf36e39e9f7d13f3f7256df4765af0e7a1be4cec70756d3d8d9fad1 7445 ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.buildinfo
+ 11900bc984d6a9b72597676b304c84dc8810a4af30350be4df46af6061d8d05f 22340 ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.deb
+Files:
+ 6c2faa66545ab7388ddeb7026f212bde 7445 misc optional ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.buildinfo
+ 26a9af3d89b8e059fcddcfd155f27c69 22340 misc optional ros-one-pointgrey-camera-description_0.15.1-1-gcc88014-2025.12.13.08.34_amd64.deb

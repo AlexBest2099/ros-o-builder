@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-ethercat-grant
+Binary: ros-one-ethercat-grant ros-one-ethercat-grant-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.3.2-2025.12.13.05.36
+Distribution: bookworm
+Urgency: high
+Maintainer: Shadow Robot's software team <software@shadowrobot.com>
+Changed-By: Shadow Robot's software team <software@shadowrobot.com>
+Description:
+ ros-one-ethercat-grant - Makes it possible to run the ros_ethercat_loop without using sudo
+Changes:
+ ros-one-ethercat-grant (0.3.2-2025.12.13.05.36) bookworm; urgency=high
+ .
+   * Fixing CHANGELOG
+   * Contributors: Fotios
+Checksums-Sha1:
+ df1ae510415c38c96d7810e448f6ba45bb23d36f 29216 ros-one-ethercat-grant-dbgsym_0.3.2-2025.12.13.05.36_amd64.deb
+ 339b42d046ccf49e79569e7a2971dda594eb44a9 10305 ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.buildinfo
+ 10c83b7efa29855577803ec46ad0c0505cea9aa0 9152 ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.deb
+Checksums-Sha256:
+ 60a62fb96c1ec31f221ecdde4a7f477cc656e574831773ed3a02e3ac53aadf71 29216 ros-one-ethercat-grant-dbgsym_0.3.2-2025.12.13.05.36_amd64.deb
+ 97504dc5403e299a1cf4d53bbdee3acd401a4b2557e57d200c876e8fcb72aa2d 10305 ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.buildinfo
+ daa15c0746c1827a3a3612ea1a2e9cfda3f8799f35d19e7c4005ef2ba4bbf12a 9152 ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.deb
+Files:
+ 6cf1733c7be8198f8a5d0469808a8ae0 29216 debug optional ros-one-ethercat-grant-dbgsym_0.3.2-2025.12.13.05.36_amd64.deb
+ f0843c07c9bebf34d1bfe9f190185d6e 10305 misc optional ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.buildinfo
+ 7924aace71087059cd242683ab2bd3bd 9152 misc optional ros-one-ethercat-grant_0.3.2-2025.12.13.05.36_amd64.deb

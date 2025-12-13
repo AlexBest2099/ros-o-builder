@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration-estimation
+Binary: ros-one-calibration-estimation
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.06.04
+Distribution: bookworm
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration-estimation - Runs an optimization to estimate the a robot's kinematic paramete
+Changes:
+ ros-one-calibration-estimation (0-2025.12.13.06.04) bookworm; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixed test errors for python3 compatibility
+   * fixed python3 compatibility issues
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * more python3 package fixes
+   * more python3 package fixes
+   * only depend on python_orocos_kdl for python2
+   * spell exec correctly
+   * updated package.xml file for python3 dependencies
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ 0a0b38576a6d4df8ff383ea6cc0fc7d672258d52 8818 ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.buildinfo
+ 9ccb3aaa9127f07b1fa9420bf41706de1b4620fb 73592 ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.deb
+Checksums-Sha256:
+ 2ae72964a932a249ad0cb077d4e1400ae20110ebf02460fdf7c6caae68bb5667 8818 ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.buildinfo
+ 195aa348fa2a6a7fdd54662a76aa0a4677ca5dbac7340ce19407cf4f785d6ec3 73592 ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.deb
+Files:
+ 4aaa0bfef6c088cccab983c979336884 8818 misc optional ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.buildinfo
+ 72901fd308527844fb44ebc3f75e6989 73592 misc optional ros-one-calibration-estimation_0-2025.12.13.06.04_amd64.deb

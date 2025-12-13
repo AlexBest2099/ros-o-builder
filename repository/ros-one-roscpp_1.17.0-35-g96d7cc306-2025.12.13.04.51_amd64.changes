@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-roscpp
+Binary: ros-one-roscpp ros-one-roscpp-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-35-g96d7cc306-2025.12.13.04.51
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-roscpp - roscpp is a C++ implementation of ROS.
+Changes:
+ ros-one-roscpp (1.17.0-35-g96d7cc306-2025.12.13.04.51) bookworm; urgency=high
+ .
+   * adding boost/bind/bind.hpp includes to files missing them (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Fix "roscpp multithreaded spinners eat up CPU when callbacks take too long" (#2377 <https://github.com/ros/ros_comm/issues/2377>) (#2388 <https://github.com/ros/ros_comm/pull/2388>)
+   * Contributors: Johannes Meyer, Lucas Walter
+Checksums-Sha1:
+ a80ca460dcf659ef51c0617b594625e9ba031ca6 13187796 ros-one-roscpp-dbgsym_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb
+ 30f6aad99578a70cb1f7c0ee84efbff0614bcd94 10319 ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.buildinfo
+ 46b92d4a48dc8acf31113c5f0dd30b2a9db08cc0 510508 ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb
+Checksums-Sha256:
+ c54dedde6b839052638b3212c0b5bc401a478923757614e741b436db7dd4c346 13187796 ros-one-roscpp-dbgsym_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb
+ 18c8b129065073be8deb9e0ad18ad924c953c22ed94cd1f878d199aa58b26642 10319 ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.buildinfo
+ 1403eb5c91588184313e937994cfb60f996e6ac5f0c475f13403716d79fd8e75 510508 ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb
+Files:
+ 4d442284361b3c1405c718907d7ef03d 13187796 debug optional ros-one-roscpp-dbgsym_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb
+ 2f2f5971ec8185d0a2937f36725f9c87 10319 misc optional ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.buildinfo
+ d0d53e4d9a48b9905776262c30091b8e 510508 misc optional ros-one-roscpp_1.17.0-35-g96d7cc306-2025.12.13.04.51_amd64.deb

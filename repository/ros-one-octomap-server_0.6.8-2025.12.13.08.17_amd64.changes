@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Sun, 24 Mar 2024 00:00:00 -0000
+Source: ros-one-octomap-server
+Binary: ros-one-octomap-server ros-one-octomap-server-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.6.8-2025.12.13.08.17
+Distribution: bookworm
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-server - octomap_server loads a 3D map (as Octree-based OctoMap) and distr
+Changes:
+ ros-one-octomap-server (0.6.8-2025.12.13.08.17) bookworm; urgency=high
+ .
+   * Change frame id "/map" to "map" to prevent RViz visualization warnings in ROS Noetic caused by tf (#124 <https://github.com/octomap/octomap_mapping/issues/124>
+   * Initialize quaternion to avoid RViz warning (#112 <https://github.com/octomap/octomap_mapping/issues/112>)
+   * Update for PCL deprecated and removed API (#118 <https://github.com/octomap/octomap_mapping/issues/118>)
+   * Update pluginlib headers (#114 <https://github.com/OctoMap/octomap_mapping/issues/114>)
+   * Update boost::placeholders (#105 <https://github.com/octomap/octomap_mapping/issues/105>)
+   * Fix publishing of projected map on reset (#92 <https://github.com/octomap/octomap_mapping/issues/92>)
+   * Add a min range parameter (#100 <https://github.com/octomap/octomap_mapping/issues/100>)
+   * Contributors: Lovro Markovic, Lucas Walter, Wolfgang Merkt, Zhefan-Xu, yuri-r
+Checksums-Sha1:
+ 24441043bc6860150a78623f60457e7dc0a03d47 15562924 ros-one-octomap-server-dbgsym_0.6.8-2025.12.13.08.17_amd64.deb
+ 9f95e21ae9728bd59fd74c22dcf586c9864fee9a 36449 ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.buildinfo
+ db127a162fe425022dc660dfbae63f9ca2a40d6b 359076 ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.deb
+Checksums-Sha256:
+ bde2a3553631bdd8afa788e5da0788b63c603de9c233cc3585c9e940baeb021a 15562924 ros-one-octomap-server-dbgsym_0.6.8-2025.12.13.08.17_amd64.deb
+ 7a8f5287e363ce802ea95f13f26125be50443855c3ec959a8d4f79ed6e66c65d 36449 ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.buildinfo
+ 37c8cecb18379de19f4c2cf1004c1382a1282ed52313d5ef9a3e47b654d9ae21 359076 ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.deb
+Files:
+ bd85f2e086bae1d845684988c44f2455 15562924 debug optional ros-one-octomap-server-dbgsym_0.6.8-2025.12.13.08.17_amd64.deb
+ 0ee5ba111072d9bdb7b7781b89358ee2 36449 misc optional ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.buildinfo
+ f1fb2955397ee67acfe8a5f571991e1d 359076 misc optional ros-one-octomap-server_0.6.8-2025.12.13.08.17_amd64.deb

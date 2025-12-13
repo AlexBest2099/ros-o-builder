@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rospack
+Binary: ros-one-rospack ros-one-rospack-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.6.4-1-gfd4d6fd-2025.12.13.03.21
+Distribution: bookworm
+Urgency: high
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Changed-By: Jacob Perron <jacob@openrobotics.org>
+Description:
+ ros-one-rospack - ROS Package Tool
+Changes:
+ ros-one-rospack (2.6.4-1-gfd4d6fd-2025.12.13.03.21) bookworm; urgency=high
+ .
+   * Do not link to PYTHON_LIBRARIES on Apple (#127 <https://github.com/ros/rospack/issues/127>)
+   * Contributors: Tobias Fischer
+Checksums-Sha1:
+ 097e8b1c8349a2c5c0e98371975ef216cec85843 1425112 ros-one-rospack-dbgsym_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb
+ de35d3bd081b85bac43103b36554f2e7225580e8 8665 ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.buildinfo
+ 0086c6eaaaf5fe93cfbb960febbe4895061a7f95 101736 ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb
+Checksums-Sha256:
+ 33727b4a8522c8432cdc796ee5c661379216d049def6f926d30a53e13c090105 1425112 ros-one-rospack-dbgsym_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb
+ 99986cbc391692ba160c719de532fe65304658947cba4e1b9d8bb5d0e14b4890 8665 ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.buildinfo
+ 04ebfa10ac45ff3a36b016ab65f81c07e105b1692f9fb3305497daa393e350c8 101736 ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb
+Files:
+ feab83051ff8069a3e058a6a0fefc28b 1425112 debug optional ros-one-rospack-dbgsym_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb
+ 7883193f30679e6c9d6675a5dc18e681 8665 misc optional ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.buildinfo
+ 288902d5ec678b63632ee357bdba22e7 101736 misc optional ros-one-rospack_2.6.4-1-gfd4d6fd-2025.12.13.03.21_amd64.deb

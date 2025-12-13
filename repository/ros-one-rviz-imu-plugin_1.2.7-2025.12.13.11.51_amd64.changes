@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 29 Apr 2025 00:00:00 -0000
+Source: ros-one-rviz-imu-plugin
+Binary: ros-one-rviz-imu-plugin ros-one-rviz-imu-plugin-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.7-2025.12.13.11.51
+Distribution: bookworm
+Urgency: high
+Maintainer: Martin Günther <martin.guenther1980@gmail.com>
+Changed-By: Martin Günther <martin.guenther1980@gmail.com>
+Description:
+ ros-one-rviz-imu-plugin - RVIZ plugin for IMU visualization
+Changes:
+ ros-one-rviz-imu-plugin (1.2.7-2025.12.13.11.51) bookworm; urgency=high
+ .
+   * Fix Qt5 version requirement (#213 <https://github.com/CCNYRoboticsLab/imu_tools/issues/213>)
+     - Use rviz_QT_VERSION
+     - Drop OpenGL dependency
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 78520c2d86a49b0d798712faa1f154257b5ae1da 2167760 ros-one-rviz-imu-plugin-dbgsym_1.2.7-2025.12.13.11.51_amd64.deb
+ af44ee8db26ea0f0c490fbf3aa3a690f5d22f302 28354 ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.buildinfo
+ f5c6bd32c9d7db577e45e727c9a986649ae4ebed 98412 ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.deb
+Checksums-Sha256:
+ c4351d1207a1d9341389bbcd31186a10785001d39e1f760756703cc9e4fde1c9 2167760 ros-one-rviz-imu-plugin-dbgsym_1.2.7-2025.12.13.11.51_amd64.deb
+ 72d10c961cff7933220bb227e45ab66d327f6fa1bbaaabbfb6d3d88c17c713e9 28354 ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.buildinfo
+ 80cc4afc7cc946d0d564c26b98168ab8b419c756b22e810bcabbc064ae06f7f9 98412 ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.deb
+Files:
+ e75f1a4a50a581cfbf3c07592ae5410e 2167760 debug optional ros-one-rviz-imu-plugin-dbgsym_1.2.7-2025.12.13.11.51_amd64.deb
+ 83dee683a021ab9f3fc619d7e988e75b 28354 misc optional ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.buildinfo
+ 176ad79d2626068c9a0f942df69035ce 98412 misc optional ros-one-rviz-imu-plugin_1.2.7-2025.12.13.11.51_amd64.deb

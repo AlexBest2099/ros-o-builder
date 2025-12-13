@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-speed-scaling-state-controller
+Binary: ros-one-speed-scaling-state-controller ros-one-speed-scaling-state-controller-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-5-gc040abb-2025.12.13.11.39
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-speed-scaling-state-controller - ROS controller providing reading the state of speed scaling on th
+Changes:
+ ros-one-speed-scaling-state-controller (0.1.1-5-gc040abb-2025.12.13.11.39) bookworm; urgency=high
+Checksums-Sha1:
+ bc47e04cd5a3887bb2e1e319718faa9ca1cecd9f 562664 ros-one-speed-scaling-state-controller-dbgsym_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb
+ 3225f6f6c60270570c5d6b3e778f3a1232be6ef2 14246 ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.buildinfo
+ d23f3ecff978e53dd9d21e101f7e0f0d5abb82b8 41192 ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb
+Checksums-Sha256:
+ 9929c2165853f1033cb22bc47eac3a9f2f2804f5d0cf8e9e578102e3f27dc41d 562664 ros-one-speed-scaling-state-controller-dbgsym_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb
+ dac735927c04ffa9903199814de20d8cd733f40dc5ef0866b36bc879928e2c9f 14246 ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.buildinfo
+ d636d6f8c4860c69da8a961d168940557fc74a5c9f9b4ef82c7c6c2259435c65 41192 ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb
+Files:
+ 98826792351d5e0049c5e2dd8e822863 562664 debug optional ros-one-speed-scaling-state-controller-dbgsym_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb
+ 53f9de0549fba69b2935bed12ef9eaaf 14246 misc optional ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.buildinfo
+ a3e4114f1e1eb7d603d697493260d2a2 41192 misc optional ros-one-speed-scaling-state-controller_0.1.1-5-gc040abb-2025.12.13.11.39_amd64.deb

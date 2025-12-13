@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-rosbuild
+Binary: ros-one-rosbuild
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.12.13.04.01
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-rosbuild - rosbuild contains scripts for managing the CMake-based build syst
+Changes:
+ ros-one-rosbuild (1.15.10-1-g99fd9bb7-2025.12.13.04.01) bookworm; urgency=high
+Checksums-Sha1:
+ c83abf6c308f510c6d4a1208c3567d0d963070be 7353 ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.buildinfo
+ d073655192b28141314e9ab787d43b62847769d6 28640 ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.deb
+Checksums-Sha256:
+ 6606a3a1bedbb409741f37ecd3fa4f82a9327d71c3d07cd0074b66bb3631edd7 7353 ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.buildinfo
+ 3141acd67262009ff29a2560f77c780070dabe6899d90b6e96251ea89e25a659 28640 ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.deb
+Files:
+ 9ac66cd641f7b294f28394a34ffaa41a 7353 misc optional ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.buildinfo
+ ac8af89c8500ca84fee73699337a8261 28640 misc optional ros-one-rosbuild_1.15.10-1-g99fd9bb7-2025.12.13.04.01_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-one-test-catkin-virtualenv
+Binary: ros-one-test-catkin-virtualenv ros-one-test-catkin-virtualenv-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.13.0-6-gd9c0ecd-2025.12.13.05.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Paul Bovbel <pbovbel@locusrobotics.com>
+Changed-By: Paul Bovbel <pbovbel@locusrobotics.com>
+Description:
+ ros-one-test-catkin-virtualenv - Basic catkin_virtualenv test.
+Changes:
+ ros-one-test-catkin-virtualenv (0.13.0-6-gd9c0ecd-2025.12.13.05.44) bookworm; urgency=high
+Checksums-Sha1:
+ ba1d8a35da2dbf31e24ebb28f4daafb9de264f27 349096 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb
+ ab2f4fbcf5e9e627d88f0d9f28b2041dd4244629 9779 ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.buildinfo
+ 2a7f1f05a690f25fe2a1559b02cf3483c6f6c12e 2270176 ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb
+Checksums-Sha256:
+ 73de466b9aac15c50d60361eef5eded6eb42df4eccf79c356934282c8ca974e4 349096 ros-one-test-catkin-virtualenv-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb
+ 9bf22c16c5ea04ec0afd3b9824a529080ea274677372c0edb8830c6abccd687e 9779 ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.buildinfo
+ beb4d91212ad9bda0342239e0f93d418ddb3c7902262e00613d66c5574f4809d 2270176 ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb
+Files:
+ 24cfd527981fc5dddbe10ca3dfcddfd8 349096 debug optional ros-one-test-catkin-virtualenv-dbgsym_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb
+ 9ef0014b000e0d6f5dc08075f2daf5b1 9779 misc optional ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.buildinfo
+ eee9818783fbb0c05a4feb55aae1a35e 2270176 misc optional ros-one-test-catkin-virtualenv_0.13.0-6-gd9c0ecd-2025.12.13.05.44_amd64.deb

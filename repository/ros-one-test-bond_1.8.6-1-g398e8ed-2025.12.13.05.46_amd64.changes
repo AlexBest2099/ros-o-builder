@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-test-bond
+Binary: ros-one-test-bond
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.8.6-1-g398e8ed-2025.12.13.05.46
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-test-bond - Contains tests for [[bond]], including tests for [[bondpy]] and [
+Changes:
+ ros-one-test-bond (1.8.6-1-g398e8ed-2025.12.13.05.46) bookworm; urgency=high
+ .
+   * bondpy: Prevent exception in Bond.shutdown() (#62 <https://github.com/ros/bond_core/issues/62>)
+   * Contributors: Martin Pecka
+Checksums-Sha1:
+ d87df76b0b7699f1170c39ed8a06788b4baecc4c 12086 ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.buildinfo
+ 92e4ddd23b8bbe82bed6613ef28fe0eb9c994ce6 7112 ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.deb
+Checksums-Sha256:
+ b34d1503b576dd5fc0f384cd06a90d850cd2a1e8241c58809e7f0d7b51306fcd 12086 ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.buildinfo
+ 8e345606926875575479d9006cf6498656019ae74a8eef76835f091cf49412d0 7112 ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.deb
+Files:
+ eacac21add0aef595ef7a16e610c9f75 12086 misc optional ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.buildinfo
+ f96cbb3f1757b8bac6470ee6c2b53d39 7112 misc optional ros-one-test-bond_1.8.6-1-g398e8ed-2025.12.13.05.46_amd64.deb

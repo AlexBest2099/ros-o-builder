@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 10 Nov 2023 00:00:00 -0000
+Source: ros-one-moveit-resources-prbt-moveit-config
+Binary: ros-one-moveit-resources-prbt-moveit-config
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.8.3-2-gb771644-2025.12.13.10.37
+Distribution: bookworm
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-one-moveit-resources-prbt-moveit-config - MoveIt Resources for testing: Pilz PRBT 6 A project-internal conf
+Changes:
+ ros-one-moveit-resources-prbt-moveit-config (0.8.3-2-gb771644-2025.12.13.10.37) bookworm; urgency=high
+ .
+   * Add ResolveConstraintFrames to all planning pipelines
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 5c827ce2252ffd7eca26f191f676f5a0eed113a7 7476 ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.buildinfo
+ a174e2fd8fad2f9e2449cb62168b508424edc6c0 17532 ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.deb
+Checksums-Sha256:
+ b18eecd24490066e30884be727706d036130a1bf06422b65c5afdecb473058bf 7476 ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.buildinfo
+ 0f6dea792ce136e465feace954b896eab94f6b8ee247ca8ffc91194102d494ab 17532 ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.deb
+Files:
+ 5c481d67fcf1a789194a7659c860e585 7476 misc optional ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.buildinfo
+ 1cc54a0d30d574d1e9508e3026ccb459 17532 misc optional ros-one-moveit-resources-prbt-moveit-config_0.8.3-2-gb771644-2025.12.13.10.37_amd64.deb

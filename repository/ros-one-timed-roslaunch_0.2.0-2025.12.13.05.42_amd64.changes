@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 05 Sep 2024 00:00:00 -0000
+Source: ros-one-timed-roslaunch
+Binary: ros-one-timed-roslaunch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.2.0-2025.12.13.05.42
+Distribution: bookworm
+Urgency: high
+Maintainer: Daisuke Sato <tiryoh@gmail.com>
+Changed-By: Daisuke Sato <tiryoh@gmail.com>
+Description:
+ ros-one-timed-roslaunch - Script to delay the launch of a roslaunch file
+Changes:
+ ros-one-timed-roslaunch (0.2.0-2025.12.13.05.42) bookworm; urgency=high
+ .
+   * Update maintainer
+   * Use GitHub Actions
+   * Add "output" option to launch #20 <https://github.com/MoriKen254/timed_roslaunch/pull/20>
+Checksums-Sha1:
+ 475db5b8790d1a22430e0ab00c415fc2bc949c36 7329 ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.buildinfo
+ 292e624d3230fc1fe6078b4da7bb42b1525f2bbc 9572 ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.deb
+Checksums-Sha256:
+ 62ffea66e00d1e00da7a6ed8963227df932fe5ac978237834c7259f4eb998a16 7329 ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.buildinfo
+ bf662e6709c224cdc719c47e7519c7e855a30e5f13a9875a3ce106d06dda5f87 9572 ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.deb
+Files:
+ b6bc5a76b0ed4effd729ca3747d2be39 7329 misc optional ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.buildinfo
+ bfa642ee65b77dbf59ddb2170089d1df 9572 misc optional ros-one-timed-roslaunch_0.2.0-2025.12.13.05.42_amd64.deb

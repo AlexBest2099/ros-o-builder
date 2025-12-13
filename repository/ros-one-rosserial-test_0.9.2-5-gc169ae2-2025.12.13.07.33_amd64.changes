@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 02 Apr 2021 00:00:00 -0000
+Source: ros-one-rosserial-test
+Binary: ros-one-rosserial-test
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.9.2-5-gc169ae2-2025.12.13.07.33
+Distribution: bookworm
+Urgency: high
+Maintainer: Mike Purvis <mpurvis@clearpath.ai>
+Changed-By: Mike Purvis <mpurvis@clearpath.ai>
+Description:
+ ros-one-rosserial-test - A specialized harness which allows end-to-end integration testing
+Changes:
+ ros-one-rosserial-test (0.9.2-5-gc169ae2-2025.12.13.07.33) bookworm; urgency=high
+Checksums-Sha1:
+ 679fc0fd8422a09ac2d89b7221ab7c55fe85fe88 17655 ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.buildinfo
+ 85f92f2b2ac85bde4a241475e662e87a35bab1c1 5596 ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.deb
+Checksums-Sha256:
+ 4285c82bbd80c47c91547aa5c7690bdf18af1363c40fcbba33f26fd6fda34957 17655 ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.buildinfo
+ f4e74280fc1c2046f121a2bb930c00b6d65a315b4cf3465cdeb54431a84e192d 5596 ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.deb
+Files:
+ 2d17074e82d48dd5e5cadfbc49a3b05d 17655 misc optional ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.buildinfo
+ 81c919e4fa1b8426a1f5db2618aeb0d3 5596 misc optional ros-one-rosserial-test_0.9.2-5-gc169ae2-2025.12.13.07.33_amd64.deb

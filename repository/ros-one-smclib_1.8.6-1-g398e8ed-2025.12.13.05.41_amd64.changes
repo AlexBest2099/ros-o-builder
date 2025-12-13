@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 28 Aug 2020 00:00:00 -0000
+Source: ros-one-smclib
+Binary: ros-one-smclib
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.8.6-1-g398e8ed-2025.12.13.05.41
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-smclib - The State Machine Compiler (SMC) from http://smc.sourceforge.net/
+Changes:
+ ros-one-smclib (1.8.6-1-g398e8ed-2025.12.13.05.41) bookworm; urgency=high
+Checksums-Sha1:
+ d1d77f5b94112db59ae61bece7fae530caba7386 7331 ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.buildinfo
+ 59efb461ec3c595845f1e3cdf899a20a5546bdd4 14820 ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.deb
+Checksums-Sha256:
+ 54444db3d0c7704de075a1d8d549293612937d238e8ad604aea2425f46d638f2 7331 ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.buildinfo
+ 9297a08e045c9469efa5739888fdc16b8ec363903d7fbc8696254bc0908eefab 14820 ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.deb
+Files:
+ 33573a57e4eb641497098ceb88e34ad6 7331 misc optional ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.buildinfo
+ 5efa0c0c6002a476caf14c6b0aacea60 14820 misc optional ros-one-smclib_1.8.6-1-g398e8ed-2025.12.13.05.41_amd64.deb

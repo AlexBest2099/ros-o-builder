@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-qt-gui-core
+Binary: ros-one-qt-gui-core
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.2-15-g9726da6-2025.12.13.04.29
+Distribution: bookworm
+Urgency: high
+Maintainer: Scott Logan <cottsay@openrobotics.org>
+Changed-By: Scott Logan <cottsay@openrobotics.org>
+Description:
+ ros-one-qt-gui-core - Integration of the ROS package system and ROS-specific plugins fo
+Changes:
+ ros-one-qt-gui-core (0.4.2-15-g9726da6-2025.12.13.04.29) bookworm; urgency=high
+ .
+   * Bump cmake_minimum_required to avoid deprecation (#303 <https://github.com/ros-visualization/qt_gui_core/issues/303>)
+   * Contributors: Arne Hitzmann
+Checksums-Sha1:
+ 87abbf3319c13d2ad6c113421af478c42bb1fafd 7357 ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.buildinfo
+ 7480c224c47f1b9d1b63fcb05deac6bb70b6c815 2548 ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.deb
+Checksums-Sha256:
+ a176a17ec362c1161f04a4736e4c3fcc0f14403c604fa7522b7108e6f65e034d 7357 ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.buildinfo
+ bdd11adc9b39298b8b7c61f77e69be0a74a5cb38707e3d23cc6db166542abaa5 2548 ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.deb
+Files:
+ 8222579bafe8555a3eaa1f4b64ce3671 7357 misc optional ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.buildinfo
+ 98e9b6053cb4a5a31110252bcf3a514a 2548 misc optional ros-one-qt-gui-core_0.4.2-15-g9726da6-2025.12.13.04.29_amd64.deb

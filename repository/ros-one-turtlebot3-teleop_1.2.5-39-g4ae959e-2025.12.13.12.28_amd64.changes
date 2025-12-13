@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 24 Feb 2022 00:00:00 -0000
+Source: ros-one-turtlebot3-teleop
+Binary: ros-one-turtlebot3-teleop
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.5-39-g4ae959e-2025.12.13.12.28
+Distribution: bookworm
+Urgency: high
+Maintainer: Will Son <willson@robotis.com>
+Changed-By: Will Son <willson@robotis.com>
+Description:
+ ros-one-turtlebot3-teleop - Provides teleoperation using keyboard for TurtleBot3.
+Changes:
+ ros-one-turtlebot3-teleop (1.2.5-39-g4ae959e-2025.12.13.12.28) bookworm; urgency=high
+ .
+   * Fix teleop_key on Windows 10
+   * Contributors: Rushikesh Kamalapurkar
+Checksums-Sha1:
+ cd388369bfbdc7f2f53c30842e7ec6ecb5edc762 11285 ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.buildinfo
+ 14b0d4730393fc418dd1f59ad669046dce2d4142 8540 ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.deb
+Checksums-Sha256:
+ 7012447430022eaf6af087a79d31ed858be990915b6ab96f1bb43879bad2e5af 11285 ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.buildinfo
+ 8df2594266bb08e93cd2f03ae9b59317734dfa32f293cfb69739e1c066262c55 8540 ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.deb
+Files:
+ e351f956482f23fa40dc367cbdf6e79e 11285 misc optional ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.buildinfo
+ 97450e16e163b163f0862edcddb6b1c7 8540 misc optional ros-one-turtlebot3-teleop_1.2.5-39-g4ae959e-2025.12.13.12.28_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-joint-state-publisher
+Binary: ros-one-joint-state-publisher
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.2-2025.12.13.05.44
+Distribution: bookworm
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-joint-state-publisher - This package contains a tool for setting and publishing joint sta
+Changes:
+ ros-one-joint-state-publisher (1.15.2-2025.12.13.05.44) bookworm; urgency=high
+Checksums-Sha1:
+ cf5e2e5317649e10d9799b21389b13d2ce445ce0 7366 ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.buildinfo
+ d392eaba99562b9baa43f9c839ebca79810641b8 16844 ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.deb
+Checksums-Sha256:
+ c12f476cec3c722299fd6836d5d654514ce6828a56e7cbe04367c61803947e31 7366 ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.buildinfo
+ 0759e9286c552bb1c7ed87a4a389b66aee325f0fd8daf0fede25aa20d48a3e3c 16844 ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.deb
+Files:
+ b617f51be70dd1e57647991912fc9837 7366 misc optional ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.buildinfo
+ e52a033c52cc2b10fbc6c311feea855d 16844 misc optional ros-one-joint-state-publisher_1.15.2-2025.12.13.05.44_amd64.deb

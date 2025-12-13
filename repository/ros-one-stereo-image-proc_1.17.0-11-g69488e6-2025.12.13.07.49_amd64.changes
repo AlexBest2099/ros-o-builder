@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-stereo-image-proc
+Binary: ros-one-stereo-image-proc ros-one-stereo-image-proc-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.12.13.07.49
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-stereo-image-proc - Stereo and single image rectification and disparity processing.
+Changes:
+ ros-one-stereo-image-proc (1.17.0-11-g69488e6-2025.12.13.07.49) bookworm; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Drop old C++ standard compiler flag
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 570e16cc1ddd9835c5ff608c95940b92f24e0848 3682240 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb
+ 46718e2dae11ed88834e81593e981cbc309a5176 29145 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.buildinfo
+ 3ea520cf1c5368aaa4a7d38456e86aa70ebe8bae 199532 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb
+Checksums-Sha256:
+ 184ab1388806c5137b6dc3b2e1c1f20821ee4dba9e1356ac87673571de20a25c 3682240 ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb
+ 38c1ea6be55b16968733e63581446e25881fddaca731d3e86bbab5cb5ebafef3 29145 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.buildinfo
+ 3aef324d225ad60ec6bb261bb005000b5a5cd66455a63bc3a15d68f8287aee54 199532 ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb
+Files:
+ cab4148ec8d972f8dd9fc02ba83bb50a 3682240 debug optional ros-one-stereo-image-proc-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb
+ 7f6e31d1155ae51ea3f04535215da640 29145 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.buildinfo
+ 5e3f32eeff0f72ef874c11a330a89259 199532 misc optional ros-one-stereo-image-proc_1.17.0-11-g69488e6-2025.12.13.07.49_amd64.deb

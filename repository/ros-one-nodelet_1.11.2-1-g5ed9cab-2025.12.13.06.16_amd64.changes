@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-nodelet
+Binary: ros-one-nodelet ros-one-nodelet-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.11.2-1-g5ed9cab-2025.12.13.06.16
+Distribution: bookworm
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet - The nodelet package is designed to provide a way to run multiple
+Changes:
+ ros-one-nodelet (1.11.2-1-g5ed9cab-2025.12.13.06.16) bookworm; urgency=high
+ .
+   * fix un-initialized value (#89 <https://github.com/ros/nodelet_core/issues/89>)
+   * Contributors: Jeremie Deray
+Checksums-Sha1:
+ 4aa6222946e59842487b8b458cbb9b96788e85d8 2107404 ros-one-nodelet-dbgsym_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb
+ 3e9584be6a8f5a1945fb2432e598e95c6eb2634c 12946 ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.buildinfo
+ 8ce10cc85f212643be75c44698cfaef1728b5803 160056 ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb
+Checksums-Sha256:
+ 54548b1f526242ce0c63f401a4343103dcff4227cf26ab584303c2f9d23cb277 2107404 ros-one-nodelet-dbgsym_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb
+ 11804f64660195183a39a95e6c81dd5166da47fd5cf0447df58ac4db392582a8 12946 ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.buildinfo
+ 84fda1b4ade8a740110fe17b1f8d75d4aa891b6eafdf6478119dbe86266d27d7 160056 ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb
+Files:
+ 2cf8a83c9560a16416a788a6c38d1fdc 2107404 debug optional ros-one-nodelet-dbgsym_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb
+ 53b7fc8522c51d1222ca8bff926c2441 12946 misc optional ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.buildinfo
+ 5de1640cc2ee57e187e139f34f84ce9e 160056 misc optional ros-one-nodelet_1.11.2-1-g5ed9cab-2025.12.13.06.16_amd64.deb

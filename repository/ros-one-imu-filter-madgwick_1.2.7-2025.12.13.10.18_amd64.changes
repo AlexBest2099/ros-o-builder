@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 29 Apr 2025 00:00:00 -0000
+Source: ros-one-imu-filter-madgwick
+Binary: ros-one-imu-filter-madgwick ros-one-imu-filter-madgwick-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.7-2025.12.13.10.18
+Distribution: bookworm
+Urgency: high
+Maintainer: Martin Günther <martin.guenther1980@gmail.com>
+Changed-By: Martin Günther <martin.guenther1980@gmail.com>
+Description:
+ ros-one-imu-filter-madgwick - Filter which fuses angular velocities, accelerations, and (option
+Changes:
+ ros-one-imu-filter-madgwick (1.2.7-2025.12.13.10.18) bookworm; urgency=high
+Checksums-Sha1:
+ dc8061f5bc16069e71306642898a34684cde9d50 2897060 ros-one-imu-filter-madgwick-dbgsym_1.2.7-2025.12.13.10.18_amd64.deb
+ b2c778d165bcdace8be5556ffc80b7cf909584f1 16022 ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.buildinfo
+ 9a22c86d067c6e35a49afe7f85442612fe2ded7c 181296 ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.deb
+Checksums-Sha256:
+ 91c7f54f6cf11eb3dc8f149b5628039a4dd83f0ca20e2ed78bc83eb6a0b71cbd 2897060 ros-one-imu-filter-madgwick-dbgsym_1.2.7-2025.12.13.10.18_amd64.deb
+ 11c09127971cd05d8eb78f55aefbc157a5b1bd066f863eebc56de71de983293b 16022 ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.buildinfo
+ 89669c532f4e10e5f861880c6792480e0b1c987d9ccf5665655bcfec1912c0d9 181296 ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.deb
+Files:
+ acb38614fc345134cf4143106c484e93 2897060 debug optional ros-one-imu-filter-madgwick-dbgsym_1.2.7-2025.12.13.10.18_amd64.deb
+ e3b15f3339a2b338c74b40a4352f6308 16022 misc optional ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.buildinfo
+ cffa580ca58a99861a41691c29b8f830 181296 misc optional ros-one-imu-filter-madgwick_1.2.7-2025.12.13.10.18_amd64.deb

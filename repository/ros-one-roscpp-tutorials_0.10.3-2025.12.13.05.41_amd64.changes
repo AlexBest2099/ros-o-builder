@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 10 Apr 2025 00:00:00 -0000
+Source: ros-one-roscpp-tutorials
+Binary: ros-one-roscpp-tutorials ros-one-roscpp-tutorials-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.10.3-2025.12.13.05.41
+Distribution: bookworm
+Urgency: high
+Maintainer: Mabel Zhang <mabel@openrobotics.org>
+Changed-By: Mabel Zhang <mabel@openrobotics.org>
+Description:
+ ros-one-roscpp-tutorials - This package attempts to show the features of ROS step-by-step, i
+Changes:
+ ros-one-roscpp-tutorials (0.10.3-2025.12.13.05.41) bookworm; urgency=high
+ .
+   * use boost::placeholders::_1 instead of deprecated _1, and boost/bind/bind.hpp instead of bind.hpp (#142 <https://github.com/ros/ros_tutorials/issues/142>)
+   * Update maintainers (#102 <https://github.com/ros/ros_tutorials/issues/102>)
+   * Contributors: Lucas Walter, Shane Loretz
+Checksums-Sha1:
+ bb24094f47dfeac5f3546652136a0c6b50efaede 5698788 ros-one-roscpp-tutorials-dbgsym_0.10.3-2025.12.13.05.41_amd64.deb
+ 6e20b10149a2425b51c8e5d2c9da1757f008f414 10308 ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.buildinfo
+ 92f78be7a53060599cd107d630986ba57cca732e 164852 ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.deb
+Checksums-Sha256:
+ 53439a6c24a89abd8d45b735b7d4a11d4b0e80fbfcf0b60d42ac6638371383ee 5698788 ros-one-roscpp-tutorials-dbgsym_0.10.3-2025.12.13.05.41_amd64.deb
+ a974b4a89c2f7d58cb9a711836b3925665438ad722317916f020bc63dcc303fd 10308 ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.buildinfo
+ 14babe24f2e146867c6adfd33c82cb12be7e73d73f978172197bb43c0889a327 164852 ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.deb
+Files:
+ 10813c5246c0ba45ab637246e843b5c6 5698788 debug optional ros-one-roscpp-tutorials-dbgsym_0.10.3-2025.12.13.05.41_amd64.deb
+ 5b534a7018a870d4369bfb6645c265f4 10308 misc optional ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.buildinfo
+ 273c34864e1b7b9db3cea3d7ffbf47cd 164852 misc optional ros-one-roscpp-tutorials_0.10.3-2025.12.13.05.41_amd64.deb

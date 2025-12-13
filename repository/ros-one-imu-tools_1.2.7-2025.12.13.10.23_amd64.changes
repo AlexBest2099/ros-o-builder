@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 29 Apr 2025 00:00:00 -0000
+Source: ros-one-imu-tools
+Binary: ros-one-imu-tools
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.7-2025.12.13.10.23
+Distribution: bookworm
+Urgency: high
+Maintainer: Martin Günther <martin.guenther1980@gmail.com>
+Changed-By: Martin Günther <martin.guenther1980@gmail.com>
+Description:
+ ros-one-imu-tools - Various tools for IMU devices
+Changes:
+ ros-one-imu-tools (1.2.7-2025.12.13.10.23) bookworm; urgency=high
+Checksums-Sha1:
+ d74fcdf7063ba92ac78b79c21382f270e2e26013 7299 ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.buildinfo
+ 4bcd6aa4d1a2594311a8e2c4ae0563ccd123e02a 2696 ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.deb
+Checksums-Sha256:
+ 0090f16610e1f1957453393ffe527f415bf43d35255caa46c6c884add0f3ee1c 7299 ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.buildinfo
+ bcba45a22903bd63bed56d6ae433518c6d61fc2fe376a1e3cdfc75307ee02fd5 2696 ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.deb
+Files:
+ 810112e30dcb716f3c41278c72de00b3 7299 misc optional ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.buildinfo
+ 4e65dbda52ae6d06f7ec560eae08c065 2696 misc optional ros-one-imu-tools_1.2.7-2025.12.13.10.23_amd64.deb

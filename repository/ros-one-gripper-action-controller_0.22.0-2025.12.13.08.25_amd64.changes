@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Wed, 22 May 2024 00:00:00 -0000
+Source: ros-one-gripper-action-controller
+Binary: ros-one-gripper-action-controller ros-one-gripper-action-controller-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.22.0-2025.12.13.08.25
+Distribution: bookworm
+Urgency: high
+Maintainer: Sachin Chitta <robot.moveit@gmail.com>
+Changed-By: Sachin Chitta <robot.moveit@gmail.com>
+Description:
+ ros-one-gripper-action-controller - The gripper_action_controller package
+Changes:
+ ros-one-gripper-action-controller (0.22.0-2025.12.13.08.25) bookworm; urgency=high
+Checksums-Sha1:
+ f47625f0da9b1627b4fad65ef4fb8498822b66a1 1402032 ros-one-gripper-action-controller-dbgsym_0.22.0-2025.12.13.08.25_amd64.deb
+ d07a6537992c6cff7804a330d9c9ad9581518cf4 16147 ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.buildinfo
+ c4a2b1d4ce76e8c3beecb647870d866e9313b0a5 105488 ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.deb
+Checksums-Sha256:
+ 6dc94cc2a5fa2e9e475569a659ae36dab57147c38d4494007b68ad7f5bfecc48 1402032 ros-one-gripper-action-controller-dbgsym_0.22.0-2025.12.13.08.25_amd64.deb
+ 4629b219de88b48a8dbcb705147a529b716bc3c0cfb148005009f900a5205687 16147 ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.buildinfo
+ e55357c86c682245dd509a0048cc50ed0b644381227e56af14c61641695de92b 105488 ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.deb
+Files:
+ d5ac200bf5c38a6b96cfaaef154650d1 1402032 debug optional ros-one-gripper-action-controller-dbgsym_0.22.0-2025.12.13.08.25_amd64.deb
+ d48e494bf6cbb0fad04608cea99f839e 16147 misc optional ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.buildinfo
+ 6e2f670894a6605df54c405453f56032 105488 misc optional ros-one-gripper-action-controller_0.22.0-2025.12.13.08.25_amd64.deb

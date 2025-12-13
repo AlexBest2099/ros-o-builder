@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-nav-msgs
+Binary: ros-one-hector-nav-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.48
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-nav-msgs - hector_nav_msgs contains messages and services used in the hector
+Changes:
+ ros-one-hector-nav-msgs (0.5.2-6-gf0f1eb2-2025.12.13.11.48) bookworm; urgency=high
+Checksums-Sha1:
+ 6f95f6dbe7ba21079d4022cb3d17e2a433581ea5 9102 ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.buildinfo
+ 7652cc77a5412eefdf9d1183659fe218526c0c2e 40932 ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.deb
+Checksums-Sha256:
+ 1d012bb8d1c27d1f8321b056d9e2be270d9e354734865ffdcfd50140eade3b9a 9102 ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.buildinfo
+ 0cb70addc52d7c24e6fd01a33d5ecf31590444d928add18a0b11a8e67bc4e4c1 40932 ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.deb
+Files:
+ afd0cd9d17bfe434c1d8ce71b1b86efa 9102 misc optional ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.buildinfo
+ b81323d385abd65a8cc0802255ab7fe2 40932 misc optional ros-one-hector-nav-msgs_0.5.2-6-gf0f1eb2-2025.12.13.11.48_amd64.deb

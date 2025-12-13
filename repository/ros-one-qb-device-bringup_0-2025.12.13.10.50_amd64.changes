@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-bringup
+Binary: ros-one-qb-device-bringup
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.10.50
+Distribution: bookworm
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-bringup - This package contains a device-independent bringup utilities for
+Changes:
+ ros-one-qb-device-bringup (0-2025.12.13.10.50) bookworm; urgency=high
+Checksums-Sha1:
+ e0242638f0ef026c6fa3b2cd191020f951dd7900 7323 ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.buildinfo
+ 1e995bea55cbfcf2a0fd07f28cc82f083da6cc9e 9752 ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.deb
+Checksums-Sha256:
+ d023072f9ef88494a44b15b6dcb3f48741c088983fa97b579a497fdc9d7b5f40 7323 ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.buildinfo
+ 7f2e13ff955640f40304700b3bc8032e8ceb863957668664586ad0df33b48edf 9752 ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.deb
+Files:
+ 59a9644bd773302599bbf8d055c14c6b 7323 misc optional ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.buildinfo
+ 54211af62bcc3b38352d86f86d04c2f9 9752 misc optional ros-one-qb-device-bringup_0-2025.12.13.10.50_amd64.deb

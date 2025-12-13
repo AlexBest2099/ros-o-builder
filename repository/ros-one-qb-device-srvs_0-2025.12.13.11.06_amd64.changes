@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 07 Jun 2024 00:00:00 -0000
+Source: ros-one-qb-device-srvs
+Binary: ros-one-qb-device-srvs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0-2025.12.13.11.06
+Distribution: bookworm
+Urgency: high
+Maintainer: qb Support Team <support@qbrobotics.com>
+Changed-By: qb Support Team <support@qbrobotics.com>
+Description:
+ ros-one-qb-device-srvs - This package contains the device-independent custom ROS services
+Changes:
+ ros-one-qb-device-srvs (0-2025.12.13.11.06) bookworm; urgency=high
+Checksums-Sha1:
+ c4908a3bd709481ae13976eea6608a5e1ce913c0 8959 ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.buildinfo
+ 529b88ab159f0067a4475708ea56e8bdd4296922 43480 ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.deb
+Checksums-Sha256:
+ da40308999578290a11428fcfb54e2c5ef044409dcbff7c274464c45fab30270 8959 ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.buildinfo
+ b4fdc22c857611e463a45f302c61ac9f85af3737b992aa1f183ea53035c73446 43480 ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.deb
+Files:
+ e76e7502588ace35af55963042d06c24 8959 misc optional ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.buildinfo
+ 28621433543b480ba0922cc34622dace 43480 misc optional ros-one-qb-device-srvs_0-2025.12.13.11.06_amd64.deb

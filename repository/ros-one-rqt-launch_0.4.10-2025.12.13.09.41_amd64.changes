@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-rqt-launch
+Binary: ros-one-rqt-launch
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.10-2025.12.13.09.41
+Distribution: bookworm
+Urgency: high
+Maintainer: Isaac I.Y. Saito <iisaito@kinugarage.com>
+Changed-By: Isaac I.Y. Saito <iisaito@kinugarage.com>
+Description:
+ ros-one-rqt-launch - This rqt plugin ROS package provides easy view of .launch files.
+Changes:
+ ros-one-rqt-launch (0.4.10-2025.12.13.09.41) bookworm; urgency=high
+ .
+   * Improve: Bump cmake_minimum_required to avoid deprecation (#26 <https://github.com/ros-visualization/rqt_launch/issues/26>)
+   * Fix: retire distutils.core (#25 <https://github.com/ros-visualization/rqt_launch/issues/25>)
+Checksums-Sha1:
+ be169e777464f06d78010a303f9966a8de784915 19293 ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.buildinfo
+ 4728909cc6acb410a754066bf64dad5b034b0fb1 28844 ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.deb
+Checksums-Sha256:
+ c4e62f22f4df6fed483000dbf27bfb8f366616c6ae6fcfa52a432b0e66ed50c8 19293 ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.buildinfo
+ 1cf7bf977c5df56985acd0b2a750a2950359f4c568de3e1b46389fc10f233eec 28844 ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.deb
+Files:
+ 4bf903fba09ce07e3c1f3a6af0397c31 19293 misc optional ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.buildinfo
+ 295149c2b93c991c3f3e04846812e66a 28844 misc optional ros-one-rqt-launch_0.4.10-2025.12.13.09.41_amd64.deb

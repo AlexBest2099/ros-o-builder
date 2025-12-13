@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 22 Jun 2021 00:00:00 -0000
+Source: ros-one-rqt-rviz
+Binary: ros-one-rqt-rviz ros-one-rqt-rviz-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.0-1-gdef41cd-2025.12.13.09.58
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-rqt-rviz - rqt_rviz provides a GUI plugin embedding RViz.
+Changes:
+ ros-one-rqt-rviz (0.7.0-1-gdef41cd-2025.12.13.09.58) bookworm; urgency=high
+ .
+   * Fixup catkin_lint issues
+   * Update maintainers
+   * Correctly update window title with context serial no
+   * Notice changes of display config file
+   * Find quit action by name
+   * Suppress rviz splash screen
+   * fix shebang line for python3 (#14 <https://github.com/ros-visualization/rqt_rviz/issues/14>)
+   * Contributors: Mikael Arguedas, Robert Haschke
+Checksums-Sha1:
+ 278a5dc33beff08f30c869b2f22d8a49ddb24555 842852 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb
+ c8db1ee51f79a63a9fe3d53c130c34ea31d8b1e7 28883 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.buildinfo
+ 21127c1db0d630b13b22891e0bdfd32cb2a044e5 38724 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb
+Checksums-Sha256:
+ 7889a6bf6b9b0fd83d612179de54a4c9579e11d44bffca82138cf85abccfe076 842852 ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb
+ b9f3a014ed2d36600fbb6e18e4c385339512aa2328b8e24c5d01a4ce932b8af2 28883 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.buildinfo
+ aaac6489f3c7da9f455f4b31c4a00ac2d7ca50dee6636da87b020e8568f14c1c 38724 ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb
+Files:
+ fa099070603e329baf79cbd4af5107d5 842852 debug optional ros-one-rqt-rviz-dbgsym_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb
+ 1a4fd4ff41f6adb5437c6a479eae3f72 28883 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.buildinfo
+ fc5355cb460191ed161b76b4315e73eb 38724 misc optional ros-one-rqt-rviz_0.7.0-1-gdef41cd-2025.12.13.09.58_amd64.deb

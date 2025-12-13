@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 29 Apr 2025 00:00:00 -0000
+Source: ros-one-imu-complementary-filter
+Binary: ros-one-imu-complementary-filter ros-one-imu-complementary-filter-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.2.7-2025.12.13.10.13
+Distribution: bookworm
+Urgency: high
+Maintainer: Roberto G. Valenti <robertogl.valenti@gmail.com>
+Changed-By: Roberto G. Valenti <robertogl.valenti@gmail.com>
+Description:
+ ros-one-imu-complementary-filter - Filter which fuses angular velocities, accelerations, and (option
+Changes:
+ ros-one-imu-complementary-filter (1.2.7-2025.12.13.10.13) bookworm; urgency=high
+Checksums-Sha1:
+ 9db3c721198c2a925fd0694ae1346f5ab0a0ccd1 1612024 ros-one-imu-complementary-filter-dbgsym_1.2.7-2025.12.13.10.13_amd64.deb
+ 41b1efa832594292db1e0cbbe43196b45ed09b7c 17964 ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.buildinfo
+ 5cac0108f0113ae9d28ca94c272764722d8e4121 108460 ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.deb
+Checksums-Sha256:
+ 81feea2ca5fb69036d87340301089a52fe207feb6debfb934e068776340840f0 1612024 ros-one-imu-complementary-filter-dbgsym_1.2.7-2025.12.13.10.13_amd64.deb
+ 8dea8316cb818667ae59563c74223215b6a92375acffd12ca377181547fed83b 17964 ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.buildinfo
+ 8db1345865ee64cec67212050807521069c802325c018cfbe576ff4bceb6847b 108460 ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.deb
+Files:
+ 3d2d08bb9fa8c95982d247f9b6639ac8 1612024 debug optional ros-one-imu-complementary-filter-dbgsym_1.2.7-2025.12.13.10.13_amd64.deb
+ f7cd182979a7e9b53a302b066e152fee 17964 misc optional ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.buildinfo
+ 0799dc3d20ccb14d550a7a7109924925 108460 misc optional ros-one-imu-complementary-filter_1.2.7-2025.12.13.10.13_amd64.deb

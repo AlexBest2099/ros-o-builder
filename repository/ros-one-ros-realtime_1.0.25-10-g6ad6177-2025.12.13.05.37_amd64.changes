@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 06 Feb 2015 00:00:00 -0000
+Source: ros-one-ros-realtime
+Binary: ros-one-ros-realtime
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.0.25-10-g6ad6177-2025.12.13.05.37
+Distribution: bookworm
+Urgency: high
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Changed-By: Devon Ash <dash@clearpathrobotics.com>
+Description:
+ ros-one-ros-realtime - The ros_realtime package
+Changes:
+ ros-one-ros-realtime (1.0.25-10-g6ad6177-2025.12.13.05.37) bookworm; urgency=high
+Checksums-Sha1:
+ 2dabae85f59d8f1b110f5e53cb86cba4c3cd6143 7366 ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.buildinfo
+ 786eb8da47b28bdc770b7e935aef82579678c4a8 2068 ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.deb
+Checksums-Sha256:
+ 26cff9366bec1248e8aa7fbc541c84bffd28687d1885903a86687a9821167dfa 7366 ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.buildinfo
+ cef3d27e68e6e63af64949dd7f920e75a9d30439d24afadd27f2eb7f978586ee 2068 ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.deb
+Files:
+ dda25a641ba5d0b1b6a9eea22b241fda 7366 misc optional ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.buildinfo
+ 02ad98d361c818458536134f4022e0de 2068 misc optional ros-one-ros-realtime_1.0.25-10-g6ad6177-2025.12.13.05.37_amd64.deb

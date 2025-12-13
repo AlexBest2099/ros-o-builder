@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 17 Oct 2022 00:00:00 -0000
+Source: ros-one-image-rotate
+Binary: ros-one-image-rotate ros-one-image-rotate-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.17.0-11-g69488e6-2025.12.13.07.41
+Distribution: bookworm
+Urgency: high
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Changed-By: Vincent Rabaud <vincent.rabaud@gmail.com>
+Description:
+ ros-one-image-rotate - Contains a node that rotates an image stream in a way that minimi
+Changes:
+ ros-one-image-rotate (1.17.0-11-g69488e6-2025.12.13.07.41) bookworm; urgency=high
+ .
+   * Switch to hpp headers of pluginlib
+   * Fix tf2 dependency for image_rotate
+   * Switch to new boost/bind/bind.hpp
+   * Contributors: Jochen Sprickerhof, Timo Röhling
+Checksums-Sha1:
+ b4ebd5b279845ed2117e0b10635dc29b5d4016ce 1349792 ros-one-image-rotate-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb
+ 43b527d62b4144a61bd69be2fbb9a710f05ee4a5 30109 ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.buildinfo
+ 371022071b23f5387c053f2fc617b71a5b1ac593 96816 ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb
+Checksums-Sha256:
+ 695d56a1b2ca272e4cb6873a516820546218f7b5764736b24115b206ddd319e5 1349792 ros-one-image-rotate-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb
+ a3e42f6d55c6fb91484aad85ff31e09182f705b96dbe220497f32d112faf74f8 30109 ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.buildinfo
+ 3fa7badb78f61ad69ee39b7d1e83e0150ce7597e4f9a728ebb5fe43c856fbfa3 96816 ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb
+Files:
+ 362a53e3a2e8de833c95935c7eccf5ce 1349792 debug optional ros-one-image-rotate-dbgsym_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb
+ 4b82366c1387e417fc58b2b6be13ff10 30109 misc optional ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.buildinfo
+ 94685128b9079a4e091198d0b6683498 96816 misc optional ros-one-image-rotate_1.17.0-11-g69488e6-2025.12.13.07.41_amd64.deb

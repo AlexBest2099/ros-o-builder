@@ -1,0 +1,14 @@
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./opt/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./opt/ros/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./opt/ros/one/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./opt/ros/one/share/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./opt/ros/one/share/intera_sdk/
+-rw-r--r-- root/root       822 2025-12-13 09:25 ./opt/ros/one/share/intera_sdk/package.xml
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./usr/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./usr/share/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./usr/share/doc/
+drwxr-xr-x root/root         0 2025-12-13 10:25 ./usr/share/doc/ros-one-intera-sdk/
+-rw-r--r-- root/root       318 2025-12-13 10:25 ./usr/share/doc/ros-one-intera-sdk/changelog.Debian.gz
+-rw-r--r-- root/root       135 2025-12-13 09:25 ./usr/share/doc/ros-one-intera-sdk/changelog.gz
+-rw-r--r-- root/root       411 2025-12-13 10:25 ./usr/share/doc/ros-one-intera-sdk/copyright

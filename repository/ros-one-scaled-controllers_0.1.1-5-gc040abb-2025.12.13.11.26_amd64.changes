@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 15 Jun 2021 00:00:00 -0000
+Source: ros-one-scaled-controllers
+Binary: ros-one-scaled-controllers
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.1.1-5-gc040abb-2025.12.13.11.26
+Distribution: bookworm
+Urgency: high
+Maintainer: Felix Exner <exner@fzi.de>
+Changed-By: Felix Exner <exner@fzi.de>
+Description:
+ ros-one-scaled-controllers - scaled controllers metapackage
+Changes:
+ ros-one-scaled-controllers (0.1.1-5-gc040abb-2025.12.13.11.26) bookworm; urgency=high
+Checksums-Sha1:
+ f5b986a74d92b5b851684ef1fba7fb2990c2d4ca 7388 ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.buildinfo
+ 0059bc8ef2f6facf10ca03ab530d0d461065a1d7 2144 ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.deb
+Checksums-Sha256:
+ c0d401b0587ab23b8ac388a5082905bea90e53bd95dba1c3c5726754fe8f1b69 7388 ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.buildinfo
+ 970261e3fc7c6ded1d82a0bea22367b17c4f7f5a1598fc66e0b72ab6f8607855 2144 ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.deb
+Files:
+ c5c54ac38d044bd58ef60fa4db36b305 7388 misc optional ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.buildinfo
+ 7041674bb4daf392f604ca7b8fc253fc 2144 misc optional ros-one-scaled-controllers_0.1.1-5-gc040abb-2025.12.13.11.26_amd64.deb

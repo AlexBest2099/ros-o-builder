@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 09 May 2025 00:00:00 -0000
+Source: ros-one-nodelet-topic-tools
+Binary: ros-one-nodelet-topic-tools
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.11.2-1-g5ed9cab-2025.12.13.06.21
+Distribution: bookworm
+Urgency: high
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Changed-By: Geoffrey Biggs <geoff@openrobotics.org>
+Description:
+ ros-one-nodelet-topic-tools - This package contains common nodelet tools such as a mux, demux a
+Changes:
+ ros-one-nodelet-topic-tools (1.11.2-1-g5ed9cab-2025.12.13.06.21) bookworm; urgency=high
+Checksums-Sha1:
+ 7fa72f00700d7a924e42a54dd17735e8ba64fd57 14017 ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.buildinfo
+ a95821b81261344d63e5eaef6f2a022756f458a9 17204 ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.deb
+Checksums-Sha256:
+ d4420d5c2363f85e515892de3530ee44745623640f4a24618aff148124f77999 14017 ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.buildinfo
+ b65c1e701ccfaeacd7a618cdae0473590cb905d720fbb3cce9dd8ed3e985f8f8 17204 ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.deb
+Files:
+ 2aaa2d5f55dbff7903c2726b34c75655 14017 misc optional ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.buildinfo
+ 2971362f42b787eb5cc6dbb4193291c0 17204 misc optional ros-one-nodelet-topic-tools_1.11.2-1-g5ed9cab-2025.12.13.06.21_amd64.deb

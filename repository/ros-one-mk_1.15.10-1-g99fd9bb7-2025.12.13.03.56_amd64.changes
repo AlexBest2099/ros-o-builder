@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sat, 26 Apr 2025 00:00:00 -0000
+Source: ros-one-mk
+Binary: ros-one-mk
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.10-1-g99fd9bb7-2025.12.13.03.56
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-mk - A collection of .mk include files for building ROS architectural
+Changes:
+ ros-one-mk (1.15.10-1-g99fd9bb7-2025.12.13.03.56) bookworm; urgency=high
+Checksums-Sha1:
+ b48795df30d946a3b40523ccdf127d4ad28e19bf 7323 ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.buildinfo
+ 72419fe337acad0ffb903aba2cfea2d0f657393a 10724 ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.deb
+Checksums-Sha256:
+ b218190aca214821e718c835d8001cd74a29a7c4a25344fd894677733f67c6fd 7323 ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.buildinfo
+ ec6ea7a61315bc3624378b35ec6bb11433ce36b1e33bd291c2d2dd39f32ac11d 10724 ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.deb
+Files:
+ 1322168be815b2347c71a8c5a8da3744 7323 misc optional ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.buildinfo
+ 79cf3ed5742a68f036b3beaa3531b5d3 10724 misc optional ros-one-mk_1.15.10-1-g99fd9bb7-2025.12.13.03.56_amd64.deb

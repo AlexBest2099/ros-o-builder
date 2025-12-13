@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 06 Jan 2023 00:00:00 -0000
+Source: ros-one-flir-camera-driver
+Binary: ros-one-flir-camera-driver
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.2.5-1-gfe5cb56-2025.12.13.09.57
+Distribution: bookworm
+Urgency: high
+Maintainer: Michael Hosmar <mhosmar@clearpathrobotics.com>
+Changed-By: Michael Hosmar <mhosmar@clearpathrobotics.com>
+Description:
+ ros-one-flir-camera-driver - A set of drivers for Flir cameras based on the Spinnaker SDK.
+Changes:
+ ros-one-flir-camera-driver (0.2.5-1-gfe5cb56-2025.12.13.09.57) bookworm; urgency=high
+Checksums-Sha1:
+ beb970bc12242b8e778751b697c23d859a94280c 7388 ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.buildinfo
+ 92ec4f213380e5c85095d3d9b6ade99320e4e448 2392 ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.deb
+Checksums-Sha256:
+ 8cf7035ed199d129e5f9f956833494d23bc49012ee10035c79019334672340f6 7388 ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.buildinfo
+ 22fe5437bd1852db9e4361f2a8e46ab3ca3068daa577ef643a640d053f792ad6 2392 ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.deb
+Files:
+ 7393b9013cd7cd805aaacf182166f513 7388 misc optional ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.buildinfo
+ 83861ef594c0e903c68113106ff4c32d 2392 misc optional ros-one-flir-camera-driver_0.2.5-1-gfe5cb56-2025.12.13.09.57_amd64.deb

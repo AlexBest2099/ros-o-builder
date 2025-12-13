@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-test-tf2
+Binary: ros-one-test-tf2
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.7.5-33-g2d0e6c8-2025.12.13.06.19
+Distribution: bookworm
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-test-tf2 - tf2 unit tests
+Changes:
+ ros-one-test-tf2 (0.7.5-33-g2d0e6c8-2025.12.13.06.19) bookworm; urgency=high
+Checksums-Sha1:
+ 8674c2b2aa720c8f0b82839d429a1ecf9ac9a85b 12808 ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.buildinfo
+ 0d838ff2d8fc45c3828153672fd7bafb507e845b 9884 ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.deb
+Checksums-Sha256:
+ 9456fed2a80ecfeb40d5f952df96d61e35f2791c828286868f6f8ad6e834f106 12808 ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.buildinfo
+ 5c68244cf6a8f9ff442c4cc3d387163ec308bdf8efc53692899b668c776848a6 9884 ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.deb
+Files:
+ 9a055ec7440237e692fc9dbdd3c9b97d 12808 misc optional ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.buildinfo
+ 7df9cbc86de5d06f45f872703e3c0722 9884 misc optional ros-one-test-tf2_0.7.5-33-g2d0e6c8-2025.12.13.06.19_amd64.deb

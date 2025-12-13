@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 19 Aug 2025 00:00:00 -0000
+Source: ros-one-xacro
+Binary: ros-one-xacro
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.15.0-1-g3d061ea-2025.12.13.05.47
+Distribution: bookworm
+Urgency: high
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Changed-By: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Description:
+ ros-one-xacro - Xacro (XML Macros) Xacro is an XML macro language.
+Changes:
+ ros-one-xacro (1.15.0-1-g3d061ea-2025.12.13.05.47) bookworm; urgency=high
+ .
+   * Resolve macro arguments within caller's scope (#373 <https://github.com/ros/xacro/issues/373>)
+   * Remove consecutive dashes in the input file name (#372 <https://github.com/ros/xacro/issues/372>)
+   * Expose bool() in global and python namespace (#371 <https://github.com/ros/xacro/issues/371>)
+   * Contributors: Jasper van Brakel, Robert Haschke
+Checksums-Sha1:
+ 751fa50edbc9373b2612b3e06dc1358dbd0b97d8 7387 ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.buildinfo
+ 57d69a566cfed6046db6a7e489c90f7e79f3736a 63392 ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.deb
+Checksums-Sha256:
+ 7fd6702e4a6f00759ddf6a5ad33f773771ea9acb5aa11935afb61288369990db 7387 ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.buildinfo
+ 5941a54540c12b3d66b69158e55ab4719d5992def19fa905796bb5b62ebdc8a9 63392 ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.deb
+Files:
+ 8e33e189b5f8c7c00550e4d1c28a3297 7387 misc optional ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.buildinfo
+ 1d6d7b128ed74c4facdf52abd0f24270 63392 misc optional ros-one-xacro_1.15.0-1-g3d061ea-2025.12.13.05.47_amd64.deb

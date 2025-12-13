@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 29 Aug 2024 00:00:00 -0000
+Source: ros-one-robot-localization
+Binary: ros-one-robot-localization ros-one-robot-localization-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 2.7.7-1-g9ef26a5-2025.12.13.08.14
+Distribution: bookworm
+Urgency: high
+Maintainer: Tom Moore <ayrton04@gmail.com>
+Changed-By: Tom Moore <ayrton04@gmail.com>
+Description:
+ ros-one-robot-localization - Provides nonlinear state estimation through sensor fusion of an a
+Changes:
+ ros-one-robot-localization (2.7.7-1-g9ef26a5-2025.12.13.08.14) bookworm; urgency=high
+ .
+   * Remove the diagnostic warning about multiple pose sources (#888 <https://github.com/cra-ros-pkg/robot_localization/issues/888>)
+   * Contributors: Stephen Williams
+Checksums-Sha1:
+ 67dddbde7cffeb94b32c2c59c40c24736109dfeb 17228280 ros-one-robot-localization-dbgsym_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb
+ 46d444a42ae77e2074f3a8c6662b2aef7945b9e0 15499 ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.buildinfo
+ 600f223d5ae43c625072c9961017e6e1bd5ceb11 531284 ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb
+Checksums-Sha256:
+ cbc37e26e81f5690de30d0a5bcb0250a95779e8b1a6abcda853fe8dd2a11d5b1 17228280 ros-one-robot-localization-dbgsym_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb
+ 73108cbc93322f441eec57f3f876a28e9cf65c4ddaff7d95d7dfcd6bccc6348f 15499 ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.buildinfo
+ a020f77b8e7b2e0ce7bd7f76357aea66dd6bf40018fc4ec80f1b177b220e8559 531284 ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb
+Files:
+ 8897850b612a3f4cdad5e0c0ae8da002 17228280 debug optional ros-one-robot-localization-dbgsym_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb
+ 3c8826fdf187b9f02b10af72cc37e02a 15499 misc optional ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.buildinfo
+ 9a17660b7aa4f221b23d0415ef8fbb81 531284 misc optional ros-one-robot-localization_2.7.7-1-g9ef26a5-2025.12.13.08.14_amd64.deb

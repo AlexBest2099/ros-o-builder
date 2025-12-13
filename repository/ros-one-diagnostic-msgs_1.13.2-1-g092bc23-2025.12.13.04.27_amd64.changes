@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 25 Apr 2025 00:00:00 -0000
+Source: ros-one-diagnostic-msgs
+Binary: ros-one-diagnostic-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 1.13.2-1-g092bc23-2025.12.13.04.27
+Distribution: bookworm
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-diagnostic-msgs - This package holds the diagnostic messages which provide the stan
+Changes:
+ ros-one-diagnostic-msgs (1.13.2-1-g092bc23-2025.12.13.04.27) bookworm; urgency=high
+Checksums-Sha1:
+ 755c99079d18756c5f4ab9cd4a53a9e15c63d47b 8921 ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.buildinfo
+ b5a4db5b5c0e8a65d3537f89cffdde5cd73a6570 36400 ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.deb
+Checksums-Sha256:
+ 592a16f632395f2cdbc7a0e0e17a202a11f6061b43879496b741c6b27e4ab52a 8921 ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.buildinfo
+ 3403ed420ffd0549f7447391bfe9cd8dc661e1f0850fef79db3463929ea97a77 36400 ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.deb
+Files:
+ e46452bf4b4e84bbe1b58973dd7baed6 8921 misc optional ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.buildinfo
+ 84f565b5ec661fa42fd88fe0406711a9 36400 misc optional ros-one-diagnostic-msgs_1.13.2-1-g092bc23-2025.12.13.04.27_amd64.deb

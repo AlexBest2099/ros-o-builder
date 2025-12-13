@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 08 Apr 2021 00:00:00 -0000
+Source: ros-one-hector-imu-tools
+Binary: ros-one-hector-imu-tools ros-one-hector-imu-tools-dbgsym
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.5.2-6-gf0f1eb2-2025.12.13.11.24
+Distribution: bookworm
+Urgency: high
+Maintainer: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Changed-By: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+Description:
+ ros-one-hector-imu-tools - hector_imu_tools provides some tools for processing IMU messages
+Changes:
+ ros-one-hector-imu-tools (0.5.2-6-gf0f1eb2-2025.12.13.11.24) bookworm; urgency=high
+Checksums-Sha1:
+ 0f9cca9e020312a098a8b6c7e5db74f37021f6e3 496780 ros-one-hector-imu-tools-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb
+ c7c4150adb6f37f7760b7e13f429ca71cf8f02b1 17738 ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.buildinfo
+ a718d97a850ac2464630421ff0c1b853d389e982 41156 ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb
+Checksums-Sha256:
+ 4bbeeff7707326cac4aa039726d6d678f1dabf6cf18ebad41f802bc406057326 496780 ros-one-hector-imu-tools-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb
+ d5a9b92b91dddb78671c3e9a004b057f7b8b827d98c1eebff357178d618078f7 17738 ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.buildinfo
+ a1f61f73a122b86bb9c9065d2495a6123b02f4ba1aa5701fb50e35497aceef2b 41156 ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb
+Files:
+ 332e08b5c4b9d36071606ed6ca25ea50 496780 debug optional ros-one-hector-imu-tools-dbgsym_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb
+ 6c15ee0a8a88ba35cb8b1a4070e266e7 17738 misc optional ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.buildinfo
+ 6e91b74ba312e32e2d3ca33fd5265686 41156 misc optional ros-one-hector-imu-tools_0.5.2-6-gf0f1eb2-2025.12.13.11.24_amd64.deb

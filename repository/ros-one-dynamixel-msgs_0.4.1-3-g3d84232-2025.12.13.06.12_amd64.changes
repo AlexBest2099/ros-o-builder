@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 19 Jan 2017 00:00:00 -0000
+Source: ros-one-dynamixel-msgs
+Binary: ros-one-dynamixel-msgs
+Built-For-Profiles: nocheck
+Architecture: amd64
+Version: 0.4.1-3-g3d84232-2025.12.13.06.12
+Distribution: bookworm
+Urgency: high
+Maintainer: Antons Rebguns <arebgun@gmail.com>
+Changed-By: Antons Rebguns <arebgun@gmail.com>
+Description:
+ ros-one-dynamixel-msgs - Common messages used throughout dynamixel_motor stack.
+Changes:
+ ros-one-dynamixel-msgs (0.4.1-3-g3d84232-2025.12.13.06.12) bookworm; urgency=high
+Checksums-Sha1:
+ df27b70b8c81dda1ad5a04ba41c61c7e01271fac 8912 ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.buildinfo
+ 1ec0647f52512242d6e91716f165734428e1186d 26248 ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.deb
+Checksums-Sha256:
+ b5171f721bed8606fd15b0bcacac8806dd9f53ae9018f6766f1487b7eecdec21 8912 ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.buildinfo
+ a96186ac041a22a55cd33dcc7b19f2636a6f225bd641aaca934c1da8bbd33119 26248 ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.deb
+Files:
+ eab667bccd9cbdc214553a01ad7df5bb 8912 misc optional ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.buildinfo
+ e78311f5346d2c804e1cd525e0fda1fd 26248 misc optional ros-one-dynamixel-msgs_0.4.1-3-g3d84232-2025.12.13.06.12_amd64.deb
